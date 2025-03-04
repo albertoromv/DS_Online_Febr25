@@ -1,0 +1,1201 @@
+Id_vuelo,Aircompany,Origen,Destino,Distancia,avion,con_escala,consumo_kg,duracion,ingresos
+Air_PaGi_10737,Airnar,París,Ginebra,411,Boeing 737,False,1028.6919,51,14232.65
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,33479.13254400001,1167,468527.19
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103,Airbus A380,False,109439.9072,626,584789.19
+Mol_PaCi_10737,MoldaviAir,París,Cincinnati,6370,Boeing 737,False,17027.01,503,233342.51
+Tab_CiRo_10747,TabarAir,Cincinnati,Roma,7480,Boeing 747,False,86115.744,518,438535.07
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029,Boeing 737,True,53148.15324000001,1721,728045.68
+Mol_PaLo_11320,MoldaviAir,París,Londres,344,Airbus A320,False,915.2464,44,13805.52
+Pam_PaMe_11380,PamPangea,París,Melbourne,16925,Airbus A380,True,217722.6584,1328,1056735.47
+Pam_NuBa_10737,PamPangea,Nueva York,Bali,16589,Boeing 737,True,45277.61846400001,1459,600836.96
+Air_GiCa_11380,Airnar,Ginebra,Cádiz,1725,Airbus A380,False,20339.82,135,110108.07
+Tab_LoCi_10737,TabarAir,Los Angeles,Cincinnati,3073,Boeing 737,False,7915.433400000001,253,111056.67
+Mol_LoBa_11380,MoldaviAir,Londres,Bali,12553,Airbus A380,False,156721.6944,856,764998.83
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073,Boeing 747,False,32758.18,224,184079.01
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739,Airbus A380,False,8542.84,69,46200.3
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480,Airbus A320,True,21087.85536,662,299451.12
+Tab_RoLo_10747,TabarAir,Roma,Los Angeles,10077,Boeing 747,False,109569.2364,691,619222.23
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,20029,Boeing 737,True,51629.634576,1721,719577.55
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103,Boeing 747,False,104801.0184,626,518685.45
+Pam_MePa_10737,PamPangea,Melbourne,París,16925,Boeing 737,True,46622.41740000001,1485,584677.98
+Pam_GiNu_11320,PamPangea,Ginebra,Nueva York,6206,Airbus A320,True,16200.1424,569,245091.83
+Mol_CaBa_10747,MoldaviAir,Cádiz,Bali,12798,Boeing 747,True,156072.12192,1053,761363.24
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383,Airbus A380,False,146010.4296,845,799063.9
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553,Boeing 737,True,33310.13868,1153,458825.79
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798,Boeing 737,True,35577.41616000001,1171,432558.22
+Tab_LoRo_10747,TabarAir,Londres,Roma,1433,Boeing 747,False,16803.358,115,84592.95
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073,Boeing 747,False,33740.9254,224,174029.84
+Pam_MeBa_10737,PamPangea,Melbourne,Bali,2779,Boeing 737,False,7158.148200000001,231,94840.33
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011,Boeing 737,True,39073.873176,1340,515892.83
+Mol_LoPa_10747,MoldaviAir,Londres,París,344,Boeing 747,False,3813.7216,42,19403.07
+Tab_GiRo_11320,TabarAir,Ginebra,Roma,698,Airbus A320,False,1751.98,70,27807.76
+Mol_CaBa_10737,MoldaviAir,Cádiz,Bali,12798,Boeing 737,True,33960.26088000001,1171,459544.98
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383,Airbus A380,False,144578.9548,845,776778.69
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480,Airbus A320,True,20892.59744,662,303500.86
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877,Airbus A320,True,18131.238008,618,273824.24
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,192980.9648,1326,961592.79
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785,Airbus A320,True,24078.9822,756,340318.62
+Fly_GiCi_10737,FlyQ,Ginebra,Cincinnati,6969,Boeing 737,False,18289.4436,549,235350.43
+Mol_BaMe_11320,MoldaviAir,Bali,Melbourne,2779,Airbus A320,False,7114.795799999999,221,110651.71
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103,Boeing 747,False,106741.778,626,535047.82
+Pam_MeGi_11380,PamPangea,Melbourne,Ginebra,16674,Airbus A380,True,220507.64736,1311,1007717.74
+Fly_GiRo_10737,FlyQ,Ginebra,Roma,698,Boeing 737,False,1763.9856,73,25642.94
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383,Boeing 737,True,31607.26077600001,1140,417965.59
+Mol_LoPa_11320,MoldaviAir,Londres,París,344,Airbus A320,False,915.2464,44,12931.45
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,660,Airbus A320,False,1822.26,67,26022.75
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077,Airbus A320,True,27357.200832,850,389542.92
+Air_CiPa_10747,Airnar,Cincinnati,París,6370,Boeing 747,False,68583.242,444,373712.28
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082,Boeing 747,True,183640.229344,1272,961816.87
+Pam_NuPa_11380,PamPangea,Nueva York,París,5835,Airbus A380,False,72174.282,409,374974.66
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589,Airbus A380,True,199439.5936,1305,999228.04
+Mol_CaBa_10737,MoldaviAir,Cádiz,Bali,12798,Boeing 737,True,34607.12299200001,1171,447197.79
+Mol_CaBa_10747,MoldaviAir,Cádiz,Bali,12798,Boeing 747,True,153234.446976,1053,763146.89
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370,Airbus A380,False,78055.432,444,386788.68
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,9103,Airbus A320,True,24475.345336,779,365564.22
+Pam_PaGi_11380,PamPangea,París,Ginebra,411,Airbus A380,False,5083.7412,47,27170.99
+Tab_LoNu_11380,TabarAir,Londres,Nueva York,5566,Airbus A380,False,70133.8264,391,355495.16
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859,Boeing 747,False,9797.9258,77,53023.53
+Air_GiCi_11320,Airnar,Ginebra,Cincinnati,6969,Airbus A320,True,18191.8776,624,270150.73
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589,Boeing 747,True,191268.781184,1305,953521.27
+Tab_RoNu_10737,TabarAir,Roma,Nueva York,6877,Boeing 737,False,18382.221,542,248170.66
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480,Airbus A380,False,89062.864,518,481741.1
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011,Airbus A380,True,189491.65872,1200,937528.57
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073,Boeing 747,False,35378.8344,224,182534.23
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082,Boeing 747,True,180074.399648,1272,963732.34
+Tab_LoGi_11320,TabarAir,Londres,Ginebra,739,Airbus A320,False,1854.89,73,28976.53
+Tab_GiNu_11380,TabarAir,Ginebra,Nueva York,6206,Airbus A380,False,75328.428,433,403373.01
+Mol_LoCi_10747,MoldaviAir,Londres,Cincinnati,6284,Boeing 747,False,70336.812,438,364925.44
+Air_CiCa_10747,Airnar,Cincinnati,Cádiz,6624,Boeing 747,False,77673.024,461,406616.7
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624,Airbus A320,True,18155.85408,600,253091.84
+Air_BaGi_10747,Airnar,Bali,Ginebra,12383,Boeing 747,False,138602.919,845,743737.84
+Air_CaLo_11320,Airnar,Cádiz,Los Angeles,9373,Airbus A320,True,25445.970368,799,375988.83
+Fly_RoCi_11380,FlyQ,Roma,Cincinnati,7480,Airbus A380,False,90792.24,518,461132.41
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480,Airbus A380,False,88198.176,518,490784.1
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011,Airbus A380,True,191296.341184,1200,958617.02
+Fly_CiGi_11320,FlyQ,Cincinnati,Ginebra,6969,Airbus A320,True,18555.715152,624,278084.62
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,148101.00032,1056,763153.18
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262,Airbus A380,True,183485.8688,1217,1006425.52
+Air_CiPa_11380,Airnar,Cincinnati,París,6370,Airbus A380,False,81000.92,444,385380.29
+Mol_PaLo_10747,MoldaviAir,París,Londres,344,Boeing 747,False,3850.392,42,20473.71
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738,Boeing 747,True,149691.676992,1049,761154.21
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,9140.838800000001,69,48060.89
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845,Airbus A380,False,163337.02,876,770994.1
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980,Airbus A380,False,149567.904,818,786396.13
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011,Boeing 747,True,178067.206928,1200,910278.42
+Tab_RoNu_11320,TabarAir,Roma,Nueva York,6877,Airbus A320,True,18131.238008,618,279534.74
+Tab_GiRo_11380,TabarAir,Ginebra,Roma,698,Airbus A380,False,8068.88,66,45881.01
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,169547.579136,1070,843417.83
+Fly_GiRo_10747,FlyQ,Ginebra,Roma,698,Boeing 747,False,8110.341200000001,66,40315.51
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103,Airbus A380,False,112596.8276,626,563483.26
+Tab_CiLo_11320,TabarAir,Cincinnati,Los Angeles,3073,Airbus A320,False,8098.8915,242,116462.81
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,34068.5072,224,188281.64
+Air_PaCa_10747,Airnar,París,Cádiz,1447,Boeing 747,False,16504.7714,116,86382.34
+Pam_GiLo_11320,PamPangea,Ginebra,Londres,739,Airbus A320,False,2003.2812,73,29144.66
+Tab_CiRo_11380,TabarAir,Cincinnati,Roma,7480,Airbus A380,False,87333.488,518,480168.35
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,660,Airbus A320,False,1805.694,67,27132.08
+Tab_LoGi_11320,TabarAir,Los Angeles,Ginebra,9103,Airbus A320,True,26138.71832,779,346038.61
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553,Boeing 747,False,137829.4294,856,772668.24
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798,Boeing 747,True,141883.7472,1053,736530.54
+Air_PaCa_11320,Airnar,París,Cádiz,1447,Airbus A320,False,3922.5276,124,58349.67
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103,Airbus A380,False,108387.6004,626,596722.74
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011,Boeing 737,True,37935.7992,1340,544087.81
+Tab_LoRo_11380,TabarAir,Londres,Roma,1433,Airbus A380,False,16731.1348,115,92166.24
+Fly_GiBa_10747,FlyQ,Ginebra,Barcelona,660,Boeing 747,False,7246.668000000001,64,39176.01
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,87710.48000000001,518,442722.98
+Fly_NuCi_11320,FlyQ,Nueva York,Cincinnati,911,Airbus A320,False,2286.61,86,37073.88
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,41270.03524800001,1359,532426.22
+Mol_CaLo_11380,MoldaviAir,Cádiz,Londres,1716,Airbus A380,False,20432.0688,134,107529.92
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383,Boeing 737,True,32859.03348000001,1140,435383.65
+Air_LoCa_10747,Airnar,Los Angeles,Cádiz,9373,Boeing 747,False,102913.6654,644,558916.7
+Mol_BaMe_11380,MoldaviAir,Bali,Melbourne,2779,Airbus A380,False,33731.502,205,178872.9
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,33157.21780800001,1167,434090.32
+Pam_NuLo_11380,PamPangea,Nueva York,Londres,5566,Airbus A380,False,68203.53760000001,391,339708.1
+Mol_MePa_10747,MoldaviAir,Melbourne,París,16925,Boeing 747,True,198895.5592,1328,1040203.31
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,76518.2262,484,423323.89
+Air_GiLo_10737,Airnar,Ginebra,Los Angeles,9103,Boeing 737,False,22562.6958,711,319317.4
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073,Boeing 747,False,36033.998,224,176237.47
+Pam_BaPa_10747,PamPangea,Bali,París,11980,Boeing 747,False,132815.072,818,689854.62
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566,Boeing 737,False,13660.6338,442,199978.27
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011,Boeing 737,True,40591.30514400001,1340,508746.33
+Pam_BaMe_11320,PamPangea,Bali,Melbourne,2779,Airbus A320,False,7533.3132,221,113935.54
+Pam_LoGi_10737,PamPangea,Londres,Ginebra,739,Boeing 737,False,1849.6431,76,25300.79
+Tab_NuCi_11380,TabarAir,Nueva York,Cincinnati,911,Airbus A380,False,10636.4716,80,55122.45
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785,Airbus A380,False,108663.422,605,527460.26
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589,Boeing 747,True,185751.412496,1305,1005296.14
+Mol_CaPa_11380,MoldaviAir,Cádiz,París,1447,Airbus A380,False,18400.052,116,91217.9
+Fly_GiBa_10747,FlyQ,Ginebra,Bali,12383,Boeing 747,False,137282.8912,845,753226.68
+Air_CaLo_11380,Airnar,Cádiz,Los Angeles,9373,Airbus A380,False,111602.4364,644,566093.15
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,660,Airbus A320,False,1689.732,67,25309.54
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553,Boeing 747,False,133814.98,856,737511.61
+Tab_RoGi_10747,TabarAir,Roma,Ginebra,698,Boeing 747,False,8035.934400000001,66,42073.88
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589,Boeing 737,True,43181.43242400001,1459,613754.55
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980,Boeing 747,False,134092.14,818,737139.73
+Air_CiPa_10737,Airnar,Cincinnati,París,6370,Boeing 737,False,17027.01,503,232331.04
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,149525.0484,1056,738241.39
+Pam_NuPa_10737,PamPangea,Nueva York,París,5835,Boeing 737,False,14179.05,463,203192.72
+Tab_RoLo_11320,TabarAir,Roma,Los Angeles,10077,Airbus A320,True,27357.200832,850,398312.87
+Mol_MeBa_10747,MoldaviAir,Melbourne,Bali,2779,Boeing 747,False,31697.8298,205,168431.23
+Fly_CiNu_10747,FlyQ,Cincinnati,Nueva York,911,Boeing 747,False,10585.2734,80,51984.47
+Tab_RoLo_11380,TabarAir,Roma,Los Angeles,10077,Airbus A380,False,119984.8236,691,614848.04
+Fly_CiGi_11320,FlyQ,Cincinnati,Ginebra,6969,Airbus A320,True,19283.390256,624,279409.02
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,20029,Boeing 737,True,51629.634576,1721,709663.9
+Air_PaGi_11380,Airnar,París,Ginebra,411,Airbus A380,False,5083.7412,47,26921.99
+Pam_PaBa_11380,PamPangea,París,Bali,11980,Airbus A380,False,148183.016,818,726544.74
+Pam_NuBa_11380,PamPangea,Nueva York,Bali,16589,Airbus A380,True,205422.781408,1305,1076927.04
+Fly_GiBa_10747,FlyQ,Ginebra,Bali,12383,Boeing 747,False,141242.9746,845,699278.57
+Air_LoBa_11380,Airnar,Los Angeles,Bali,12845,Airbus A380,False,154427.728,876,784272.16
+Pam_MePa_10737,PamPangea,Melbourne,París,16925,Boeing 737,True,44911.503,1485,616569.14
+Tab_CiLo_11320,TabarAir,Cincinnati,Los Angeles,3073,Airbus A320,False,8253.1561,242,118739.55
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206,Boeing 737,False,15231.3858,491,213893.2
+Mol_CaPa_11320,MoldaviAir,Cádiz,París,1447,Airbus A320,False,3995.167,124,57539.57
+Air_CiPa_10747,Airnar,Cincinnati,París,6370,Boeing 747,False,74694.62000000001,444,391639.16
+Pam_LoPa_10747,PamPangea,Londres,París,344,Boeing 747,False,3740.3808,42,20965.83
+Tab_CiGi_11380,TabarAir,Cincinnati,Ginebra,6969,Airbus A380,False,80561.64,484,435471.46
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969,Boeing 737,False,17781.4035,549,238034.31
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077,Boeing 747,False,111717.6528,691,623089.41
+Tab_NuRo_10737,TabarAir,Nueva York,Roma,6877,Boeing 737,False,17379.5544,542,240972.01
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206,Boeing 747,False,69463.75800000002,433,371487.2
+Mol_CiCa_10747,MoldaviAir,Cincinnati,Cádiz,6624,Boeing 747,False,76966.9056,461,379676.02
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,83723.64,518,430715.06
+Air_LoCi_11320,Airnar,Los Angeles,Cincinnati,3073,Airbus A320,False,8330.2884,242,117587.87
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877,Airbus A320,True,19028.824048,618,277928.68
+Pam_GiPa_10747,PamPangea,Ginebra,París,411,Boeing 747,False,4775.5734,47,23372.28
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433,Boeing 747,False,16345.0846,115,82105.96
+Tab_LoCi_11320,TabarAir,Los Angeles,Cincinnati,3073,Airbus A320,False,8176.0238,242,118656.28
+Tab_NuLo_10747,TabarAir,Nueva York,Los Angeles,3944,Boeing 747,False,42463.4704,282,227189.58
+Tab_NuCi_10747,TabarAir,Nueva York,Cincinnati,911,Boeing 747,False,10196.823,80,53019.72
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,3944,Airbus A320,False,10790.3896,305,159835.37
+Pam_BaPa_11380,PamPangea,Bali,París,11980,Airbus A380,False,150952.792,818,747176.52
+Pam_GiMe_10747,PamPangea,Ginebra,Melbourne,16674,Boeing 747,True,194097.36528,1311,940192.56
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877,Boeing 747,False,74041.9082,478,403437.73
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698,Boeing 737,False,1747.0242,73,24339.59
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103,Boeing 737,False,22120.29,711,331029.59
+Pam_LoBa_10737,PamPangea,Londres,Bali,12553,Boeing 737,True,32992.899264,1153,461570.18
+Fly_GiNu_11320,FlyQ,Ginebra,Nueva York,6206,Airbus A320,True,17010.14952,569,251019.75
+Fly_NuBa_10747,FlyQ,Nueva York,Bali,16589,Boeing 747,True,194947.026976,1305,941485.73
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206,Airbus A380,False,76763.2552,433,376024.98
+Air_GiLo_10737,Airnar,Ginebra,Los Angeles,9103,Boeing 737,False,23889.9132,711,326405.35
+Fly_NuRo_11320,FlyQ,Nueva York,Roma,6877,Airbus A320,True,18490.272424,618,265041.5
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739,Boeing 737,False,1885.5585,76,26971.64
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206,Airbus A380,False,73176.1872,433,379321.71
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,14472.1566,442,196377.75
+Mol_BaCa_11380,MoldaviAir,Bali,Cádiz,12798,Airbus A380,False,156821.5728,873,775561.08
+Mol_CiCa_11380,MoldaviAir,Cincinnati,Cádiz,6624,Airbus A380,False,79636.3776,461,399927.63
+Pam_BaLo_11380,PamPangea,Bali,Londres,12553,Airbus A380,False,146563.8068,856,754703.0
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170,Boeing 747,False,71033.976,431,366565.91
+Mol_LoMe_11380,MoldaviAir,Londres,Melbourne,16900,Airbus A380,True,213337.488,1326,1092709.68
+Pam_NuGi_11320,PamPangea,Nueva York,Ginebra,6206,Airbus A320,True,17334.152368,569,248754.34
+Fly_RoCi_10747,FlyQ,Roma,Cincinnati,7480,Boeing 747,False,79736.8,518,423347.48
+Air_PaCa_11380,Airnar,París,Cádiz,1447,Airbus A380,False,17229.1396,116,92433.36
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,5566,Airbus A320,True,15982.43504,523,222432.82
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170,Boeing 747,False,70376.254,431,353260.31
+Air_GiPa_10747,Airnar,Ginebra,París,411,Boeing 747,False,4468.885200000001,47,24361.82
+Mol_BaMe_10747,MoldaviAir,Bali,Melbourne,2779,Boeing 747,False,29624.14,205,161693.56
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798,Airbus A380,False,147944.88,873,781656.34
+Fly_CiBa_10747,FlyQ,Cincinnati,Barcelona,6763,Boeing 747,False,72814.51580000001,470,415797.95
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877,Airbus A320,True,19387.858464,618,270457.15
+Tab_LoGi_10737,TabarAir,Los Angeles,Ginebra,9103,Boeing 737,False,24111.1161,711,332964.73
+Tab_GiCi_10747,TabarAir,Ginebra,Cincinnati,6969,Boeing 747,False,75775.33080000001,484,414686.79
+Tab_GiNu_10747,TabarAir,Ginebra,Nueva York,6206,Boeing 747,False,72771.55600000001,433,350374.6
+Air_CaPa_11380,Airnar,Cádiz,París,1447,Airbus A380,False,17730.9592,116,94346.84
+Fly_BaNu_10747,FlyQ,Bali,Nueva York,16589,Boeing 747,True,200464.395664,1305,978673.55
+Mol_LoCa_10747,MoldaviAir,Londres,Cádiz,1716,Boeing 747,False,19024.2624,134,100056.73
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262,Boeing 747,True,184428.694112,1217,858894.2
+Pam_BaMe_11320,PamPangea,Bali,Melbourne,2779,Airbus A320,False,7254.301599999999,221,108115.02
+Fly_CiGi_11380,FlyQ,Cincinnati,Ginebra,6969,Airbus A380,False,82978.4892,484,443739.94
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,911,Boeing 737,False,2390.8284,89,31378.13
+Mol_LoCi_10747,MoldaviAir,Londres,Cincinnati,6284,Boeing 747,False,71006.6864,438,376421.17
+Air_LoCi_10737,Airnar,Los Angeles,Cincinnati,3073,Boeing 737,False,8139.455100000001,253,105371.44
+Air_PaCi_11320,Airnar,París,Cincinnati,6370,Airbus A320,True,17792.22536,581,252378.09
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284,Airbus A320,True,17552.016352,575,253714.2
+Tab_GiCi_10747,TabarAir,Ginebra,Cincinnati,6969,Boeing 747,False,80232.70320000002,484,428535.82
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029,Airbus A380,True,248020.549088,1535,1207389.56
+Fly_CiNu_10747,FlyQ,Cincinnati,Nueva York,911,Boeing 747,False,10488.1608,80,51369.97
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553,Boeing 747,False,139167.5792,856,746462.79
+Air_GiPa_10747,Airnar,Ginebra,París,411,Boeing 747,False,4425.0726,47,24336.11
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433,Boeing 747,False,16803.358,115,81198.61
+Mol_CiMe_10737,MoldaviAir,Cincinnati,Melbourne,15262,Boeing 737,True,40498.63272,1359,523861.98
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058,Boeing 747,True,152004.52176,1070,794187.0
+Fly_BaGi_10737,FlyQ,Barcelona,Ginebra,660,Boeing 737,False,1635.876,70,23970.31
+Fly_BaCi_11320,FlyQ,Barcelona,Cincinnati,6763,Airbus A320,True,18007.217904,610,272191.95
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,153167.8036,845,764459.79
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716,Airbus A320,False,4737.876,144,64843.91
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,5566,Airbus A320,True,15255.96072,523,224803.23
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170,Boeing 747,False,72349.42,431,356243.27
+Air_CiLo_11320,Airnar,Cincinnati,Los Angeles,3073,Airbus A320,False,8484.553,242,117201.01
+Pam_GiPa_11320,PamPangea,Ginebra,París,411,Airbus A320,False,1124.4549,49,16086.34
+Air_PaCa_10747,Airnar,París,Cádiz,1447,Boeing 747,False,15733.5204,116,87430.74
+Tab_LoLo_10737,TabarAir,Los Angeles,Londres,8785,Boeing 737,False,22201.452,687,323860.65
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,35378.8344,224,172992.87
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,8785,Boeing 747,False,93648.1,605,532324.59
+Fly_BaRo_11320,FlyQ,Barcelona,Roma,859,Airbus A320,False,2307.0163,82,34564.16
+Pam_LoPa_10737,PamPangea,Londres,París,344,Boeing 737,False,877.7160000000001,46,12383.21
+Pam_MePa_10747,PamPangea,Melbourne,París,16925,Boeing 747,True,195142.8128,1328,1029983.37
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383,Boeing 737,True,32546.090304,1140,458735.83
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011,Airbus A380,True,194905.706112,1200,917407.38
+Fly_BaGi_11380,FlyQ,Bali,Ginebra,12383,Airbus A380,False,148873.3792,845,761875.49
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,152368.314,856,753544.5
+Air_LoGi_10737,Airnar,Los Angeles,Ginebra,9103,Boeing 737,False,22783.8987,711,330558.13
+Pam_NuPa_11320,PamPangea,Nueva York,París,5835,Airbus A320,True,16145.58504,542,228064.02
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103,Airbus A380,False,111544.5208,626,591037.68
+Tab_LoNu_11380,TabarAir,Londres,Nueva York,5566,Airbus A380,False,70133.8264,391,361918.35
+Air_CiLo_11380,Airnar,Cincinnati,Los Angeles,3073,Airbus A380,False,39076.26800000001,224,196746.2
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383,Boeing 747,False,133322.8078,845,759816.63
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,198601.7696,1326,1003088.06
+Pam_MePa_10737,PamPangea,Melbourne,París,16925,Boeing 737,True,44483.7744,1485,613559.61
+Tab_RoLo_11320,TabarAir,Roma,Los Angeles,10077,Airbus A320,True,28409.400864,850,390412.29
+Fly_RoNu_10737,FlyQ,Roma,Nueva York,6877,Boeing 737,False,16878.2211,542,241593.94
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383,Airbus A380,False,154599.2784,845,812926.12
+Fly_RoCi_10737,FlyQ,Roma,Cincinnati,7480,Boeing 737,False,19266.984,588,254577.67
+Tab_RoGi_11380,TabarAir,Roma,Ginebra,698,Airbus A380,False,8310.9464,66,42591.66
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900,Boeing 747,True,202348.9728,1326,1017780.71
+Mol_PaMe_10737,MoldaviAir,París,Melbourne,16925,Boeing 737,True,44056.04580000001,1485,607631.02
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877,Boeing 747,False,76241.17280000001,478,408751.28
+Mol_MePa_10747,MoldaviAir,Melbourne,París,16925,Boeing 747,True,191390.0664,1328,1038244.08
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029,Airbus A380,True,264876.3145600001,1535,1252828.85
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,14877.918,442,193746.39
+Pam_MeGi_11380,PamPangea,Melbourne,Ginebra,16674,Airbus A380,True,200461.4976,1311,1060081.65
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206,Airbus A380,False,78915.49600000001,433,384660.19
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073,Boeing 747,False,36033.998,224,184807.69
+Mol_LoPa_10747,MoldaviAir,Londres,París,344,Boeing 747,False,3740.3808,42,20815.06
+Tab_GiCi_11320,TabarAir,Ginebra,Cincinnati,6969,Airbus A320,True,19829.146584,624,272686.32
+Mol_CaMe_11380,MoldaviAir,Cádiz,Melbourne,20029,Airbus A380,True,264876.3145600001,1535,1256717.99
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206,Airbus A380,False,75328.428,433,378994.64
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739,Airbus A380,False,8799.1252,69,45635.77
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589,Airbus A380,True,211405.969216,1305,1050831.99
+Tab_CiLo_11320,TabarAir,Cincinnati,Londres,6284,Airbus A320,True,16731.828672,575,246584.46
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,211305.7024,1326,1031829.93
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980,Airbus A380,False,148183.016,818,759540.12
+Mol_PaMe_11380,MoldaviAir,París,Melbourne,16925,Airbus A380,True,207548.7024,1328,1044687.55
+Fly_NuGi_10737,FlyQ,Nueva York,Ginebra,6206,Boeing 737,False,15683.8032,491,228802.9
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206,Boeing 737,False,15532.9974,491,210472.89
+Mol_LoCa_10737,MoldaviAir,Londres,Cádiz,1716,Boeing 737,False,4545.1692,150,62236.41
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170,Boeing 747,False,66429.92199999999,431,367375.46
+Air_GiPa_11320,Airnar,Ginebra,París,411,Airbus A320,False,1124.4549,49,16886.79
+Tab_CiGi_11380,TabarAir,Cincinnati,Ginebra,6969,Airbus A380,False,85395.33840000001,484,441766.98
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077,Boeing 747,False,107420.82,691,569103.19
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589,Boeing 747,True,185751.412496,1305,1019132.11
+Pam_MeLo_11380,PamPangea,Melbourne,Londres,16900,Airbus A380,True,215369.2736,1326,1083591.01
+Air_PaCa_10747,Airnar,París,Cádiz,1447,Boeing 747,False,15425.02,116,82680.57
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835,Boeing 737,False,15171.5835,463,207258.86
+Pam_BaNu_11380,PamPangea,Bali,Nueva York,16589,Airbus A380,True,219383.55296,1305,1050273.12
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,13795.8876,442,199535.71
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383,Airbus A380,False,150304.854,845,763079.02
+Pam_GiPa_11320,PamPangea,Ginebra,París,411,Airbus A320,False,1083.1905,49,16677.91
+Fly_BaCi_10747,FlyQ,Bali,Cincinnati,15011,Boeing 747,True,181395.565936,1200,885987.34
+Air_PaBa_10737,Airnar,París,Bali,11980,Boeing 737,True,30881.37312,1029,416543.87
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785,Airbus A320,True,24078.9822,756,342945.62
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877,Boeing 747,False,78440.43740000001,478,401668.33
+Air_CaCi_11380,Airnar,Cádiz,Cincinnati,6624,Airbus A380,False,83465.04960000001,461,434812.46
+Mol_PaLo_10737,MoldaviAir,París,Londres,344,Boeing 737,False,835.9200000000001,46,11797.85
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370,Airbus A380,False,75846.316,444,385400.29
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,207242.1312,1326,1032243.04
+Air_PaBa_11380,Airnar,París,Bali,11980,Airbus A380,False,142643.464,818,785364.21
+Pam_MePa_11380,PamPangea,Melbourne,París,16925,Airbus A380,True,207548.7024,1328,1072187.52
+Fly_BaGi_10737,FlyQ,Barcelona,Ginebra,660,Boeing 737,False,1716.066,70,23498.34
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262,Airbus A380,True,199999.596992,1217,995147.5
+Tab_LoCi_10737,TabarAir,Los Angeles,Cincinnati,3073,Boeing 737,False,7840.759500000001,253,105983.31
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170,Boeing 747,False,66429.92199999999,431,354706.71
+Air_CiBa_10737,Airnar,Cincinnati,Bali,15011,Boeing 737,True,40211.94715200001,1340,513682.12
+Pam_MeGi_10737,PamPangea,Melbourne,Ginebra,16674,Boeing 737,True,46352.38608000001,1466,613110.95
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553,Boeing 747,False,133814.98,856,757512.26
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779,Boeing 737,False,7225.677900000001,231,94803.85
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553,Boeing 747,False,144520.1784,856,726550.34
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980,Airbus A380,False,142643.464,818,757572.87
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077,Boeing 737,False,25221.7233,785,356227.06
+Tab_NuGi_11320,TabarAir,Nueva York,Ginebra,6206,Airbus A320,True,17172.150944,569,248148.27
+Pam_LoPa_11380,PamPangea,Londres,París,344,Airbus A380,False,4175.472000000001,42,21260.35
+Tab_LoLo_10747,TabarAir,Los Angeles,Londres,8785,Boeing 747,False,97394.024,605,503704.95
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,75032.4354,484,401889.28
+Fly_BaBa_10737,FlyQ,Bali,Barcelona,13058,Boeing 737,True,33330.17937600001,1191,482423.72
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447,Airbus A320,False,3922.5276,124,55927.44
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944,Airbus A380,False,47872.272,282,256276.85
+Tab_CiNu_10747,TabarAir,Cincinnati,Nueva York,911,Boeing 747,False,10488.1608,80,51932.3
+Pam_MePa_10747,PamPangea,Melbourne,París,16925,Boeing 747,True,193266.4396,1328,971620.0
+Fly_BaGi_11380,FlyQ,Barcelona,Ginebra,660,Airbus A380,False,7705.896000000001,64,42948.54
+Pam_PaNu_11320,PamPangea,París,Nueva York,5835,Airbus A320,True,15231.684,542,226927.89
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553,Boeing 747,False,140505.729,856,738924.08
+Air_BaPa_10747,Airnar,Bali,París,11980,Boeing 747,False,128983.868,818,675327.71
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206,Boeing 747,False,70786.87720000002,433,363919.97
+Air_BaPa_11380,Airnar,Bali,París,11980,Airbus A380,False,146798.128,818,762336.17
+Pam_PaMe_10737,PamPangea,París,Melbourne,16925,Boeing 737,True,43200.5886,1485,613840.97
+Fly_RoBa_10747,FlyQ,Roma,Barcelona,859,Boeing 747,False,10072.634,77,50999.3
+Fly_GiCi_11320,FlyQ,Ginebra,Cincinnati,6969,Airbus A320,True,18555.715152,624,276556.71
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553,Boeing 747,False,141843.8788,856,733397.67
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589,Airbus A380,True,217389.157024,1305,1081702.91
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877,Boeing 747,False,77707.34920000001,478,397650.16
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969,Boeing 737,False,17781.4035,549,245371.37
+Mol_CaPa_10747,MoldaviAir,Cádiz,París,1447,Boeing 747,False,15887.7706,116,82497.91
+Mol_LoCa_10747,MoldaviAir,Londres,Cádiz,1716,Boeing 747,False,19755.9648,134,101035.39
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,39341.52892800001,1359,542693.62
+Mol_CiMe_11380,MoldaviAir,Cincinnati,Melbourne,15262,Airbus A380,True,199999.596992,1217,964427.33
+Mol_PaMe_10737,MoldaviAir,París,Melbourne,16925,Boeing 737,True,47050.146,1485,612700.37
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980,Airbus A380,False,152337.68,818,723514.93
+Pam_LoNu_11320,PamPangea,Londres,Nueva York,5566,Airbus A320,True,15546.550448,523,216595.8
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739,Boeing 737,False,1831.6854,76,25093.12
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480,Boeing 737,False,18539.928,588,257732.26
+Fly_NuCi_10747,FlyQ,Nueva York,Cincinnati,911,Boeing 747,False,10682.386,80,52605.74
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170,Boeing 747,False,69718.532,431,349001.96
+Air_PaBa_11380,Airnar,París,Bali,11980,Airbus A380,False,145413.24,818,741819.68
+Air_GiPa_11380,Airnar,Ginebra,París,411,Airbus A380,False,4893.6948,47,25368.7
+Mol_BaCa_11380,MoldaviAir,Bali,Cádiz,12798,Airbus A380,False,162739.368,873,819723.91
+Mol_PaCa_10737,MoldaviAir,París,Cádiz,1447,Boeing 737,False,3516.21,129,49843.91
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,8799.1252,69,48556.99
+Pam_LoPa_11320,PamPangea,Londres,París,344,Airbus A320,False,949.784,44,13213.02
+Mol_LoPa_11380,MoldaviAir,Londres,París,344,Airbus A380,False,4255.004800000001,42,20832.3
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,911,Boeing 737,False,2412.9657,89,30924.07
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,45509.615424,1466,575988.19
+Fly_BaBa_11380,FlyQ,Bali,Barcelona,13058,Airbus A380,True,169547.579136,1070,854178.28
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077,Boeing 737,False,25221.7233,785,343046.25
+Air_PaGi_10737,Airnar,París,Ginebra,411,Boeing 737,False,1068.6411,51,14740.42
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,148014.9336,856,790929.11
+Air_PaBa_10747,Airnar,París,Bali,11980,Boeing 747,False,134092.14,818,737031.1
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553,Boeing 737,True,32992.899264,1153,465385.53
+Pam_PaGi_11320,PamPangea,París,Ginebra,411,Airbus A320,False,1072.8744,49,15648.47
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,36033.998,224,188945.73
+Pam_MeLo_11380,PamPangea,Melbourne,Londres,16900,Airbus A380,True,223496.416,1326,1017951.49
+Air_PaCi_10737,Airnar,París,Cincinnati,6370,Boeing 737,False,16407.846,503,222331.92
+Fly_CiGi_11320,FlyQ,Cincinnati,Ginebra,6969,Airbus A320,True,20011.06536,624,262518.49
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077,Boeing 747,False,111717.6528,691,618715.2
+Pam_BaGi_10747,PamPangea,Bali,Ginebra,12383,Boeing 747,False,143883.0302,845,758369.4
+Pam_GiLo_11380,PamPangea,Ginebra,Londres,739,Airbus A380,False,8713.6968,69,44828.69
+Fly_BaNu_11320,FlyQ,Barcelona,Nueva York,6170,Airbus A320,True,17555.72312,567,238651.17
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206,Airbus A380,False,75328.428,433,407857.12
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980,Boeing 737,True,32092.40736,1029,435053.61
+Pam_MePa_10737,PamPangea,Melbourne,París,16925,Boeing 737,True,43628.3172,1485,618509.1
+Mol_BaMe_10737,MoldaviAir,Bali,Melbourne,2779,Boeing 737,False,6955.5591,231,102528.48
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,3944,Boeing 737,False,9583.92,319,134820.81
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073,Boeing 747,False,33740.9254,224,175216.36
+Tab_NuLo_10747,TabarAir,Nueva York,Los Angeles,3944,Boeing 747,False,45826.91360000001,282,238330.51
+Pam_MePa_11380,PamPangea,Melbourne,París,16925,Airbus A380,True,213653.076,1328,1046220.3
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739,Boeing 737,False,1849.6431,76,26984.24
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206,Boeing 747,False,68140.63880000002,433,366391.12
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011,Airbus A380,True,185882.293792,1200,918577.24
+Air_CaGi_10747,Airnar,Cádiz,Ginebra,1725,Boeing 747,False,18940.155,135,103310.35
+Pam_PaGi_11320,PamPangea,París,Ginebra,411,Airbus A320,False,1103.8227,49,16787.59
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877,Airbus A320,True,19208.341256,618,258021.57
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566,Boeing 747,False,62300.238,391,330203.46
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,78746.91240000002,484,424628.93
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447,Airbus A320,False,3704.6094,124,58075.8
+Pam_BaMe_10747,PamPangea,Bali,Melbourne,2779,Boeing 747,False,32290.3126,205,167552.07
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911,Airbus A380,False,11268.3412,80,56324.42
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,14742.6642,442,195749.75
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589,Boeing 737,True,45277.61846400001,1459,580479.81
+Mol_PaMe_10747,MoldaviAir,París,Melbourne,16925,Boeing 747,True,191390.0664,1328,995575.42
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011,Boeing 747,True,166417.9504,1200,904931.86
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911,Boeing 737,False,2302.2792,89,31792.26
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383,Airbus A380,False,150304.854,845,769901.76
+Pam_GiNu_11320,PamPangea,Ginebra,Nueva York,6206,Airbus A320,True,16200.1424,569,236907.12
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900,Boeing 737,True,44845.164,1483,581082.18
+Mol_BaCa_10737,MoldaviAir,Bali,Cádiz,12798,Boeing 737,True,34930.55404800001,1171,439024.17
+Air_PaLo_10737,Airnar,París,Los Angeles,9099,Boeing 737,False,23658.3099,711,321445.39
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698,Boeing 737,False,1865.754,73,24289.53
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738,Airbus A380,False,157558.8696,869,807397.8
+Pam_GiLo_11320,PamPangea,Ginebra,Londres,739,Airbus A320,False,1966.1834,73,28134.93
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383,Airbus A380,False,151736.3288,845,757132.05
+Pam_PaGi_10747,PamPangea,París,Ginebra,411,Boeing 747,False,4600.323,47,24178.48
+Pam_LoPa_10737,PamPangea,Londres,París,344,Boeing 737,False,886.0752000000001,46,12501.22
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262,Airbus A380,True,198164.738304,1217,997458.26
+Mol_LoBa_11380,MoldaviAir,Londres,Bali,12553,Airbus A380,False,149466.0604,856,794055.41
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738,Boeing 747,True,155340.41952,1049,782115.96
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103,Boeing 747,False,106741.778,626,544391.46
+Pam_GiBa_10737,PamPangea,Ginebra,Bali,12383,Boeing 737,True,32233.147128,1140,440808.94
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779,Boeing 737,False,6955.5591,231,97344.08
+Pam_BaLo_11380,PamPangea,Bali,Londres,12553,Airbus A380,False,145112.68,856,824621.7
+Pam_GiNu_11380,PamPangea,Ginebra,Nueva York,6206,Airbus A380,False,76763.2552,433,374077.69
+Fly_RoNu_11380,FlyQ,Roma,Nueva York,6877,Airbus A380,False,85062.98840000002,478,421642.91
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589,Boeing 747,True,187590.535392,1305,993089.99
+Mol_CaLo_10737,MoldaviAir,Cádiz,Londres,1716,Boeing 737,False,4461.7716,150,63380.98
+Pam_PaGi_10737,PamPangea,París,Ginebra,411,Boeing 737,False,1008.7173,51,14657.94
+Tab_LoGi_11320,TabarAir,Los Angeles,Ginebra,9103,Airbus A320,True,25425.844184,779,362154.49
+Pam_BaMe_10747,PamPangea,Bali,Melbourne,2779,Boeing 747,False,31697.8298,205,163124.53
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738,Boeing 747,True,141218.5632,1049,733122.1
+Pam_MeBa_11320,PamPangea,Melbourne,Bali,2779,Airbus A320,False,7603.066099999999,221,114036.66
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698,Boeing 737,False,1713.1014,73,24801.97
+Fly_RoBa_10747,FlyQ,Roma,Bali,12738,Boeing 747,True,155340.41952,1049,728066.65
+Mol_CiPa_10737,MoldaviAir,Cincinnati,París,6370,Boeing 737,False,16872.219,503,227663.54
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589,Airbus A380,True,211405.969216,1305,1046875.94
+Mol_PaBa_10737,MoldaviAir,París,Bali,11980,Boeing 737,True,32395.16592000001,1029,441472.98
+Mol_BaPa_10747,MoldaviAir,Bali,París,11980,Boeing 747,False,140477.48,818,702433.33
+Mol_PaCi_10737,MoldaviAir,París,Cincinnati,6370,Boeing 737,False,15479.1,503,223799.21
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738,Airbus A380,False,161976.408,869,811598.09
+Fly_GiCi_11380,FlyQ,Ginebra,Cincinnati,6969,Airbus A380,False,86200.9548,484,439967.56
+Mol_MeBa_11380,MoldaviAir,Melbourne,Bali,2779,Airbus A380,False,34374.0068,205,175151.82
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980,Airbus A380,False,138488.8,818,764295.83
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,16900,Boeing 747,True,204222.5744,1326,1025609.29
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082,Boeing 747,True,180074.399648,1272,987676.56
+Air_LoCi_11380,Airnar,Los Angeles,Cincinnati,3073,Airbus A380,False,35879.1188,224,202491.15
+Mol_CiCa_10747,MoldaviAir,Cincinnati,Cádiz,6624,Boeing 747,False,76260.7872,461,390751.03
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029,Boeing 747,True,224270.000656,1535,1177763.54
+Mol_BaMe_10737,MoldaviAir,Bali,Melbourne,2779,Boeing 737,False,7090.6185,231,95208.39
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,6877,Airbus A380,False,86652.95080000002,478,429135.08
+Air_GiPa_11320,Airnar,Ginebra,París,411,Airbus A320,False,1134.771,49,16529.51
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877,Boeing 737,False,18215.1099,542,252141.37
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877,Boeing 737,False,17713.7766,542,236124.88
+Pam_BaPa_11380,PamPangea,Bali,París,11980,Airbus A380,False,150952.792,818,762567.25
+Air_CiGi_11380,Airnar,Cincinnati,Ginebra,6969,Airbus A380,False,81367.2564,484,449166.14
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,8665.514000000001,69,42058.86
+Fly_NuCi_10737,FlyQ,Nueva York,Cincinnati,911,Boeing 737,False,2390.8284,89,31762.47
+Fly_RoNu_10747,FlyQ,Roma,Nueva York,6877,Boeing 747,False,77707.34920000001,478,422741.62
+Tab_GiRo_10747,TabarAir,Ginebra,Roma,698,Boeing 747,False,7440.68,66,42661.72
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785,Airbus A380,False,101554.6,605,539077.98
+Mol_CiMe_10737,MoldaviAir,Cincinnati,Melbourne,15262,Boeing 737,True,39341.52892800001,1359,529844.84
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011,Boeing 747,True,179731.386432,1200,921473.82
+Tab_LoGi_10747,TabarAir,Londres,Ginebra,739,Boeing 747,False,7956.5174,69,44826.4
+Pam_GiPa_11320,PamPangea,Ginebra,París,411,Airbus A320,False,1083.1905,49,15671.59
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206,Airbus A380,False,74611.0144,433,393397.79
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370,Airbus A380,False,78055.432,444,400632.1
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877,Boeing 737,False,17212.4433,542,252025.54
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206,Boeing 747,False,66155.96,433,355699.15
+Pam_LoNu_11380,PamPangea,Londres,Nueva York,5566,Airbus A380,False,68203.53760000001,391,362750.2
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900,Boeing 747,True,198601.7696,1326,961496.77
+Air_CiGi_10747,Airnar,Cincinnati,Ginebra,6969,Boeing 747,False,77261.12160000001,484,408064.43
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845,Airbus A380,False,149973.082,876,818955.91
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553,Boeing 737,True,34579.09634400001,1153,451114.1
+Mol_CaMe_10747,MoldaviAir,Cádiz,Melbourne,20029,Boeing 747,True,226490.495712,1535,1183268.73
+Air_LoCi_10747,Airnar,Los Angeles,Cincinnati,3073,Boeing 747,False,32758.18,224,177209.86
+Pam_GiLo_10737,PamPangea,Ginebra,Londres,739,Boeing 737,False,1903.5162,76,26989.43
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738,Airbus A380,False,148723.7928,869,826490.02
+Air_LoCi_10747,Airnar,Los Angeles,Cincinnati,3073,Boeing 747,False,35051.2526,224,186827.04
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,79736.8,518,442706.58
+Mol_CaMe_10747,MoldaviAir,Cádiz,Melbourne,20029,Boeing 747,True,230931.485824,1535,1183151.27
+Tab_LoCi_11320,TabarAir,Los Angeles,Cincinnati,3073,Airbus A320,False,8330.2884,242,121613.99
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,16589,Boeing 737,True,45277.61846400001,1459,613968.69
+Mol_CaPa_10747,MoldaviAir,Cádiz,París,1447,Boeing 747,False,15733.5204,116,87690.55
+Mol_CaCi_10737,MoldaviAir,Cádiz,Cincinnati,6624,Boeing 737,False,16096.32,523,232776.21
+Tab_GiNu_11320,TabarAir,Ginebra,Nueva York,6206,Airbus A320,True,16686.146672,569,242905.3
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553,Boeing 737,True,33627.37809600001,1153,425744.17
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,8665.514000000001,69,44601.26
+Pam_NuBa_10737,PamPangea,Nueva York,Bali,16589,Boeing 737,True,42762.19521600001,1459,587466.45
+Tab_GiLo_11320,TabarAir,Ginebra,Los Angeles,9103,Airbus A320,True,23762.4712,779,368559.08
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,44666.84476800001,1466,596765.74
+Fly_GiNu_11320,FlyQ,Ginebra,Nueva York,6206,Airbus A320,True,16848.148096,569,239466.95
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877,Airbus A380,False,81088.08240000001,478,426081.68
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284,Airbus A320,True,18044.12896,575,240659.88
+Pam_MeNu_10747,PamPangea,Melbourne,Nueva York,16082,Boeing 747,True,192554.803584,1272,976989.49
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433,Boeing 747,False,16650.6002,115,87278.56
+Tab_GiRo_11320,TabarAir,Ginebra,Roma,698,Airbus A320,False,1839.579,70,26544.83
+Tab_RoCi_11320,TabarAir,Roma,Cincinnati,7480,Airbus A320,True,19916.30784,662,292376.61
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877,Airbus A320,True,17951.7208,618,278788.45
+Tab_GiCi_10737,TabarAir,Ginebra,Cincinnati,6969,Boeing 737,False,18289.4436,549,254721.59
+Fly_CiRo_11380,FlyQ,Cincinnati,Roma,7480,Airbus A380,False,89062.864,518,459531.72
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,74289.54000000001,484,409577.36
+Air_CiGi_10747,Airnar,Cincinnati,Ginebra,6969,Boeing 747,False,78746.91240000002,484,416677.91
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206,Boeing 737,False,15985.4148,491,223311.33
+Mol_LoCi_11380,MoldaviAir,Londres,Cincinnati,6284,Airbus A380,False,79907.34400000001,438,387906.28
+Tab_NuLo_11380,TabarAir,Nueva York,Londres,5566,Airbus A380,False,68203.53760000001,391,337601.45
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011,Airbus A380,True,196710.388576,1200,903485.36
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,7877.74,69,43799.06
+Fly_GiBa_10737,FlyQ,Ginebra,Barcelona,660,Boeing 737,False,1651.914,70,24434.64
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877,Boeing 747,False,76241.17280000001,478,392622.72
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,5566,Airbus A320,True,15691.845312,523,227796.7
+Tab_LoRo_11380,TabarAir,Los Angeles,Roma,10077,Airbus A380,False,123479.5272,691,607549.59
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103,Boeing 747,False,104801.0184,626,536283.52
+Pam_NuPa_10737,PamPangea,Nueva York,París,5835,Boeing 737,False,14179.05,463,209806.5
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553,Boeing 737,True,31723.9416,1153,458101.75
+Air_CaBa_10737,Airnar,Cádiz,Bali,12798,Boeing 737,True,33960.26088000001,1171,473229.01
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,16900,Boeing 747,True,204222.5744,1326,977234.28
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206,Airbus A380,False,76045.8416,433,376313.07
+Tab_LoRo_11320,TabarAir,Londres,Roma,1433,Airbus A320,False,3812.639799999999,123,56192.76
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077,Airbus A320,True,28409.400864,850,403578.08
+Pam_MeNu_10737,PamPangea,Melbourne,Nueva York,16082,Boeing 737,True,41861.70331200001,1421,547276.98
+Pam_LoGi_10737,PamPangea,Londres,Ginebra,739,Boeing 737,False,1867.6008,76,26541.02
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077,Boeing 737,False,26446.0788,785,356771.5
+Air_CaGi_11320,Airnar,Cádiz,Ginebra,1725,Airbus A320,False,4589.535,145,65561.74
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877,Boeing 747,False,78440.43740000001,478,412740.69
+Pam_LoMe_10737,PamPangea,Londres,Melbourne,16900,Boeing 737,True,43990.97040000001,1483,612065.13
+Tab_GiNu_10747,TabarAir,Ginebra,Nueva York,6206,Boeing 747,False,68802.19840000001,433,365720.03
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103,Airbus A380,False,115753.748,626,570092.7
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,911,Boeing 737,False,2412.9657,89,33186.43
+Fly_CiBa_11380,FlyQ,Cincinnati,Barcelona,6763,Airbus A380,False,81307.4912,470,413988.84
+Air_PaCa_11320,Airnar,París,Cádiz,1447,Airbus A320,False,3958.8473,124,59686.35
+Air_GiCi_11380,Airnar,Ginebra,Cincinnati,6969,Airbus A380,False,83784.1056,484,436517.99
+Pam_NuMe_10737,PamPangea,Nueva York,Melbourne,16082,Boeing 737,True,43080.97622400001,1421,565908.88
+Air_LoGi_10747,Airnar,Los Angeles,Ginebra,9103,Boeing 747,False,97037.98,626,532227.59
+Tab_CiNu_11380,TabarAir,Cincinnati,Nueva York,911,Airbus A380,False,11478.9644,80,58098.34
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011,Boeing 737,True,39832.58916000001,1340,535966.72
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206,Boeing 737,False,15834.609,491,223367.63
+Fly_BaNu_10747,FlyQ,Bali,Nueva York,16589,Boeing 747,True,193107.90408,1305,977742.22
+Fly_GiBa_10737,FlyQ,Ginebra,Bali,12383,Boeing 737,True,31607.26077600001,1140,432476.61
+Air_LoGi_11380,Airnar,Los Angeles,Ginebra,9103,Airbus A380,False,112596.8276,626,586032.26
+Mol_CaMe_11380,MoldaviAir,Cádiz,Melbourne,20029,Airbus A380,True,248020.549088,1535,1279260.67
+Tab_LoNu_11320,TabarAir,Londres,Nueva York,5566,Airbus A320,True,15401.255584,523,226238.22
+Mol_CiLo_10737,MoldaviAir,Cincinnati,Londres,6284,Boeing 737,False,15728.2236,497,222490.71
+Pam_LoGi_11380,PamPangea,Londres,Ginebra,739,Airbus A380,False,8542.84,69,45834.52
+Pam_GiMe_11380,PamPangea,Ginebra,Melbourne,16674,Airbus A380,True,216498.417408,1311,1000870.96
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674,Boeing 747,True,194097.36528,1311,953590.36
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738,Airbus A380,False,148723.7928,869,776663.88
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739,Boeing 737,False,1885.5585,76,26285.68
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,43402.688784,1466,594350.45
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566,Boeing 737,False,13931.1414,442,197967.52
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566,Boeing 747,False,63486.9092,391,332619.73
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,35088.70622400001,1167,471060.67
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,158172.8212,856,770529.81
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900,Boeing 737,True,46126.4544,1483,595027.79
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,191107.3632,1326,1023000.95
+Pam_MeBa_11320,PamPangea,Melbourne,Bali,2779,Airbus A320,False,7114.795799999999,221,111481.41
+Pam_GiLo_11380,PamPangea,Ginebra,Londres,739,Airbus A380,False,9226.2672,69,48224.9
+Fly_NuCi_10737,FlyQ,Nueva York,Cincinnati,911,Boeing 737,False,2435.103,89,32183.37
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,33740.9254,224,180601.28
+Mol_CiMe_11380,MoldaviAir,Cincinnati,Melbourne,15262,Airbus A380,True,190825.303552,1217,946919.05
+Fly_BaCi_11320,FlyQ,Barcelona,Cincinnati,6763,Airbus A320,True,19066.466016,610,276262.32
+Air_PaCi_11320,Airnar,París,Cincinnati,6370,Airbus A320,True,17127.09544,581,246527.62
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029,Boeing 737,True,52135.807464,1721,693024.59
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,144578.9548,845,756884.51
+Pam_BaMe_11380,PamPangea,Bali,Melbourne,2779,Airbus A380,False,33410.2496,205,177016.95
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,156988.4992,1070,840257.98
+Air_CaCi_11320,Airnar,Cádiz,Cincinnati,6624,Airbus A320,True,17982.941184,600,259899.94
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383,Boeing 747,False,142563.0024,845,735612.36
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383,Airbus A380,False,151736.3288,845,792777.86
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284,Boeing 747,False,71676.5608,438,378632.66
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,3944,Boeing 747,False,44145.192,282,225652.14
+Pam_BaMe_11380,PamPangea,Bali,Melbourne,2779,Airbus A380,False,34695.2592,205,180927.63
+Mol_LoCa_11380,MoldaviAir,Londres,Cádiz,1716,Airbus A380,False,21027.1776,134,110965.73
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845,Boeing 737,True,35058.83472000001,1175,443829.03
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206,Boeing 747,False,70786.87720000002,433,376274.07
+Fly_NuCi_11320,FlyQ,Nueva York,Cincinnati,911,Airbus A320,False,2332.3422,86,35093.73
+Mol_PaLo_11380,MoldaviAir,París,Londres,344,Airbus A380,False,4294.771200000001,42,20902.39
+Air_LoGi_11320,Airnar,Los Angeles,Ginebra,9103,Airbus A320,True,23762.4712,779,348248.76
+Air_CiPa_11380,Airnar,Cincinnati,París,6370,Airbus A380,False,81000.92,444,407314.65
+Tab_RoLo_11320,TabarAir,Roma,Londres,1433,Airbus A320,False,3812.639799999999,123,54474.72
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,33801.04728000001,1167,467951.06
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,35706.4162,224,187202.16
+Air_LoPa_10737,Airnar,Los Angeles,París,9099,Boeing 737,False,22773.8871,711,332592.43
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785,Airbus A320,True,24996.27676,756,333712.43
+Pam_BaPa_11380,PamPangea,Bali,París,11980,Airbus A380,False,145413.24,818,766122.85
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480,Airbus A320,True,19525.792,662,284271.32
+Air_CiPa_11320,Airnar,Cincinnati,París,6370,Airbus A320,True,18124.79032,581,252160.09
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980,Boeing 747,False,130260.936,818,674639.06
+Mol_CaPa_11320,MoldaviAir,Cádiz,París,1447,Airbus A320,False,3849.8882,124,54550.79
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029,Airbus A380,True,260060.3815680001,1535,1295515.83
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859,Boeing 747,False,9431.648200000001,77,50899.49
+Fly_CiBa_10737,FlyQ,Cincinnati,Barcelona,6763,Boeing 737,False,17584.4763,533,244962.86
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480,Airbus A380,False,94250.99200000001,518,472524.83
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480,Boeing 737,False,18358.164,588,258737.92
+Air_BaPa_10747,Airnar,Bali,París,11980,Boeing 747,False,130260.936,818,732878.07
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,42427.13904000001,1359,528998.62
+Fly_RoNu_11380,FlyQ,Roma,Nueva York,6877,Airbus A380,False,79498.12000000001,478,429377.42
+Mol_CiLo_11320,MoldaviAir,Cincinnati,Londres,6284,Airbus A320,True,16403.7536,575,249156.11
+Air_CaBa_10747,Airnar,Cádiz,Bali,12798,Boeing 747,True,154653.284448,1053,754191.0
+Mol_PaLo_10737,MoldaviAir,París,Londres,344,Boeing 737,False,911.1528000000002,46,12372.41
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980,Boeing 737,True,30275.856,1029,409713.51
+Air_BaCi_10747,Airnar,Bali,Cincinnati,15011,Boeing 747,True,178067.206928,1200,928050.52
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589,Airbus A380,True,211405.969216,1305,1004810.48
+Tab_GiCi_11380,TabarAir,Ginebra,Cincinnati,6969,Airbus A380,False,85395.33840000001,484,423371.06
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,192980.9648,1326,1006880.11
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716,Airbus A320,False,4737.876,144,70674.57
+Mol_CiCa_10737,MoldaviAir,Cincinnati,Cádiz,6624,Boeing 737,False,17062.0992,523,225493.2
+Pam_NuPa_10747,PamPangea,Nueva York,París,5835,Boeing 747,False,62823.111,409,360338.37
+Tab_CiLo_11380,TabarAir,Cincinnati,Londres,6284,Airbus A380,False,77728.05280000002,438,404542.35
+Pam_PaLo_10747,PamPangea,París,Londres,344,Boeing 747,False,3960.4032,42,20749.29
+Fly_NuBa_11380,FlyQ,Nueva York,Barcelona,6170,Airbus A380,False,76317.964,431,398905.47
+Fly_RoBa_10737,FlyQ,Roma,Barcelona,859,Boeing 737,False,2129.117400000001,85,31227.48
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082,Boeing 747,True,194337.718432,1272,952688.76
+Pam_MeGi_10737,PamPangea,Melbourne,Ginebra,16674,Boeing 737,True,46352.38608000001,1466,583465.41
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103,Airbus A380,False,108387.6004,626,550268.31
+Pam_LoGi_11320,PamPangea,Londres,Ginebra,739,Airbus A320,False,2021.8301,73,28007.41
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553,Boeing 737,True,33310.13868,1153,442668.52
+Air_CaPa_11380,Airnar,Cádiz,París,1447,Airbus A380,False,17229.1396,116,87307.63
+Air_LoCa_10737,Airnar,Los Angeles,Cádiz,9373,Boeing 737,False,23231.9178,731,339943.47
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058,Boeing 747,True,144766.2112,1070,752212.98
+Tab_LoNu_10747,TabarAir,Londres,Nueva York,5566,Boeing 747,False,62893.5736,391,330320.81
+Pam_NuLo_11320,PamPangea,Nueva York,Londres,5566,Airbus A320,True,15255.96072,523,220563.17
+Tab_CiLo_11380,TabarAir,Cincinnati,Los Angeles,3073,Airbus A380,False,36234.3576,224,192311.81
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859,Boeing 747,False,9248.5094,77,52866.89
+Pam_GiBa_10747,PamPangea,Ginebra,Bali,12383,Boeing 747,False,138602.919,845,723138.29
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798,Airbus A380,False,150903.7776,873,807447.93
+Air_LoGi_11320,Airnar,Los Angeles,Ginebra,9103,Airbus A320,True,26138.71832,779,347686.57
+Fly_RoBa_11380,FlyQ,Roma,Barcelona,859,Airbus A380,False,10724.4432,77,52566.3
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,8271.627,69,45212.09
+Mol_LoCa_10737,MoldaviAir,Londres,Cádiz,1716,Boeing 737,False,4253.2776,150,62944.41
+Air_PaBa_11380,Airnar,París,Bali,11980,Airbus A380,False,148183.016,818,778562.65
+Pam_MePa_10737,PamPangea,Melbourne,París,16925,Boeing 737,True,43200.5886,1485,608843.11
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739,Airbus A380,False,9140.838800000001,69,47935.86
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624,Airbus A320,True,17291.2896,600,249711.63
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,46352.38608000001,1466,598342.51
+Pam_GiPa_10737,PamPangea,Ginebra,París,411,Boeing 737,False,1078.6284,51,14973.08
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798,Boeing 747,True,146140.259616,1053,721825.66
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011,Airbus A380,True,191296.341184,1200,920658.57
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103,Boeing 737,False,24111.1161,711,319716.47
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674,Boeing 747,True,188551.726272,1311,966263.45
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716,Airbus A320,False,4694.8044,144,69441.75
+Pam_MePa_11380,PamPangea,Melbourne,París,16925,Airbus A380,True,223827.032,1328,1037400.32
+Tab_CiLo_11380,TabarAir,Cincinnati,Londres,6284,Airbus A380,False,77001.62240000001,438,411702.27
+Air_CaPa_11320,Airnar,Cádiz,París,1447,Airbus A320,False,3704.6094,124,59351.99
+Tab_CiLo_10737,TabarAir,Cincinnati,Londres,6284,Boeing 737,False,15270.12,497,227964.62
+Mol_CiPa_10747,MoldaviAir,Cincinnati,París,6370,Boeing 747,False,73336.53600000001,444,388349.45
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447,Airbus A320,False,3958.8473,124,55987.21
+Air_PaLo_11320,Airnar,París,Los Angeles,9099,Airbus A320,True,24227.070192,779,357077.77
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011,Boeing 737,True,41350.02112800001,1340,553084.95
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877,Airbus A320,True,19567.375672,618,271156.32
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716,Airbus A320,False,4565.5896,144,68430.36
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900,Boeing 747,True,200475.3712,1326,957690.43
+Fly_GiBa_11380,FlyQ,Ginebra,Bali,12383,Airbus A380,False,150304.854,845,770614.31
+Fly_GiNu_11380,FlyQ,Ginebra,Nueva York,6206,Airbus A380,False,74611.0144,433,405544.89
+Pam_LoNu_11320,PamPangea,Londres,Nueva York,5566,Airbus A320,True,14529.4864,523,224950.75
+Fly_BaGi_10747,FlyQ,Barcelona,Ginebra,660,Boeing 747,False,7035.6,64,37931.63
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,207242.1312,1326,1043110.48
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,8799.1252,69,45962.03
+Tab_LoCi_11320,TabarAir,Londres,Cincinnati,6284,Airbus A320,True,17716.053888,575,249734.61
+Pam_LoGi_11380,PamPangea,Londres,Ginebra,739,Airbus A380,False,8628.2684,69,46588.5
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911,Boeing 737,False,2390.8284,89,32373.64
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,32835.303072,1167,460233.39
+Mol_BaPa_10747,MoldaviAir,Bali,París,11980,Boeing 747,False,139200.412,818,691970.17
+Pam_LoNu_11380,PamPangea,Londres,Nueva York,5566,Airbus A380,False,69490.39680000002,391,362411.17
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,166407.809152,1070,785974.66
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383,Boeing 737,True,31294.3176,1140,456318.97
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911,Airbus A380,False,10847.0948,80,59608.88
+Mol_CaCi_11380,MoldaviAir,Cádiz,Cincinnati,6624,Airbus A380,False,83465.04960000001,461,423590.1
+Mol_BaMe_11320,MoldaviAir,Bali,Melbourne,2779,Airbus A320,False,7184.548699999999,221,114038.76
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103,Boeing 737,False,22341.4929,711,326487.53
+Fly_BaNu_11380,FlyQ,Barcelona,Nueva York,6170,Airbus A380,False,76317.964,431,376307.24
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,75032.4354,484,397987.64
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716,Airbus A320,False,4393.3032,144,64800.77
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,16589,Boeing 737,True,42762.19521600001,1459,564893.31
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,171117.464128,1070,816501.29
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835,Boeing 737,False,15029.793,463,216329.13
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845,Airbus A380,False,148488.2,876,779223.1
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,143828.85608,1056,774509.14
+Tab_CiLo_11320,TabarAir,Cincinnati,Londres,6284,Airbus A320,True,16731.828672,575,249066.44
+Air_CaGi_11320,Airnar,Cádiz,Ginebra,1725,Airbus A320,False,4546.2375,145,66866.12
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,152368.314,856,808180.7
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170,Boeing 747,False,70376.254,431,370553.62
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877,Boeing 747,False,80639.70200000002,478,417287.11
+Fly_NuCi_11380,FlyQ,Nueva York,Cincinnati,911,Airbus A380,False,11478.9644,80,56655.43
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925,Airbus A380,True,219757.4496,1328,1022821.78
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835,Boeing 737,False,14604.4215,463,198851.88
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,150949.09648,1056,774548.69
+Pam_GiBa_10747,PamPangea,Ginebra,Bali,12383,Boeing 747,False,143883.0302,845,724796.13
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980,Boeing 737,True,30881.37312,1029,442215.73
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383,Boeing 737,True,32546.090304,1140,422606.13
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969,Boeing 737,False,18120.0969,549,237620.83
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,3944,Boeing 737,False,10446.4728,319,135425.91
+Pam_PaLo_10747,PamPangea,París,Londres,344,Boeing 747,False,4033.744,42,20155.75
+Air_CaCi_11380,Airnar,Cádiz,Cincinnati,6624,Airbus A380,False,77339.1744,461,429287.71
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103,Boeing 747,False,98978.7396,626,555467.27
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,8713.6968,69,45420.87
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,8799.1252,69,45873.2
+Pam_PaGi_10747,PamPangea,París,Ginebra,411,Boeing 747,False,4468.885200000001,47,23810.69
+Air_GiCa_10747,Airnar,Ginebra,Cádiz,1725,Boeing 747,False,18756.27,135,106205.33
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716,Airbus A320,False,4737.876,144,65184.74
+Air_PaGi_10747,Airnar,París,Ginebra,411,Boeing 747,False,4731.760800000001,47,23911.79
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284,Boeing 747,False,73016.30960000001,438,355337.04
+Tab_LoRo_10737,TabarAir,Londres,Roma,1433,Boeing 737,False,3760.7652,128,51828.56
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073,Boeing 747,False,33085.7618,224,186457.32
+Tab_LoRo_11320,TabarAir,Londres,Roma,1433,Airbus A320,False,3884.576399999999,123,55634.9
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739,Boeing 737,False,1831.6854,76,25527.08
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206,Boeing 737,False,16287.0264,491,220784.71
+Mol_MeCi_10747,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 747,True,184428.694112,1217,931910.6
+Pam_MeLo_10737,PamPangea,Melbourne,Londres,16900,Boeing 737,True,43136.7768,1483,623716.03
+Fly_RoCi_10737,FlyQ,Roma,Cincinnati,7480,Boeing 737,False,18358.164,588,265194.4
+Tab_CiNu_11320,TabarAir,Cincinnati,Nueva York,911,Airbus A320,False,2515.271,86,36599.54
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674,Boeing 747,True,190400.272608,1311,944466.55
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980,Airbus A380,False,148183.016,818,735048.49
+Pam_GiPa_10737,PamPangea,Ginebra,París,411,Boeing 737,False,1068.6411,51,14706.69
+Mol_PaLo_11320,MoldaviAir,París,Londres,344,Airbus A320,False,949.784,44,13911.34
+Air_CiBa_11380,Airnar,Cincinnati,Bali,15011,Airbus A380,True,184077.611328,1200,950897.7
+Tab_LoGi_10737,TabarAir,Los Angeles,Ginebra,9103,Boeing 737,False,23005.1016,711,333184.83
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206,Boeing 737,False,16136.2206,491,215062.11
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739,Airbus A380,False,8628.2684,69,46902.27
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,39341.52892800001,1359,564858.32
+Mol_CaCi_11320,MoldaviAir,Cádiz,Cincinnati,6624,Airbus A320,True,18674.592768,600,249209.24
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779,Boeing 737,False,6888.0294,231,99774.15
+Air_PaLo_11320,Airnar,París,Los Angeles,9099,Airbus A320,True,23989.549896,779,364366.8
+Air_CaBa_10737,Airnar,Cádiz,Bali,12798,Boeing 737,True,34607.12299200001,1171,459269.34
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845,Boeing 737,True,33111.12168,1175,470007.19
+Air_CaPa_11380,Airnar,Cádiz,París,1447,Airbus A380,False,18400.052,116,93638.33
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566,Boeing 737,False,14336.9028,442,193391.9
+Air_PaCi_10747,Airnar,París,Cincinnati,6370,Boeing 747,False,72657.494,444,377023.74
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480,Boeing 737,False,18903.456,588,276081.27
+Pam_MeLo_10737,PamPangea,Melbourne,Londres,16900,Boeing 737,True,43136.7768,1483,607333.34
+Air_PaGi_10737,Airnar,París,Ginebra,411,Boeing 737,False,1018.7046,51,14766.68
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553,Boeing 747,False,133814.98,856,768497.31
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785,Airbus A320,True,22932.364,756,348839.25
+Pam_MePa_11380,PamPangea,Melbourne,París,16925,Airbus A380,True,217722.6584,1328,1092518.44
+Air_CiPa_11320,Airnar,Cincinnati,París,6370,Airbus A320,True,17293.37792,581,243697.21
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,16900,Airbus A380,True,213337.488,1326,1108164.13
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383,Airbus A380,False,156030.7532,845,788245.98
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877,Airbus A380,False,85857.96960000001,478,418500.38
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980,Airbus A380,False,149567.904,818,764532.47
+Air_PaBa_11380,Airnar,París,Bali,11980,Airbus A380,False,142643.464,818,735958.02
+Pam_GiBa_10737,PamPangea,Ginebra,Bali,12383,Boeing 737,True,31294.3176,1140,429879.41
+Mol_LoCa_11380,MoldaviAir,Londres,Cádiz,1716,Airbus A380,False,19836.96,134,110709.3
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011,Boeing 737,True,38694.515184,1340,517439.79
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,14877.918,442,194142.61
+Pam_BaMe_11380,PamPangea,Bali,Melbourne,2779,Airbus A380,False,33410.2496,205,172542.21
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900,Boeing 737,True,46553.55120000001,1483,623592.06
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716,Airbus A320,False,4393.3032,144,65267.12
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011,Airbus A380,True,185882.293792,1200,942145.55
+Air_BaGi_10737,Airnar,Bali,Ginebra,12383,Boeing 737,True,31607.26077600001,1140,428670.23
+Fly_RoBa_11380,FlyQ,Roma,Barcelona,859,Airbus A380,False,9930.04,77,56528.09
+Pam_NuLo_11380,PamPangea,Nueva York,Londres,5566,Airbus A380,False,70777.25600000001,391,341602.97
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077,Airbus A320,True,28935.50088,850,399916.39
+Fly_GiRo_11320,FlyQ,Ginebra,Roma,698,Airbus A320,False,1909.6582,70,26999.79
+Fly_CiRo_11380,FlyQ,Cincinnati,Roma,7480,Airbus A380,False,89927.55200000001,518,482981.93
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,147441.9044,845,791505.42
+Tab_NuLo_10747,TabarAir,Nueva York,Londres,5566,Boeing 747,False,61113.5668,391,319548.11
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011,Boeing 747,True,171410.488912,1200,891314.83
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925,Airbus A380,True,221792.2408,1328,1068792.63
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,3944,Airbus A320,False,10691.3952,305,149802.28
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589,Airbus A380,True,205422.781408,1305,1088432.98
+Pam_PaBa_10737,PamPangea,París,Bali,11980,Boeing 737,True,33000.68304,1029,425741.31
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,3944,Airbus A320,False,10394.412,305,155219.86
+Tab_CiNu_11380,TabarAir,Cincinnati,Nueva York,911,Airbus A380,False,10531.16,80,58057.28
+Tab_LoRo_11380,TabarAir,Los Angeles,Roma,10077,Airbus A380,False,119984.8236,691,632266.26
+Fly_RoGi_10747,FlyQ,Roma,Ginebra,698,Boeing 747,False,7663.9004,66,41158.05
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,16900,Airbus A380,True,203178.56,1326,1023910.2
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206,Airbus A380,False,78198.0824,433,375465.72
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739,Airbus A380,False,9055.4104,69,47723.07
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103,Boeing 747,False,105771.3982,626,526150.79
+Pam_PaLo_11380,PamPangea,París,Londres,344,Airbus A380,False,4056.1728,42,21578.16
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,16900,Boeing 747,True,189233.7616,1326,1006877.01
+Mol_CaCi_10747,MoldaviAir,Cádiz,Cincinnati,6624,Boeing 747,False,76966.9056,461,397052.56
+Air_BaPa_10737,Airnar,Bali,París,11980,Boeing 737,True,33303.44160000001,1029,423912.29
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011,Boeing 737,True,40591.30514400001,1340,539308.19
+Mol_PaLo_11320,MoldaviAir,París,Londres,344,Airbus A320,False,923.8808,44,13323.57
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553,Boeing 737,True,34261.856928,1153,445072.03
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798,Boeing 737,True,33636.829824,1171,458651.6
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877,Boeing 737,False,18047.9988,542,246551.62
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877,Airbus A380,False,79498.12000000001,478,452119.75
+Pam_GiPa_11380,PamPangea,Ginebra,París,411,Airbus A380,False,5131.2528,47,27132.37
+Fly_CiBa_10747,FlyQ,Cincinnati,Bali,15011,Boeing 747,True,179731.386432,1200,900348.82
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073,Boeing 747,False,36033.998,224,185470.18
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,3944,Boeing 747,False,43304.3312,282,238713.77
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383,Airbus A380,False,143147.48,845,784749.48
+Air_LoBa_11380,Airnar,Los Angeles,Bali,12845,Airbus A380,False,155912.61,876,803583.74
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,82926.27200000001,518,457003.19
+Air_CaLo_11380,Airnar,Cádiz,Los Angeles,9373,Airbus A380,False,112685.9552,644,567713.25
+Pam_MePa_10747,PamPangea,Melbourne,París,16925,Boeing 747,True,193266.4396,1328,998745.23
+Pam_PaGi_11380,PamPangea,París,Ginebra,411,Airbus A380,False,5036.2296,47,25739.92
+Air_PaCi_11320,Airnar,París,Cincinnati,6370,Airbus A320,True,18291.0728,581,251167.72
+Tab_CiGi_10747,TabarAir,Cincinnati,Ginebra,6969,Boeing 747,False,77261.12160000001,484,408572.75
+Tab_LoNu_10737,TabarAir,Los Angeles,Nueva York,3944,Boeing 737,False,10350.6336,319,142615.74
+Pam_LoBa_11380,PamPangea,Londres,Bali,12553,Airbus A380,False,148014.9336,856,795782.99
+Air_BaPa_11380,Airnar,Bali,París,11980,Airbus A380,False,144028.352,818,750293.67
+Fly_GiCi_10737,FlyQ,Ginebra,Cincinnati,6969,Boeing 737,False,17442.7101,549,246593.24
+Air_CaGi_11380,Airnar,Cádiz,Ginebra,1725,Airbus A380,False,20938.05,135,104191.31
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553,Boeing 747,False,144520.1784,856,712527.91
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589,Boeing 737,True,45277.61846400001,1459,602596.55
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779,Boeing 737,False,7225.677900000001,231,95566.47
+Fly_CiNu_11320,FlyQ,Cincinnati,Nueva York,911,Airbus A320,False,2446.6727,86,35053.85
+Air_LoGi_11380,Airnar,Los Angeles,Ginebra,9103,Airbus A380,False,114701.4412,626,568255.84
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,20029,Boeing 737,True,51123.461688,1721,682303.69
+Tab_RoGi_11320,TabarAir,Roma,Ginebra,698,Airbus A320,False,1751.98,70,26208.98
+Air_PaCa_11380,Airnar,París,Cádiz,1447,Airbus A380,False,17898.2324,116,88872.38
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,7877.74,69,42857.86
+Fly_BaBa_11380,FlyQ,Bali,Barcelona,13058,Airbus A380,True,164837.92416,1070,845633.98
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,16900,Airbus A380,True,205210.3456,1326,1053875.55
+Tab_NuGi_10737,TabarAir,Nueva York,Ginebra,6206,Boeing 737,False,15080.58,491,229657.52
+Mol_LoPa_10737,MoldaviAir,Londres,París,344,Boeing 737,False,852.6384,46,12413.12
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,3944,Boeing 747,False,45406.4832,282,232287.09
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,221464.6304,1326,1063643.28
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206,Airbus A380,False,76045.8416,433,379652.48
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011,Boeing 737,True,38694.515184,1340,514772.98
+Pam_MeNu_11380,PamPangea,Melbourne,Nueva York,16082,Airbus A380,True,203011.44864,1272,1046144.16
+Pam_PaBa_10747,PamPangea,París,Bali,11980,Boeing 747,False,140477.48,818,695218.95
+Tab_NuLo_10737,TabarAir,Nueva York,Londres,5566,Boeing 737,False,13660.6338,442,189942.59
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,6877,Airbus A380,False,80293.1012,478,443641.54
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,9103,Airbus A320,True,25425.844184,779,369741.16
+Mol_PaMe_11380,MoldaviAir,París,Melbourne,16925,Airbus A380,True,203479.12,1328,1072656.95
+Mol_BaMe_10737,MoldaviAir,Bali,Melbourne,2779,Boeing 737,False,7360.737300000001,231,95936.88
+Air_CiBa_10737,Airnar,Cincinnati,Bali,15011,Boeing 737,True,37935.7992,1340,531157.39
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058,Boeing 747,True,159242.83232,1070,773227.98
+Air_PaCi_11380,Airnar,París,Cincinnati,6370,Airbus A380,False,73637.2,444,390653.93
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383,Airbus A380,False,150304.854,845,774968.49
+Air_CiCa_10737,Airnar,Cincinnati,Cádiz,6624,Boeing 737,False,17384.0256,523,225229.33
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,171117.464128,1070,795136.43
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,32835.303072,1167,432084.35
+Air_GiCa_10737,Airnar,Ginebra,Cádiz,1725,Boeing 737,False,4275.585,151,59240.55
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370,Airbus A380,False,73637.2,444,412082.82
+Air_LoPa_10747,Airnar,Los Angeles,París,9099,Boeing 747,False,96995.34,626,560433.83
+Mol_PaMe_10747,MoldaviAir,París,Melbourne,16925,Boeing 747,True,195142.8128,1328,1026163.72
+Mol_CaPa_11380,MoldaviAir,Cádiz,París,1447,Airbus A380,False,17730.9592,116,93581.95
+Fly_BaNu_11320,FlyQ,Barcelona,Nueva York,6170,Airbus A320,True,16911.4764,567,245586.23
+Pam_GiPa_10747,PamPangea,Ginebra,París,411,Boeing 747,False,4687.948200000001,47,25233.05
+Pam_MeGi_11380,PamPangea,Melbourne,Ginebra,16674,Airbus A380,True,218503.032384,1311,1081369.98
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206,Airbus A380,False,71741.36,433,408792.61
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480,Airbus A380,False,91656.92800000001,518,462132.88
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,207242.1312,1326,1035382.61
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,3944,Boeing 737,False,10063.116,319,136929.77
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553,Boeing 737,True,32675.659848,1153,464493.84
+Fly_GiRo_10747,FlyQ,Ginebra,Roma,698,Boeing 747,False,8184.748000000001,66,42824.94
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589,Airbus A380,True,205422.781408,1305,1071750.83
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553,Boeing 747,False,144520.1784,856,713482.82
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103,Boeing 747,False,97037.98,626,522523.33
+Air_CaPa_11380,Airnar,Cádiz,París,1447,Airbus A380,False,18232.7788,116,92802.75
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,74289.54000000001,484,424096.72
+Pam_LoMe_10747,PamPangea,Londres,Melbourne,16900,Boeing 747,True,194854.5664,1326,1008291.74
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,8785,Boeing 747,False,94584.581,605,534688.43
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877,Boeing 747,False,75508.0846,478,398236.35
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877,Boeing 747,False,80639.70200000002,478,423297.4
+Pam_NuMe_11380,PamPangea,Nueva York,Melbourne,16082,Airbus A380,True,193344.2368,1272,966116.15
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,144578.9548,845,751393.48
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900,Airbus A380,True,221464.6304,1326,1087235.02
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029,Boeing 747,True,226490.495712,1535,1228294.98
+Pam_NuGi_11320,PamPangea,Nueva York,Ginebra,6206,Airbus A320,True,17496.153792,569,253203.47
+Mol_LoPa_11380,MoldaviAir,Londres,París,344,Airbus A380,False,4294.771200000001,42,21498.27
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835,Boeing 737,False,14888.0025,463,216222.5
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900,Boeing 737,True,43563.87360000001,1483,589479.2
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447,Airbus A320,False,3704.6094,124,59569.46
+Mol_PaBa_10737,MoldaviAir,París,Bali,11980,Boeing 737,True,32395.16592000001,1029,422859.84
+Fly_RoBa_10737,FlyQ,Roma,Barcelona,859,Boeing 737,False,2108.2437,85,29166.33
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077,Boeing 747,False,113866.0692,691,594309.53
+Mol_CaMe_11380,MoldaviAir,Cádiz,Melbourne,20029,Airbus A380,True,245612.582592,1535,1213685.66
+Air_CiCa_11380,Airnar,Cincinnati,Cádiz,6624,Airbus A380,False,78870.6432,461,403370.97
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262,Boeing 747,True,184428.694112,1217,926781.63
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624,Airbus A320,True,18328.766976,600,255926.19
+Pam_GiNu_10737,PamPangea,Ginebra,Nueva York,6206,Boeing 737,False,15532.9974,491,215524.43
+Mol_LoPa_11320,MoldaviAir,Londres,París,344,Airbus A320,False,906.612,44,13177.22
+Tab_LoCi_11320,TabarAir,Londres,Cincinnati,6284,Airbus A320,True,17716.053888,575,255016.31
+Mol_CiLo_11380,MoldaviAir,Cincinnati,Londres,6284,Airbus A380,False,74822.33120000002,438,386596.37
+Fly_CiBa_10747,FlyQ,Cincinnati,Barcelona,6763,Boeing 747,False,76419.19480000001,470,380831.36
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383,Boeing 737,True,33484.91983200001,1140,456649.46
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077,Boeing 747,False,116014.4856,691,583607.36
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877,Airbus A380,False,83473.02600000001,478,434638.57
+Tab_CiNu_11320,TabarAir,Cincinnati,Nueva York,911,Airbus A320,False,2515.271,86,37571.81
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,660,Airbus A320,False,1689.732,67,26074.0
+Fly_BaBa_11380,FlyQ,Bali,Barcelona,13058,Airbus A380,True,167977.694144,1070,845969.41
+Fly_BaNu_11380,FlyQ,Barcelona,Nueva York,6170,Airbus A380,False,72038.452,431,396371.19
+Fly_RoGi_11320,FlyQ,Roma,Ginebra,698,Airbus A320,False,1751.98,70,28042.05
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,145112.68,856,777232.88
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845,Boeing 737,True,35058.83472000001,1175,449605.11
+Tab_RoLo_10737,TabarAir,Roma,Londres,1433,Boeing 737,False,3795.5871,128,52726.09
+Fly_GiBa_10747,FlyQ,Ginebra,Barcelona,660,Boeing 747,False,7317.024,64,40135.53
+Fly_CiRo_11320,FlyQ,Cincinnati,Roma,7480,Airbus A320,True,20892.59744,662,281596.81
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284,Airbus A320,True,17716.053888,575,248723.27
+Fly_BaBa_10747,FlyQ,Bali,Barcelona,13058,Boeing 747,True,146213.873312,1070,777764.62
+Tab_LoGi_11320,TabarAir,Londres,Ginebra,739,Airbus A320,False,1873.4389,73,28532.2
+Tab_LoLo_10737,TabarAir,Los Angeles,Londres,8785,Boeing 737,False,22841.87850000001,687,303857.31
+Fly_CiBa_11320,FlyQ,Cincinnati,Barcelona,6763,Airbus A320,True,17654.1352,610,263667.56
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029,Boeing 747,True,233151.98088,1535,1174072.42
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,78004.017,484,430613.65
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,145252.90416,1056,781617.54
+Air_PaCi_10737,Airnar,París,Cincinnati,6370,Boeing 737,False,15633.891,503,215549.06
+Air_GiPa_11380,Airnar,Ginebra,París,411,Airbus A380,False,5226.276,47,26376.1
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383,Boeing 737,True,34110.80618400001,1140,423106.32
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779,Boeing 737,False,7090.6185,231,100156.47
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785,Airbus A380,False,105616.784,605,537898.51
+Air_CaPa_11380,Airnar,Cádiz,París,1447,Airbus A380,False,18400.052,116,91549.88
+Air_PaLo_10737,Airnar,París,Los Angeles,9099,Boeing 737,False,22110.57,711,318989.24
+Pam_PaMe_10747,PamPangea,París,Melbourne,16925,Boeing 747,True,202648.3056,1328,992778.07
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029,Airbus A380,True,260060.3815680001,1535,1294101.68
+Tab_RoLo_11380,TabarAir,Roma,Londres,1433,Airbus A380,False,17228.0992,115,90554.51
+Pam_LoPa_10737,PamPangea,Londres,París,344,Boeing 737,False,869.3568000000001,46,12179.44
+Tab_RoLo_10737,TabarAir,Roma,Londres,1433,Boeing 737,False,3760.7652,128,48828.4
+Pam_MePa_10747,PamPangea,Melbourne,París,16925,Boeing 747,True,206401.052,1328,1033276.55
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,79736.8,518,425515.4
+Fly_CiBa_11320,FlyQ,Cincinnati,Barcelona,6763,Airbus A320,True,18360.300608,610,270901.26
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103,Boeing 747,False,98008.35979999999,626,538987.62
+Mol_LoPa_11320,MoldaviAir,Londres,París,344,Airbus A320,False,906.612,44,12949.53
+Mol_PaCi_11320,MoldaviAir,París,Cincinnati,6370,Airbus A320,True,17293.37792,581,261829.55
+Fly_BaRo_10737,FlyQ,Barcelona,Roma,859,Boeing 737,False,2212.6122,85,29752.11
+Tab_CiRo_10737,TabarAir,Cincinnati,Roma,7480,Boeing 737,False,18721.692,588,267317.99
+Air_CaPa_11320,Airnar,Cádiz,París,1447,Airbus A320,False,3740.9291,124,59679.49
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,13660.6338,442,198126.17
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383,Airbus A380,False,151736.3288,845,813220.96
+Mol_CiLo_10747,MoldaviAir,Cincinnati,Londres,6284,Boeing 747,False,67657.3144,438,385467.61
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011,Boeing 737,True,38315.15719200001,1340,529940.11
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969,Boeing 737,False,17781.4035,549,252199.25
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900,Boeing 737,True,46126.4544,1483,577646.4
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370,Airbus A380,False,81000.92,444,419148.02
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,154599.2784,845,777797.29
+Fly_RoBa_10747,FlyQ,Roma,Bali,12738,Boeing 747,True,149691.676992,1049,752824.68
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738,Airbus A380,False,150196.3056,869,768844.25
+Fly_BaCi_10737,FlyQ,Barcelona,Cincinnati,6763,Boeing 737,False,16762.7718,533,240330.3
+Pam_NuPa_11380,PamPangea,Nueva York,París,5835,Airbus A380,False,68801.652,409,370235.54
+Pam_GiMe_10747,PamPangea,Ginebra,Melbourne,16674,Boeing 747,True,199643.004288,1311,946395.63
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011,Boeing 737,True,39453.23116800001,1340,529937.78
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029,Boeing 737,True,52641.98035200001,1721,683655.75
+Fly_BaGi_11380,FlyQ,Bali,Ginebra,12383,Airbus A380,False,144578.9548,845,780156.79
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900,Boeing 737,True,43136.7768,1483,596980.69
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206,Boeing 747,False,70786.87720000002,433,363966.3
+Tab_NuGi_11320,TabarAir,Nueva York,Ginebra,6206,Airbus A320,True,17496.153792,569,245210.8
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553,Boeing 747,False,137829.4294,856,744319.8
+Air_BaPa_10737,Airnar,Bali,París,11980,Boeing 737,True,33000.68304,1029,430401.3
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029,Boeing 737,True,55679.01768000001,1721,722798.27
+Fly_GiBa_10747,FlyQ,Ginebra,Barcelona,660,Boeing 747,False,7457.736000000001,64,37754.37
+Pam_LoMe_10747,PamPangea,Londres,Melbourne,16900,Boeing 747,True,202348.9728,1326,986776.78
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944,Airbus A380,False,48328.1984,282,256517.49
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383,Airbus A380,False,147441.9044,845,759538.06
+Tab_LoRo_10737,TabarAir,Londres,Roma,1433,Boeing 737,False,3482.19,128,48988.34
+Air_GiBa_10737,Airnar,Ginebra,Bali,12383,Boeing 737,True,31607.26077600001,1140,454347.9
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284,Boeing 747,False,71006.6864,438,357104.46
+Pam_PaNu_10747,PamPangea,París,Nueva York,5835,Boeing 747,False,62823.111,409,346375.62
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900,Boeing 737,True,42709.68,1483,619220.59
+Pam_NuPa_11320,PamPangea,Nueva York,París,5835,Airbus A320,True,16602.53556,542,220273.5
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,194854.5664,1326,996595.45
+Pam_PaMe_11380,PamPangea,París,Melbourne,16925,Airbus A380,True,211618.2848,1328,1089477.56
+Mol_CaCi_10737,MoldaviAir,Cádiz,Cincinnati,6624,Boeing 737,False,16418.2464,523,244607.88
+Pam_PaBa_10747,PamPangea,París,Bali,11980,Boeing 747,False,137923.344,818,721877.04
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,16589,Boeing 737,True,42762.19521600001,1459,599305.27
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877,Boeing 747,False,76974.26100000001,478,387692.61
+Fly_BaNu_10737,FlyQ,Barcelona,Nueva York,6170,Boeing 737,False,16192.548,488,211667.56
+Air_PaCa_10747,Airnar,París,Cádiz,1447,Boeing 747,False,15887.7706,116,86136.41
+Mol_CaCi_10747,MoldaviAir,Cádiz,Cincinnati,6624,Boeing 747,False,74848.5504,461,387759.73
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859,Boeing 747,False,9706.3564,77,50013.66
+Air_LoPa_11380,Airnar,Los Angeles,París,9099,Airbus A380,False,110443.662,626,548039.89
+Pam_LoPa_11320,PamPangea,Londres,París,344,Airbus A320,False,863.4399999999999,44,13344.71
+Tab_NuGi_10737,TabarAir,Nueva York,Ginebra,6206,Boeing 737,False,16437.8322,491,228823.18
+Air_CiLo_10737,Airnar,Cincinnati,Los Angeles,3073,Boeing 737,False,7990.107300000001,253,108129.33
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262,Boeing 747,True,177660.66864,1217,941444.96
+Mol_CiMe_11380,MoldaviAir,Cincinnati,Melbourne,15262,Airbus A380,True,201834.45568,1217,957886.42
+Air_PaBa_10737,Airnar,París,Bali,11980,Boeing 737,True,33303.44160000001,1029,436856.33
+Fly_BaCi_11380,FlyQ,Bali,Cincinnati,15011,Airbus A380,True,193101.023648,1200,973964.95
+Fly_CiBa_10747,FlyQ,Cincinnati,Bali,15011,Boeing 747,True,173074.668416,1200,859799.96
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911,Boeing 737,False,2280.1419,89,32943.91
+Tab_LoRo_10747,TabarAir,Londres,Roma,1433,Boeing 747,False,16803.358,115,86762.91
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,166407.809152,1070,790172.51
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739,Boeing 737,False,1957.3893,76,25922.75
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877,Airbus A380,False,85857.96960000001,478,451341.25
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,9103,Airbus A320,True,24950.59476,779,347323.98
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798,Boeing 737,True,35253.98510400001,1171,460592.06
+Pam_PaBa_11380,PamPangea,París,Bali,11980,Airbus A380,False,144028.352,818,775586.99
+Air_BaGi_10747,Airnar,Bali,Ginebra,12383,Boeing 747,False,132002.78,845,756015.63
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739,Boeing 747,False,8507.959200000001,69,43066.12
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,40498.63272,1359,540534.86
+Air_CiLo_10737,Airnar,Cincinnati,Los Angeles,3073,Boeing 737,False,7691.411700000001,253,104475.04
+Mol_PaCi_11320,MoldaviAir,París,Cincinnati,6370,Airbus A320,True,17459.6604,581,258429.54
+Pam_LoNu_10737,PamPangea,Londres,Nueva York,5566,Boeing 737,False,14336.9028,442,199064.31
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925,Airbus A380,True,205513.9112,1328,1021531.76
+Air_LoPa_10737,Airnar,Los Angeles,París,9099,Boeing 737,False,23658.3099,711,321919.96
+Tab_CiRo_10747,TabarAir,Cincinnati,Roma,7480,Boeing 747,False,79736.8,518,436181.44
+Pam_PaLo_11320,PamPangea,París,Londres,344,Airbus A320,False,915.2464,44,13842.07
+Air_BaPa_10747,Airnar,Bali,París,11980,Boeing 747,False,131538.004,818,703670.33
+Fly_NuRo_11380,FlyQ,Nueva York,Roma,6877,Airbus A380,False,87447.93200000002,478,435727.7
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206,Airbus A380,False,76763.2552,433,408715.39
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,40884.333984,1359,536842.32
+Air_PaCa_11380,Airnar,París,Cádiz,1447,Airbus A380,False,18400.052,116,91463.45
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011,Boeing 737,True,38694.515184,1340,512135.34
+Air_CiPa_11320,Airnar,Cincinnati,París,6370,Airbus A320,True,18291.0728,581,239799.27
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370,Airbus A380,False,79528.176,444,397166.36
+Pam_LoPa_11320,PamPangea,Londres,París,344,Airbus A320,False,949.784,44,13591.51
+Air_CiPa_11380,Airnar,Cincinnati,París,6370,Airbus A380,False,78791.804,444,394727.51
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,8785,Boeing 747,False,94584.581,605,502684.75
+Pam_MeGi_10737,PamPangea,Melbourne,Ginebra,16674,Boeing 737,True,43402.688784,1466,603793.24
+Pam_BaPa_10737,PamPangea,Bali,París,11980,Boeing 737,True,32092.40736,1029,429257.03
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206,Airbus A380,False,75328.428,433,402528.32
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925,Airbus A380,True,215687.8672,1328,1026167.76
+Air_BaPa_11380,Airnar,Bali,París,11980,Airbus A380,False,152337.68,818,743870.96
+Air_LoCi_11320,Airnar,Los Angeles,Cincinnati,3073,Airbus A320,False,8330.2884,242,125441.51
+Air_CiPa_11380,Airnar,Cincinnati,París,6370,Airbus A380,False,79528.176,444,413896.8
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,6877,Airbus A380,False,85062.98840000002,478,423549.43
+Fly_BaBa_10737,FlyQ,Barcelona,Bali,13058,Boeing 737,True,33990.18292800001,1191,467624.21
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739,Boeing 737,False,1867.6008,76,25015.65
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206,Boeing 737,False,15532.9974,491,215425.11
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566,Boeing 737,False,13795.8876,442,189481.13
+Pam_BaPa_11380,PamPangea,Bali,París,11980,Airbus A380,False,138488.8,818,730007.44
+Air_PaCa_10747,Airnar,París,Cádiz,1447,Boeing 747,False,16504.7714,116,88928.31
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798,Airbus A380,False,149424.3288,873,835832.29
+Air_CaCi_11320,Airnar,Cádiz,Cincinnati,6624,Airbus A320,True,18328.766976,600,265823.98
+Air_CiGi_11320,Airnar,Cincinnati,Ginebra,6969,Airbus A320,True,19101.47148,624,263040.13
+Pam_MeBa_10737,PamPangea,Melbourne,Bali,2779,Boeing 737,False,7158.148200000001,231,97705.26
+Mol_PaMe_10737,MoldaviAir,París,Melbourne,16925,Boeing 737,True,45766.96020000001,1485,599294.34
+Tab_LoCi_11380,TabarAir,Londres,Cincinnati,6284,Airbus A380,False,78454.48320000002,438,397128.82
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262,Boeing 737,True,38955.827664,1359,518775.84
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,44245.45944000001,1466,615915.27
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383,Boeing 747,False,137282.8912,845,708619.53
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566,Boeing 747,False,62300.238,391,332587.34
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,194854.5664,1326,999009.45
+Mol_BaPa_10747,MoldaviAir,Bali,París,11980,Boeing 747,False,128983.868,818,682352.24
+Air_CaCi_10747,Airnar,Cádiz,Cincinnati,6624,Boeing 747,False,72024.0768,461,384677.33
+Air_PaCi_10737,Airnar,París,Cincinnati,6370,Boeing 737,False,16872.219,503,230847.6
+Fly_BaNu_10737,FlyQ,Barcelona,Nueva York,6170,Boeing 737,False,15143.031,488,220770.96
+Mol_LoPa_10747,MoldaviAir,Londres,París,344,Boeing 747,False,3740.3808,42,19586.26
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738,Airbus A380,False,159031.3824,869,799543.96
+Tab_RoGi_10737,TabarAir,Roma,Ginebra,698,Boeing 737,False,1797.9084,73,23609.97
+Air_BaGi_10737,Airnar,Bali,Ginebra,12383,Boeing 737,True,31607.26077600001,1140,424189.25
+Air_BaCa_11380,Airnar,Bali,Cádiz,12798,Airbus A380,False,150903.7776,873,820996.71
+Air_PaGi_11380,Airnar,París,Ginebra,411,Airbus A380,False,5131.2528,47,26570.34
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739,Boeing 737,False,1813.7277,76,26042.98
+Air_CaBa_11380,Airnar,Cádiz,Bali,12798,Airbus A380,False,156821.5728,873,769380.03
+Air_CiGi_11320,Airnar,Cincinnati,Ginebra,6969,Airbus A320,True,19101.47148,624,263758.04
+Air_CaBa_11380,Airnar,Cádiz,Bali,12798,Airbus A380,False,147944.88,873,806645.24
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103,Boeing 737,False,23668.7103,711,311612.74
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738,Airbus A380,False,154613.844,869,801182.06
+Air_CiPa_10747,Airnar,Cincinnati,París,6370,Boeing 747,False,67904.2,444,372768.6
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383,Airbus A380,False,148873.3792,845,774355.81
+Fly_CiBa_10737,FlyQ,Cincinnati,Bali,15011,Boeing 737,True,40211.94715200001,1340,543460.86
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980,Boeing 737,True,31789.6488,1029,441927.9
+Fly_BaNu_11380,FlyQ,Barcelona,Nueva York,6170,Airbus A380,False,72751.704,431,370870.91
+Pam_MeNu_11380,PamPangea,Melbourne,Nueva York,16082,Airbus A380,True,193344.2368,1272,1024330.78
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029,Boeing 737,True,52135.807464,1721,690070.14
+Pam_PaMe_11380,PamPangea,París,Melbourne,16925,Airbus A380,True,203479.12,1328,1062871.03
+Fly_CiRo_10737,FlyQ,Cincinnati,Roma,7480,Boeing 737,False,18358.164,588,265452.23
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798,Airbus A380,False,150903.7776,873,788039.96
+Tab_LoRo_11380,TabarAir,Londres,Roma,1433,Airbus A380,False,16731.1348,115,88879.07
+Pam_LoPa_10747,PamPangea,Londres,París,344,Boeing 747,False,3887.0624,42,19437.6
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103,Airbus A380,False,107335.2936,626,552607.76
+Tab_GiNu_11320,TabarAir,Ginebra,Nueva York,6206,Airbus A320,True,17820.15664,569,251481.67
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553,Airbus A380,False,148014.9336,856,783526.69
+Fly_NuRo_11320,FlyQ,Nueva York,Roma,6877,Airbus A320,True,18490.272424,618,270730.24
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480,Boeing 747,False,82926.27200000001,518,427057.14
+Mol_CiMe_11380,MoldaviAir,Cincinnati,Melbourne,15262,Airbus A380,True,187155.586176,1217,934896.59
+Mol_CaBa_10747,MoldaviAir,Cádiz,Bali,12798,Boeing 747,True,141883.7472,1053,773570.93
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029,Boeing 747,True,244254.45616,1535,1205478.9
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058,Airbus A380,True,163268.039168,1070,827810.29
+Mol_MeBa_11320,MoldaviAir,Melbourne,Bali,2779,Airbus A320,False,7114.795799999999,221,114091.09
+Pam_LoGi_10747,PamPangea,Londres,Ginebra,739,Boeing 747,False,8429.1818,69,45276.39
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383,Boeing 737,True,32233.147128,1140,431919.46
+Tab_NuLo_10747,TabarAir,Nueva York,Londres,5566,Boeing 747,False,59333.56,391,331108.15
+Pam_MeNu_11380,PamPangea,Melbourne,Nueva York,16082,Airbus A380,True,212678.66048,1272,984231.35
+Pam_BaPa_11380,PamPangea,Bali,París,11980,Airbus A380,False,139873.688,818,761620.7
+Air_LoCa_11320,Airnar,Los Angeles,Cádiz,9373,Airbus A320,True,25445.970368,799,372085.72
+Pam_NuPa_11320,PamPangea,Nueva York,París,5835,Airbus A320,True,16754.8524,542,233354.57
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980,Boeing 747,False,135369.208,818,692617.65
+Air_CaLo_11320,Airnar,Cádiz,Los Angeles,9373,Airbus A320,True,26424.661536,799,353720.1
+Mol_CaCi_11320,MoldaviAir,Cádiz,Cincinnati,6624,Airbus A320,True,17982.941184,600,269106.94
+Pam_NuMe_10737,PamPangea,Nueva York,Melbourne,16082,Boeing 737,True,43893.82483200001,1421,542829.28
+Pam_LoPa_10747,PamPangea,Londres,París,344,Boeing 747,False,3777.0512,42,19609.29
+Tab_RoLo_10737,TabarAir,Roma,Londres,1433,Boeing 737,False,3517.0119,128,49023.29
+Pam_PaGi_11320,PamPangea,París,Ginebra,411,Airbus A320,False,1093.5066,49,15931.06
+Air_LoCa_11380,Airnar,Los Angeles,Cádiz,9373,Airbus A380,False,108351.88,644,611764.4
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900,Boeing 737,True,46980.64800000001,1483,590178.01
+Air_LoGi_10747,Airnar,Los Angeles,Ginebra,9103,Boeing 747,False,106741.778,626,560428.11
+Fly_NuRo_11320,FlyQ,Nueva York,Roma,6877,Airbus A320,True,18669.789632,618,277315.23
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911,Airbus A380,False,11478.9644,80,55098.52
+Mol_CiCa_10737,MoldaviAir,Cincinnati,Cádiz,6624,Boeing 737,False,16096.32,523,228254.42
+Pam_LoBa_10737,PamPangea,Londres,Bali,12553,Boeing 737,True,33944.617512,1153,459486.33
+Mol_PaLo_10737,MoldaviAir,París,Londres,344,Boeing 737,False,852.6384,46,11693.64
+Fly_BaBa_10737,FlyQ,Barcelona,Bali,13058,Boeing 737,True,35310.19003200001,1191,453188.87
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480,Boeing 737,False,19630.512,588,254897.08
+Air_CaGi_11380,Airnar,Cádiz,Ginebra,1725,Airbus A380,False,21137.46,135,113766.66
+Fly_BaGi_10747,FlyQ,Bali,Ginebra,12383,Boeing 747,False,134642.8356,845,736291.3
+Mol_CaLo_10737,MoldaviAir,Cádiz,Londres,1716,Boeing 737,False,4461.7716,150,63275.55
+Fly_RoGi_11320,FlyQ,Roma,Ginebra,698,Airbus A320,False,1927.178,70,27145.6
+Air_BaPa_11380,Airnar,Bali,París,11980,Airbus A380,False,152337.68,818,778584.98
+Tab_NuLo_10747,TabarAir,Nueva York,Londres,5566,Boeing 747,False,64673.5804,391,325213.72
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911,Airbus A380,False,11163.0296,80,55014.07
+Fly_GiRo_10747,FlyQ,Ginebra,Roma,698,Boeing 747,False,7812.714000000001,66,41597.45
+Fly_NuRo_11380,FlyQ,Nueva York,Roma,6877,Airbus A380,False,87447.93200000002,478,447764.71
+Tab_NuLo_11380,TabarAir,Nueva York,Los Angeles,3944,Airbus A380,False,46048.5664,282,236678.37
+Fly_RoBa_10747,FlyQ,Roma,Bali,12738,Boeing 747,True,145455.120096,1049,771843.82
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589,Boeing 747,True,183912.2896,1305,984239.78
+Mol_CaBa_10737,MoldaviAir,Cádiz,Bali,12798,Boeing 737,True,32989.96771200001,1171,465657.11
+Tab_LoGi_10747,TabarAir,Londres,Ginebra,739,Boeing 747,False,7877.74,69,45206.99
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011,Boeing 737,True,41350.02112800001,1340,515796.09
+Tab_GiRo_11320,TabarAir,Ginebra,Roma,698,Airbus A320,False,1892.1384,70,28650.34
+Tab_GiNu_10747,TabarAir,Ginebra,Nueva York,6206,Boeing 747,False,68140.63880000002,433,371604.99
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798,Boeing 747,True,156072.12192,1053,740472.25
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480,Airbus A320,True,20502.0816,662,280994.59
+Air_CaGi_11320,Airnar,Cádiz,Ginebra,1725,Airbus A320,False,4632.8325,145,68485.48
+Fly_BaBa_10747,FlyQ,Bali,Barcelona,13058,Boeing 747,True,146213.873312,1070,771962.49
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073,Boeing 747,False,35706.4162,224,174196.4
+Air_BaPa_10747,Airnar,Bali,París,11980,Boeing 747,False,135369.208,818,736402.34
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589,Airbus A380,True,199439.5936,1305,1010648.35
+Pam_MeBa_11320,PamPangea,Melbourne,Bali,2779,Airbus A320,False,7324.054499999999,221,114468.86
+Fly_RoBa_10737,FlyQ,Roma,Barcelona,859,Boeing 737,False,2275.2333,85,30500.19
+Tab_GiRo_11380,TabarAir,Ginebra,Roma,698,Airbus A380,False,8633.7016,66,45617.25
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798,Boeing 747,True,151815.609504,1053,778562.16
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980,Boeing 747,False,140477.48,818,685789.79
+Pam_BaGi_10747,PamPangea,Bali,Ginebra,12383,Boeing 747,False,137282.8912,845,752975.85
+Tab_CiGi_10747,TabarAir,Cincinnati,Ginebra,6969,Boeing 747,False,75032.4354,484,406522.36
+Fly_CiBa_10737,FlyQ,Cincinnati,Bali,15011,Boeing 737,True,38315.15719200001,1340,538532.82
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845,Boeing 747,True,156645.2888,1056,737883.31
+Pam_LoPa_11380,PamPangea,Londres,París,344,Airbus A380,False,3976.64,42,21978.39
+Pam_GiPa_10747,PamPangea,Ginebra,París,411,Boeing 747,False,4644.135600000001,47,23261.34
+Tab_RoLo_11320,TabarAir,Roma,Londres,1433,Airbus A320,False,3776.671499999999,123,55231.32
+Air_GiCa_10737,Airnar,Ginebra,Cádiz,1725,Boeing 737,False,4569.007500000001,151,58328.92
+Fly_RoBa_11320,FlyQ,Roma,Barcelona,859,Airbus A320,False,2156.09,82,34516.66
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206,Airbus A380,False,71741.36,433,402180.68
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284,Boeing 747,False,68997.0632,438,388739.23
+Pam_MeLo_11380,PamPangea,Melbourne,Londres,16900,Airbus A380,True,207242.1312,1326,1020077.83
+Air_GiCi_11380,Airnar,Ginebra,Cincinnati,6969,Airbus A380,False,80561.64,484,430887.93
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103,Airbus A380,False,110492.214,626,586106.0
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900,Boeing 737,True,46980.64800000001,1483,589514.5
+Pam_PaNu_10747,PamPangea,París,Nueva York,5835,Boeing 747,False,67177.18800000001,409,345865.39
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845,Boeing 737,True,35058.83472000001,1175,459879.64
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383,Airbus A380,False,151736.3288,845,754396.85
+Air_BaCi_10747,Airnar,Bali,Cincinnati,15011,Boeing 747,True,181395.565936,1200,925439.34
+Mol_CaPa_10747,MoldaviAir,Cádiz,París,1447,Boeing 747,False,16350.5212,116,87697.76
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859,Boeing 747,False,9248.5094,77,51850.2
+Air_CaGi_10747,Airnar,Cádiz,Ginebra,1725,Boeing 747,False,18572.385,135,98024.31
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944,Airbus A380,False,45592.64,282,242736.89
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553,Boeing 747,False,136491.2796,856,754865.31
+Fly_BaBa_10747,FlyQ,Bali,Barcelona,13058,Boeing 747,True,153452.183872,1070,767259.84
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011,Boeing 747,True,176403.027424,1200,889029.24
+Pam_PaGi_11320,PamPangea,París,Ginebra,411,Airbus A320,False,1052.2422,49,16699.5
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674,Boeing 747,True,203340.09696,1311,960228.31
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553,Boeing 737,True,32358.42043200001,1153,443525.46
+Tab_CiLo_10747,TabarAir,Cincinnati,Londres,6284,Boeing 747,False,72346.4352,438,388633.33
+Pam_LoGi_10747,PamPangea,Londres,Ginebra,739,Boeing 747,False,8665.514000000001,69,45604.94
+Mol_PaCa_10747,MoldaviAir,París,Cádiz,1447,Boeing 747,False,16350.5212,116,86590.26
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900,Boeing 737,True,43563.87360000001,1483,573273.13
+Air_PaLo_11320,Airnar,París,Los Angeles,9099,Airbus A320,True,23752.0296,779,351087.04
+Pam_BaGi_10747,PamPangea,Bali,Ginebra,12383,Boeing 747,False,145203.058,845,730017.69
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011,Boeing 737,True,38315.15719200001,1340,541046.15
+Tab_NuCi_11320,TabarAir,Nueva York,Cincinnati,911,Airbus A320,False,2515.271,86,35221.25
+Fly_GiCi_11380,FlyQ,Ginebra,Cincinnati,6969,Airbus A380,False,87006.5712,484,421394.59
+Mol_PaCi_10747,MoldaviAir,París,Cincinnati,6370,Boeing 747,False,70620.368,444,381387.31
+Pam_MeNu_10737,PamPangea,Melbourne,Nueva York,16082,Boeing 737,True,41048.854704,1421,572531.65
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,35410.62096000001,1167,432518.12
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944,Airbus A380,False,50151.904,282,252239.68
+Pam_MeNu_11380,PamPangea,Melbourne,Nueva York,16082,Airbus A380,True,199144.563904,1272,980506.48
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170,Boeing 747,False,65772.2,431,354476.35
+Air_LoCa_10747,Airnar,Los Angeles,Cádiz,9373,Boeing 747,False,108908.6362,644,566248.77
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,911,Boeing 737,False,2390.8284,89,33220.25
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553,Boeing 747,False,139167.5792,856,769301.31
+Pam_GiMe_11380,PamPangea,Ginebra,Melbourne,16674,Airbus A380,True,204470.727552,1311,1020433.16
+Pam_NuBa_11380,PamPangea,Nueva York,Bali,16589,Airbus A380,True,205422.781408,1305,1010627.87
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900,Boeing 747,True,202348.9728,1326,951292.59
+Fly_BaGi_10747,FlyQ,Bali,Ginebra,12383,Boeing 747,False,132002.78,845,737309.74
+Tab_CiLo_11380,TabarAir,Cincinnati,Los Angeles,3073,Airbus A380,False,36589.5964,224,199560.62
+Mol_PaCi_11320,MoldaviAir,París,Cincinnati,6370,Airbus A320,True,16628.248,581,251198.92
+Fly_GiRo_10737,FlyQ,Ginebra,Roma,698,Boeing 737,False,1865.754,73,25109.21
+Pam_NuBa_11380,PamPangea,Nueva York,Bali,16589,Airbus A380,True,215394.761088,1305,1090004.19
+Mol_CaCi_10737,MoldaviAir,Cádiz,Cincinnati,6624,Boeing 737,False,16257.2832,523,231492.37
+Mol_MeBa_11380,MoldaviAir,Melbourne,Bali,2779,Airbus A380,False,34695.2592,205,182255.86
+Air_LoPa_10737,Airnar,Los Angeles,París,9099,Boeing 737,False,23437.2042,711,337487.74
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738,Boeing 737,True,33157.21780800001,1167,452415.28
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877,Airbus A320,True,18490.272424,618,258185.83
+Tab_NuCi_11380,TabarAir,Nueva York,Cincinnati,911,Airbus A380,False,10847.0948,80,56598.73
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969,Boeing 747,False,81718.49400000002,484,428575.65
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206,Airbus A380,False,72458.7736,433,388889.16
+Air_LoCa_11320,Airnar,Los Angeles,Cádiz,9373,Airbus A320,True,24711.951992,799,379400.67
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980,Boeing 747,False,130260.936,818,730762.59
+Tab_LoGi_10747,TabarAir,Los Angeles,Ginebra,9103,Boeing 747,False,102860.2588,626,530013.31
+Air_BaGi_10737,Airnar,Bali,Ginebra,12383,Boeing 737,True,34423.74936000001,1140,447586.56
+Fly_BaRo_11320,FlyQ,Barcelona,Roma,859,Airbus A320,False,2371.699,82,34125.26
+Pam_MeLo_10737,PamPangea,Melbourne,Londres,16900,Boeing 737,True,43136.7768,1483,617778.45
+Tab_LoCi_11320,TabarAir,Los Angeles,Cincinnati,3073,Airbus A320,False,7790.3623,242,124255.61
+Tab_LoNu_10747,TabarAir,Londres,Nueva York,5566,Boeing 747,False,59333.56,391,315513.96
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553,Boeing 737,True,34579.09634400001,1153,429787.63
+Pam_NuMe_11380,PamPangea,Nueva York,Melbourne,16082,Airbus A380,True,199144.563904,1272,1013379.5
+Tab_LoGi_11320,TabarAir,Los Angeles,Ginebra,9103,Airbus A320,True,25188.219472,779,360454.69
+Tab_CiRo_11380,TabarAir,Cincinnati,Roma,7480,Airbus A380,False,86468.8,518,493674.99
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170,Boeing 747,False,65772.2,431,362746.19
+Fly_RoBa_10747,FlyQ,Roma,Barcelona,859,Boeing 747,False,9431.648200000001,77,51362.91
+Air_CaBa_10737,Airnar,Cádiz,Bali,12798,Boeing 737,True,35253.98510400001,1171,433137.13
+Tab_NuGi_11320,TabarAir,Nueva York,Ginebra,6206,Airbus A320,True,16200.1424,569,244586.41
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077,Airbus A320,True,28409.400864,850,396700.91
+Mol_PaLo_11320,MoldaviAir,París,Londres,344,Airbus A320,False,941.1496,44,13757.64
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738,Boeing 747,True,144042.934464,1049,782626.91
+Air_LoCa_10747,Airnar,Los Angeles,Cádiz,9373,Boeing 747,False,103912.8272,644,532101.73
+Air_PaCa_11320,Airnar,París,Cádiz,1447,Airbus A320,False,3995.167,124,56429.25
+Fly_NuBa_11380,FlyQ,Nueva York,Barcelona,6170,Airbus A380,False,72038.452,431,395722.26
+Pam_LoMe_10747,PamPangea,Londres,Melbourne,16900,Boeing 747,True,200475.3712,1326,1021461.86
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739,Airbus A380,False,9311.695600000001,69,44892.78
+Fly_NuBa_11380,FlyQ,Nueva York,Barcelona,6170,Airbus A380,False,76317.964,431,380038.65
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206,Boeing 747,False,69463.75800000002,433,361401.34
+Pam_BaGi_10747,PamPangea,Bali,Ginebra,12383,Boeing 747,False,138602.919,845,707542.19
+Pam_MeBa_11380,PamPangea,Melbourne,Bali,2779,Airbus A380,False,33088.99720000001,205,173046.43
+Pam_GiMe_10747,PamPangea,Ginebra,Melbourne,16674,Boeing 747,True,188551.726272,1311,962913.63
+Fly_NuRo_11320,FlyQ,Nueva York,Roma,6877,Airbus A320,True,19567.375672,618,275515.64
+Mol_PaMe_11380,MoldaviAir,París,Melbourne,16925,Airbus A380,True,209583.4936,1328,1106479.18
+Air_GiCa_10737,Airnar,Ginebra,Cádiz,1725,Boeing 737,False,4191.75,151,63863.39
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738,Boeing 747,True,141218.5632,1049,770608.78
+Mol_LoCi_10737,MoldaviAir,Londres,Cincinnati,6284,Boeing 737,False,15728.2236,497,218067.46
+Air_GiCa_10747,Airnar,Ginebra,Cádiz,1725,Boeing 747,False,20043.465,135,100737.76
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553,Boeing 737,True,34261.856928,1153,450047.8
+Pam_BaMe_11320,PamPangea,Bali,Melbourne,2779,Airbus A320,False,6975.289999999999,221,106865.13
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674,Boeing 737,True,44666.84476800001,1466,608938.16
+Tab_GiCi_11320,TabarAir,Ginebra,Cincinnati,6969,Airbus A320,True,20011.06536,624,271721.07
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103,Boeing 737,False,22783.8987,711,314159.35
+Pam_BaNu_10747,PamPangea,Bali,Nueva York,16589,Boeing 747,True,185751.412496,1305,962466.12
+Pam_NuMe_11380,PamPangea,Nueva York,Melbourne,16082,Airbus A380,True,195277.679168,1272,1011040.68
+Air_GiCa_11320,Airnar,Ginebra,Cádiz,1725,Airbus A320,False,4762.725,145,64711.93
+Fly_GiBa_11380,FlyQ,Ginebra,Bali,12383,Airbus A380,False,156030.7532,845,795002.13
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785,Airbus A320,True,24766.95312,756,340889.3
+Mol_CiLo_10737,MoldaviAir,Cincinnati,Londres,6284,Boeing 737,False,16491.7296,497,222424.54
+Fly_RoCi_11320,FlyQ,Roma,Cincinnati,7480,Airbus A320,True,19721.04992,662,285377.03
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433,Boeing 747,False,15734.0534,115,86373.94
+Air_PaLo_10737,Airnar,París,Los Angeles,9099,Boeing 737,False,22331.6757,711,317996.77
