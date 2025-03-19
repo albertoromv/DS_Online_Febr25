@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<movies>
+  <movie>
+    <title>A History of Violence</title>
+    <year>2005</year>
+    <country>USA</country>
+    <genre>Crime</genre>
+    <summary>Tom Stall, a humble family man and owner of a 
+	popular neighborhood restaurant, lives a quiet but 
+	fulfilling existence in the Midwest. One night Tom 
+	foils a crime at his place of business and, to his 
+	chagrin, is plastered all over the news for his 
+	heroics. Following this, mysterious people follow 
+	the Stalls' every move, concerning Tom more than 
+	anyone else. As this situation is confronted, more 
+	lurks out over where all these occurrences have 
+	stemmed from compromising his marriage, family 
+	relationship and the main characters' former 
+	relations in the process.</summary>
+ <director>	    <last_name>Cronenberg</last_name>
+	    <first_name>David</first_name>
+	    <birth_date>1943</birth_date>
+</director> <actor>
+	    <first_name>Vigo</first_name>
+	    <last_name>Mortensen</last_name>
+	    <birth_date>1958</birth_date>
+	    <role>Tom Stall</role>
+</actor>
+<actor>
+	    <first_name>Maria</first_name>
+	    <last_name>Bello</last_name>
+	    <birth_date>1967</birth_date>
+	    <role>Eddie Stall</role>
+</actor>
+<actor>
+	    <first_name>Ed</first_name>
+	    <last_name>Harris</last_name>
+	    <birth_date>1950</birth_date>
+	    <role>Carl Fogarty</role>
+</actor>
+<actor>
+	    <first_name>William</first_name>
+	    <last_name>Hurt</last_name>
+	    <birth_date>1950</birth_date>
+	    <role>Richie Cusack</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Heat</title>
+    <year>1995</year>
+    <country>USA</country>
+    <genre>Crime</genre>
+    <summary>Hunters and their prey--Neil and his professional 
+	criminal crew hunt to score big money targets 
+	(banks, vaults, armored cars) and are, in turn, 
+	hunted by Lt. Vincent Hanna and his team of cops 
+	in the Robbery/Homicide police division. A botched 
+	job puts Hanna onto their trail while they regroup 
+	and try to put together one last big 'retirement' 
+	score. Neil and Vincent are similar in many ways, 
+	including their troubled personal lives. At a 
+	crucial moment in his life, Neil disobeys the 
+	dictum taught to him long ago by his criminal 
+	mentor--'Never have anything in your life that you 
+	can't walk out on in thirty seconds flat, if you 
+	spot the heat coming around the corner'--as he 
+	falls in love. Thus the stage is set for the 
+	suspenseful ending.... </summary>
+ <director>	    <last_name>Mann</last_name>
+	    <first_name>Michael</first_name>
+	    <birth_date>1943</birth_date>
+</director> <actor>
+	    <first_name>Al</first_name>
+	    <last_name>Pacino</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>Lt. Vincent Hanna</role>
+</actor>
+<actor>
+	    <first_name>Robert</first_name>
+	    <last_name>De Niro</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>Neil McCauley</role>
+</actor>
+<actor>
+	    <first_name>Val</first_name>
+	    <last_name>Kilmer</last_name>
+	    <birth_date>1959</birth_date>
+	    <role>Chris Shiherlis</role>
+</actor>
+<actor>
+	    <first_name>Jon</first_name>
+	    <last_name>Voight</last_name>
+	    <birth_date>1938</birth_date>
+	    <role>Nate</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Unforgiven</title>
+    <year>1992</year>
+    <country>USA</country>
+    <genre>Western</genre>
+    <summary>The town of Big Whisky is full of normal people 
+	trying to lead quiet lives. Cowboys try to make a 
+	living. Sheriff 'Little Bill' tries to build a 
+	house and keep a heavy-handed order. The town 
+	whores just try to get by.Then a couple of cowboys 
+	cut up a whore. Unsatisfied with Bill's justice, 
+	the prostitutes put a bounty on the cowboys. The 
+	bounty attracts a young gun billing himself as 
+	'The Schofield Kid', and aging killer William 
+	Munny. Munny reformed for his young wife, and has 
+	been raising crops and two children in peace. But 
+	his wife is gone. Farm life is hard. And Munny is 
+	no good at it. So he calls his old partner Ned, 
+	saddles his ornery nag, and rides off to kill one 
+	more time, blurring the lines between heroism and 
+	villainy, man and myth.</summary>
+ <director>	    <last_name>Eastwood</last_name>
+	    <first_name>Clint</first_name>
+	    <birth_date>1930</birth_date>
+</director> <actor>
+	    <first_name>Clint</first_name>
+	    <last_name>Eastwood</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>William 'Bill' Munny</role>
+</actor>
+<actor>
+	    <first_name>Gene</first_name>
+	    <last_name>Hackman</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>Little Bill Daggett</role>
+</actor>
+<actor>
+	    <first_name>Morgan</first_name>
+	    <last_name>Freeman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Ned Logan</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Match Point</title>
+    <year>2005</year>
+    <country>USA</country>
+    <genre>Crime</genre>
+    <summary>Chris Wilton is a former tennis pro, looking to 
+	find work as an instructor. He meets Tom Hewett, a 
+	well-off pretty boy. Tom's sister Chloe falls in 
+	love with Chris but Chris has his eyes on Tom's 
+	fiancée, the luscious Nola. Both Chris and Nola 
+	know it's wrong but what could be more right than 
+	love? Chris tries to juggle both women but at some 
+	point, he must choose between them...</summary>
+ <director>	    <last_name>Allen</last_name>
+	    <first_name>Woody</first_name>
+	    <birth_date>1935</birth_date>
+</director> <actor>
+	    <first_name>Jonathan</first_name>
+	    <last_name>Rhys Meyers</last_name>
+	    <birth_date>1977</birth_date>
+	    <role>Chris Wilton</role>
+</actor>
+<actor>
+	    <first_name>Scarlett </first_name>
+	    <last_name>Johansson</last_name>
+	    <birth_date>1984</birth_date>
+	    <role>Nola Rice</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Lost in Translation</title>
+    <year>2003</year>
+    <country>USA</country>
+    <genre>Drama</genre>
+ <director>	    <last_name>Coppola</last_name>
+	    <first_name>Sofia</first_name>
+	    <birth_date>1971</birth_date>
+</director> <actor>
+	    <first_name>Scarlett </first_name>
+	    <last_name>Johansson</last_name>
+	    <birth_date>1984</birth_date>
+	    <role>Charlotte</role>
+</actor>
+<actor>
+	    <first_name>Bill</first_name>
+	    <last_name>Murray</last_name>
+	    <birth_date>1950</birth_date>
+	    <role>Bob Harris</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Marie Antoinette</title>
+    <year>2006</year>
+    <country>USA</country>
+    <genre>Drama</genre>
+    <summary>Based on Antonia Fraser's book about the ill-fated 
+	Archduchess of Austria and later Queen of France, 
+	'Marie Antoinette' tells the story of the most 
+	misunderstood and abused woman in history, from 
+	her birth in Imperial Austria to her later life in 
+	France. </summary>
+ <director>	    <last_name>Coppola</last_name>
+	    <first_name>Sofia</first_name>
+	    <birth_date>1971</birth_date>
+</director> <actor>
+	    <first_name>Kirsten</first_name>
+	    <last_name>Dunst</last_name>
+	    <birth_date>1982</birth_date>
+	    <role>Marie Antoinette</role>
+</actor>
+<actor>
+	    <first_name>Jason </first_name>
+	    <last_name>Schwartzman</last_name>
+	    <birth_date>1980</birth_date>
+	    <role>Louis XVI</role>
+</actor>
+ </movie>
+  <movie>
+    <title>Spider-Man</title>
+    <year>2002</year>
+    <country>USA</country>
+    <genre>Action</genre>
+    <summary>On a school field trip, Peter Parker (Maguire) is 
+	bitten by a genetically modified spider. He wakes 
+	up the next morning with incredible powers. After 
+	witnessing the death of his uncle (Robertson), 
+	Parkers decides to put his new skills to use in 
+	order to rid the city of evil, but someone else 
+	has other plans. The Green Goblin (Dafoe) sees 
+	Spider-Man as a threat and must dispose of him. 
+	Even if it means the Goblin has to target Parker's 
+	Aunt (Harris) and the girl he secretly pines for 
+	(Dunst) </summary>
+ <director>	    <last_name>Raimi</last_name>
+	    <first_name>Sam</first_name>
+	    <birth_date>1959</birth_date>
+</director> <actor>
+	    <first_name>Kirsten</first_name>
+	    <last_name>Dunst</last_name>
+	    <birth_date>1982</birth_date>
+	    <role>Mary Jane Watson</role>
+</actor>
+<actor>
+	    <first_name>Tobey</first_name>
+	    <last_name>Maguire</last_name>
+	    <birth_date>1975</birth_date>
+	    <role>Spider-Man / Peter Parker</role>
+</actor>
+<actor>
+	    <first_name>Willem</first_name>
+	    <last_name>Dafoe</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>Green Goblin / Norman Osborn</role>
+</actor>
+ </movie>
+
+</movies>

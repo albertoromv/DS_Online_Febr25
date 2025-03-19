@@ -1,0 +1,1001 @@
+Id_vuelo,Aircompany,Origen,Destino,Distancia,avion,consumo_kg,duracion,Incidencias
+Air_PaGi_10737,Airnar,París,Ginebra,411.0,Boeing 737,,51.0,Ave impacta con el avión
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,33479.13254400001,1167.0,Sin incidencias
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103.0,Airbus A380,,626.0,Amenaza de seguridad a bordo
+Mol_PaCi_10737,MoldaviAir,París,Cincinnati,6370.0,Boeing 737,17027.01,503.0,Sin incidencias
+Tab_CiRo_10747,TabarAir,Cincinnati,Roma,7480.0,Boeing 747,86115.744,518.0,Amenaza de seguridad a bordo
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029.0,Boeing 737,53148.15324000001,,Sin incidencias
+Mol_PaLo_11320,MoldaviAir,París,Londres,344.0,Airbus A320,915.2464,44.0,"Incidencias con el suministro de combustible,"
+Pam_PaMe_11380,PamPangea,París,Melbourne,16925.0,Airbus A380,217722.6584,1328.0,Sin incidencias
+Pam_NuBa_10737,PamPangea,Nueva York,Bali,16589.0,Boeing 737,45277.61846400001,1459.0,Problema en el sistema de entretenimiento
+Air_GiCa_11380,Airnar,Ginebra,Cádiz,,Airbus A380,,135.0,Sin incidencias
+Tab_LoCi_10737,TabarAir,Los Angeles,Cincinnati,,Boeing 737,"7915,433400000001",,Sin incidencias
+Mol_LoBa_11380,MoldaviAir,Londres,Bali,,Airbus A380,156721.6944,856.0,Discusión a bordo
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073.0,Boeing 747,32758.18,224.0,Incidencias con el suministro de combustible
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739.0,Airbus A380,8542.84,69.0,Mal funcionamiento del tren de aterrizaje
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480.0,Airbus A320,21087.85536,662.0,Emergencia médica a bordo
+Tab_RoLo_10747,TabarAir,Roma,Los Angeles,10077.0,Boeing 747,,691.0,Turbulencia severa
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,20029.0,Boeing 737,51629.634576,1721.0,Emergencia de los sistemas de comunicación
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103.0,Boeing 747,104801.0184,626.0,Sin incidencias
+Pam_MePa_10737,PamPangea,Melbourne,París,16925.0,Boeing 737,46622.41740000001,1485.0,Emergencia grave de los sistemas de comunicación
+Pam_GiNu_11320,PamPangea,Ginebra,Nueva York,6206.0,Airbus A320,16200.1424,569.0,Sin incidencias
+Mol_CaBa_10747,MoldaviAir,Cádiz,Bali,12798.0,Boeing 747,156072.12192,1053.0,Fallo leve de los sistemas de comunicación
+Air_BaGi_11380,Airnar,Bali,Ginebra,,Airbus A380,146010.4296,845.0,Sin incidencias
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553.0,Boeing 737,33310.13868,1153.0,Ave impacta con el avión
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798.0,Boeing 737,,1171.0,Sin incidencias
+Tab_LoRo_10747,TabarAir,Londres,Roma,1433.0,Boeing 747,16803.358,115.0,Problemas con el suministro de combustible
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073.0,Boeing 747,"33740,9254",224.0,Condiciones meteorológicas ligeramente complejas
+Pam_MeBa_10737,PamPangea,Melbourne,Bali,,Boeing 737,7158.148200000001,,Sin incidencias
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011.0,Boeing 737,,1340.0,Sin incidencias
+Mol_LoPa_10747,MoldaviAir,Londres,París,344.0,Boeing 747,"3813,7216",42.0,Incidencias de navegación
+Tab_GiRo_11320,TabarAir,Ginebra,Roma,698.0,Airbus A320,1751.98,70.0,Sin incidencias
+Mol_CaBa_10737,MoldaviAir,Cádiz,Bali,12798.0,Boeing 737,33960.26088000001,1171.0,Sin incidencias
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383.0,Airbus A380,144578.9548,845.0,"Emergencia médica a bordo,"
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480.0,Airbus A320,20892.59744,662.0,Incidencias de navegación
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877.0,Airbus A320,18131.238008,618.0,Aterrizaje de emergencia
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900.0,Boeing 747,192980.9648,1326.0,Problemas con las puertas o ventanas
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785.0,Airbus A320,24078.9822,756.0,Problemas con el catering
+Fly_GiCi_10737,FlyQ,Ginebra,Cincinnati,6969.0,Boeing 737,,,Sin incidencias
+Mol_BaMe_11320,MoldaviAir,Bali,Melbourne,2779.0,Airbus A320,7114.795799999999,,Complicaciones con las puertas o ventanas
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103.0,Boeing 747,106741.778,626.0,Ave impacta con el avión
+Pam_MeGi_11380,PamPangea,Melbourne,Ginebra,16674.0,Airbus A380,,,Sin incidencias
+Fly_GiRo_10737,FlyQ,Ginebra,Roma,698.0,Boeing 737,1763.9856,73.0,Incidencias con las puertas o ventanas
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383.0,Boeing 737,31607.26077600001,,Aterrizaje de emergencia
+Mol_LoPa_11320,MoldaviAir,Londres,París,,Airbus A320,915.2464,44.0,Sin incidencias
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,,Airbus A320,"1822,26",,Sin incidencias
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077.0,Airbus A320,27357.200832,,Sin incidencias
+Air_CiPa_10747,Airnar,Cincinnati,París,,Boeing 747,,444.0,Aterrizaje de emergencia
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082.0,Boeing 747,183640.229344,1272.0,Sin incidencias
+Pam_NuPa_11380,PamPangea,Nueva York,París,5835.0,Airbus A380,72174.282,409.0,Sin incidencias
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589.0,Airbus A380,"199439,5936",1305.0,Emergencia médica a bordo
+Mol_CaBa_10737,MoldaviAir,Cádiz,Bali,12798.0,Boeing 737,34607.12299200001,,Condiciones meteorológicas malas y Condiciones meteorológicas adversas
+Mol_CaBa_10747,MoldaviAir,Cádiz,Bali,,Boeing 747,153234.446976,1053.0,Sin incidencias
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370.0,Airbus A380,78055.432,444.0,Discusión a bordo
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,9103.0,Airbus A320,24475.345336,779.0,Sin incidencias
+Pam_PaGi_11380,PamPangea,París,Ginebra,411.0,Airbus A380,5083.7412,47.0,Sin incidencias
+Tab_LoNu_11380,TabarAir,Londres,Nueva York,5566.0,Airbus A380,70133.8264,391.0,Emergencia médica a bordo
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,,Boeing 747,9797.9258,,Emergencia del motor
+Air_GiCi_11320,Airnar,Ginebra,Cincinnati,6969.0,Airbus A320,"18191,8776",624.0,Inundación entre pasajeros
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589.0,Boeing 747,"191268,781184",1305.0,Amenaza de seguridad a bordo
+Tab_RoNu_10737,TabarAir,Roma,Nueva York,6877.0,Boeing 737,18382.221,542.0,Emergencia del motor y Fallo del motor
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480.0,Airbus A380,89062.864,518.0,Turbulencia severa
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011.0,Airbus A380,189491.65872,1200.0,Sin incidencias
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073.0,Boeing 747,35378.8344,224.0,Sin incidencias
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082.0,Boeing 747,"180074,399648",1272.0,Mal funcionamiento del tren de aterrizaje
+Tab_LoGi_11320,TabarAir,Londres,Ginebra,739.0,Airbus A320,1854.89,73.0,Fallo leve eléctrico general
+Tab_GiNu_11380,TabarAir,Ginebra,Nueva York,6206.0,Airbus A380,75328.428,433.0,Problema eléctrico general
+Mol_LoCi_10747,MoldaviAir,Londres,Cincinnati,6284.0,Boeing 747,70336.812,438.0,Condiciones meteorológicas turbias
+Air_CiCa_10747,Airnar,Cincinnati,Cádiz,6624.0,Boeing 747,,,Incidencia eléctrico general
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624.0,Airbus A320,18155.85408,600.0,"Retraso extenso en la pista de despegue,"
+Air_BaGi_10747,Airnar,Bali,GInEBrA,,Boeing 747,138602.919,845.0,Sin incidencias
+Air_CaLo_11320,Airnar,Cádiz,Los Angeles,9373.0,Airbus A320,25445.970368,799.0,Sin incidencias
+Fly_RoCi_11380,FlyQ,Roma,Cincinnati,7480.0,Airbus A380,90792.24,,Sin incidencias
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480.0,Airbus A380,88198.176,,Amenaza de seguridad a bordo
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011.0,Airbus A380,191296.341184,1200.0,Sin incidencias
+Fly_CiGi_11320,FlyQ,Cincinnati,Ginebra,,Airbus A320,18555.715152,624.0,Sin incidencias
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845.0,Boeing 747,148101.00032,1056.0,Sin incidencias
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262.0,Airbus A380,183485.8688,1217.0,Sin incidencias
+Air_CiPa_11380,Airnar,Cincinnati,París,6370.0,Airbus A380,81000.92,444.0,Incidencias con las puertas o ventanas
+Mol_PaLo_10747,MoldaviAir,París,Londres,344.0,Boeing 747,3850.392,,Sambódromo entre pasajeros
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738.0,Boeing 747,149691.676992,1049.0,Incidencias con el catering
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739.0,Airbus A380,9140.8388,,Sin incidencias
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845.0,Airbus A380,163337.02,876.0,Incidencia de los sistemas hidráulicos
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980.0,Airbus A380,149567.904,818.0,Fallo grave en el sistema de entretenimiento
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 747,,1200.0,Emergencia grave del motor
+Tab_RoNu_11320,TabarAir,Roma,Nueva York,6877.0,Airbus A320,18131.238008,618.0,Turbulencia severa
+Tab_GiRo_11380,TabarAir,Ginebra,Roma,698.0,Airbus A380,8068.88,66.0,Despresurización de la cabina
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,,Airbus A380,169547.579136,1070.0,Sin incidencias
+Fly_GiRo_10747,FlyQ,Ginebra,Roma,,Boeing 747,8110.341200000001,,Enfrentamiento a bordo
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103.0,Airbus A380,112596.8276,626.0,Sin incidencias
+Tab_CiLo_11320,TabarAir,Cincinnati,Los Angeles,3073.0,Airbus A320,8098.8915,242.0,Sin incidencias
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 747,"34068,5072",224.0,Inundación a bordo
+Air_PaCa_10747,Airnar,París,Cádiz,1447.0,Boeing 747,"16504,7714",116.0,Sin incidencias
+Pam_GiLo_11320,PamPangea,Ginebra,Londres,739.0,Airbus A320,2003.2812,,Aterrizaje de emergencia
+Tab_CiRo_11380,TabarAir,Cincinnati,Roma,7480.0,Airbus A380,87333.488,518.0,"Problemas con las puertas o ventanas,"
+Fly_BaGi_11320,FlyQ,Barcelona,Ginebra,,Airbus A320,1805.694,67.0,Sin incidencias
+Tab_LoGi_11320,TabarAir,Los Angeles,Ginebra,9103.0,Airbus A320,26138.71832,779.0,Sin incidencias
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553.0,Boeing 747,137829.4294,856.0,Emergencia eléctrico general
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798.0,Boeing 747,141883.7472,1053.0,Sin incidencias
+Air_PaCa_11320,Airnar,París,Cádiz,1447.0,Airbus A320,3922.5276,124.0,Sin incidencias
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103.0,Airbus A380,108387.6004,626.0,Sin incidencias
+Air_BaCi_10737,Airnar,Bali,Cincinnati,,Boeing 737,37935.7992,1340.0,Problema eléctrico general
+Tab_LoRo_11380,TabarAir,Londres,Roma,1433.0,Airbus A380,16731.1348,115.0,"Amenaza de seguridad a bordo,"
+Fly_GiBa_10747,FlyQ,Ginebra,BARcelOnA,660.0,Boeing 747,,64.0,Sin incidencias
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480.0,Boeing 747,87710.48000000001,518.0,Incidencias de navegación
+Fly_NuCi_11320,FlyQ,Nueva York,Cincinnati,911.0,Airbus A320,2286.61,86.0,"Problema en el sistema de entretenimiento,"
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,41270.03524800001,1359.0,Problemas con el catering
+Mol_CaLo_11380,MoldaviAir,Cádiz,Londres,1716.0,Airbus A380,20432.0688,134.0,Incidencias con el suministro de combustible
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383.0,Boeing 737,32859.03348000001,1140.0,Inundación entre pasajeros
+Air_LoCa_10747,Airnar,Los Angeles,Cádiz,9373.0,Boeing 747,102913.6654,644.0,Enfrentamiento entre pasajeros
+Mol_BaMe_11380,MoldaviAir,Bali,Melbourne,2779.0,Airbus A380,33731.502,,Sin incidencias
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,33157.21780800001,1167.0,Sin incidencias
+Pam_NuLo_11380,PamPangea,Nueva York,Londres,,Airbus A380,68203.53760000001,391.0,Incidencias con el suministro de combustible
+Mol_MePa_10747,MoldaviAir,Melbourne,París,16925.0,Boeing 747,198895.5592,1328.0,Sin incidencias
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,76518.2262,,Sin incidencias
+Air_GiLo_10737,Airnar,Ginebra,Los Angeles,,Boeing 737,"22562,6958",,Sin incidencias
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073.0,Boeing 747,"36033,998",224.0,Inundación entre pasajeros
+Pam_BaPa_10747,PamPangea,Bali,París,11980.0,Boeing 747,132815.072,818.0,Mal funcionamiento del tren de aterrizaje
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566.0,Boeing 737,13660.6338,,"Condiciones meteorológicas adversas,"
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011.0,Boeing 737,40591.30514400001,1340.0,Amenaza de seguridad a bordo
+Pam_BaMe_11320,PamPangea,Bali,MelBOUrnE,2779.0,Airbus A320,7533.3132,221.0,Emergencia médica a bordo
+Pam_LoGi_10737,PamPangea,Londres,Ginebra,739.0,Boeing 737,1849.6431,76.0,"Emergencia de los sistemas de comunicación,"
+Tab_NuCi_11380,TabarAir,Nueva York,Cincinnati,911.0,Airbus A380,10636.4716,80.0,Sin incidencias
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785.0,Airbus A380,108663.422,605.0,Sin incidencias
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589.0,Boeing 747,185751.412496,1305.0,Condiciones meteorológicas malas y Amenaza de seguridad a bordo
+Mol_CaPa_11380,MoldaviAir,Cádiz,París,1447.0,Airbus A380,18400.052,116.0,Retraso extenso en la pista de despegue
+Fly_GiBa_10747,FlyQ,Ginebra,Bali,12383.0,Boeing 747,137282.8912,845.0,Sin incidencias
+Air_CaLo_11380,Airnar,Cádiz,Los Angeles,9373.0,Airbus A380,111602.4364,644.0,Sin incidencias
+Fly_BaGi_11320,FlyQ,Barcelona,GinEbra,660.0,Airbus A320,1689.732,67.0,Sambódromo entre pasajeros
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553.0,Boeing 747,133814.98,856.0,Aterrizaje de emergencia
+Tab_RoGi_10747,TabarAir,Roma,Ginebra,,Boeing 747,8035.934400000001,66.0,Sin incidencias
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589.0,Boeing 737,"43181,43242400001",,Sin incidencias
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980.0,Boeing 747,134092.14,,Sin incidencias
+Air_CiPa_10737,Airnar,Cincinnati,París,,Boeing 737,,503.0,Sin incidencias
+Air_LoBa_10747,Airnar,Los Angeles,Bali,,Boeing 747,"149525,0484",1056.0,Emergencia médica a bordo
+Pam_NuPa_10737,PamPangea,Nueva York,París,5835.0,Boeing 737,14179.05,463.0,Emergencia eléctrico general
+Tab_RoLo_11320,TabarAir,Roma,Los Angeles,10077.0,Airbus A320,27357.200832,,Sin incidencias
+Mol_MeBa_10747,MoldaviAir,Melbourne,Bali,2779.0,Boeing 747,31697.8298,205.0,Despresurización de la cabina
+Fly_CiNu_10747,FlyQ,Cincinnati,Nueva York,911.0,Boeing 747,10585.2734,80.0,Sin incidencias
+Tab_RoLo_11380,TabarAir,Roma,Los Angeles,10077.0,Airbus A380,"119984,8236",691.0,"Condiciones meteorológicas adversas,"
+Fly_CiGi_11320,FlyQ,Cincinnati,GInebRA,6969.0,Airbus A320,19283.390256,,Inundación entre pasajeros y Despresurización de la cabina
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,,Boeing 737,,1721.0,Sin incidencias
+Air_PaGi_11380,Airnar,París,GINEbRA,411.0,Airbus A380,,47.0,Fallo en el sistema de entretenimiento
+Pam_PaBa_11380,PamPangea,París,Bali,11980.0,Airbus A380,148183.016,,Sin incidencias
+Pam_NuBa_11380,PamPangea,Nueva York,Bali,16589.0,Airbus A380,205422.781408,1305.0,Sin incidencias
+Fly_GiBa_10747,FlyQ,Ginebra,Bali,12383.0,Boeing 747,"141242,9746",845.0,Fallo grave de los sistemas de comunicación
+Air_LoBa_11380,Airnar,Los Angeles,Bali,12845.0,Airbus A380,,876.0,Problema en el sistema de entretenimiento y Fallo del motor
+Pam_MePa_10737,PamPangea,Melbourne,París,16925.0,Boeing 737,44911.503,,Complicaciones con las puertas o ventanas
+Tab_CiLo_11320,TabarAir,Cincinnati,Los Angeles,3073.0,Airbus A320,8253.1561,242.0,Sin incidencias
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206.0,Boeing 737,15231.3858,491.0,Sin incidencias
+Mol_CaPa_11320,MoldaviAir,Cádiz,París,,Airbus A320,3995.167,124.0,Fallo leve de los sistemas hidráulicos
+Air_CiPa_10747,Airnar,Cincinnati,París,6370.0,Boeing 747,74694.62000000001,444.0,Retraso extenso en la pista de despegue
+Pam_LoPa_10747,PamPangea,Londres,París,344.0,Boeing 747,3740.3808,42.0,Sin incidencias
+Tab_CiGi_11380,TabarAir,Cincinnati,GIneBra,6969.0,Airbus A380,,484.0,Incidencia de los sistemas hidráulicos
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969.0,Boeing 737,17781.4035,549.0,Fallo leve eléctrico general
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077.0,Boeing 747,,691.0,Inundación a bordo
+Tab_NuRo_10737,TabarAir,Nueva York,Roma,6877.0,Boeing 737,"17379,5544",542.0,"Amenaza de seguridad a bordo,"
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206.0,Boeing 747,69463.75800000002,433.0,"Sambódromo a bordo,"
+Mol_CiCa_10747,MoldaviAir,Cincinnati,Cádiz,6624.0,Boeing 747,76966.9056,461.0,Mal funcionamiento del tren de aterrizaje
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480.0,Boeing 747,83723.64,518.0,Sin incidencias
+Air_LoCi_11320,Airnar,Los Angeles,Cincinnati,3073.0,Airbus A320,8330.2884,242.0,Sin incidencias
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877.0,Airbus A320,19028.824048,618.0,Turbulencia severa
+Pam_GiPa_10747,PamPangea,Ginebra,París,411.0,Boeing 747,,47.0,Sin incidencias
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433.0,Boeing 747,16345.0846,115.0,Incidencias con las puertas o ventanas
+Tab_LoCi_11320,TabarAir,Los Angeles,Cincinnati,3073.0,Airbus A320,8176.0238,242.0,Sin incidencias
+Tab_NuLo_10747,TabarAir,Nueva York,Los Angeles,3944.0,Boeing 747,42463.4704,282.0,Sin incidencias
+Tab_NuCi_10747,TabarAir,Nueva York,Cincinnati,911.0,Boeing 747,,80.0,Inundación entre pasajeros
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,,Airbus A320,,305.0,Fallo leve de los sistemas de comunicación y Amenaza de seguridad a bordo
+Pam_BaPa_11380,PamPangea,Bali,París,11980.0,Airbus A380,150952.792,818.0,Complicaciones con las puertas o ventanas
+Pam_GiMe_10747,PamPangea,Ginebra,Melbourne,16674.0,Boeing 747,194097.36528,1311.0,Sambódromo a bordo
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877.0,Boeing 747,74041.9082,478.0,Problemas con el suministro de combustible
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698.0,Boeing 737,1747.0242,73.0,Fallo en el sistema de entretenimiento
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 737,22120.29,,Sin incidencias
+Pam_LoBa_10737,PamPangea,Londres,Bali,12553.0,Boeing 737,32992.899264,1153.0,Sin incidencias
+Fly_GiNu_11320,FlyQ,Ginebra,Nueva York,,Airbus A320,17010.14952,,Aterrizaje de emergencia
+Fly_NuBa_10747,FlyQ,Nueva York,Bali,16589.0,Boeing 747,194947.026976,,Problema en el sistema de entretenimiento
+Tab_NuGi_11380,TabarAir,Nueva York,GINebRa,6206.0,Airbus A380,76763.2552,,Sin incidencias
+Air_GiLo_10737,Airnar,Ginebra,Los Angeles,9103.0,Boeing 737,,711.0,Sin incidencias
+Fly_NuRo_11320,FlyQ,Nueva York,Roma,6877.0,Airbus A320,"18490,272424",,Sin incidencias
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,,Boeing 737,,76.0,Fallo eléctrico general y Fallo de los sistemas hidráulicos
+Fly_NuGi_11380,FlyQ,Nueva York,GINEbRa,6206.0,Airbus A380,73176.1872,433.0,Inundación a bordo
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,14472.1566,442.0,Aterrizaje de emergencia
+Mol_BaCa_11380,MoldaviAir,Bali,Cádiz,12798.0,Airbus A380,156821.5728,873.0,Sin incidencias
+Mol_CiCa_11380,MoldaviAir,Cincinnati,Cádiz,6624.0,Airbus A380,79636.3776,461.0,Incidencias con el suministro de combustible
+Pam_BaLo_11380,PamPangea,Bali,Londres,12553.0,Airbus A380,,856.0,Sin incidencias
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170.0,Boeing 747,71033.976,431.0,Sin incidencias
+Mol_LoMe_11380,MoldaviAir,Londres,MeLbourne,16900.0,Airbus A380,213337.488,1326.0,Sin incidencias
+Pam_NuGi_11320,PamPangea,Nueva York,GiNeBra,6206.0,Airbus A320,17334.152368,569.0,Sin incidencias
+Fly_RoCi_10747,FlyQ,Roma,Cincinnati,7480.0,Boeing 747,79736.8,,Despresurización de la cabina y Fallo eléctrico general
+Air_PaCa_11380,Airnar,París,Cádiz,1447.0,Airbus A380,17229.1396,116.0,Sambódromo entre pasajeros
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,,Airbus A320,15982.43504,523.0,Ave impacta con el avión
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170.0,Boeing 747,70376.254,431.0,Despresurización de la cabina
+Air_GiPa_10747,Airnar,Ginebra,París,411.0,Boeing 747,4468.885200000001,47.0,Sin incidencias
+Mol_BaMe_10747,MoldaviAir,Bali,Melbourne,2779.0,Boeing 747,29624.14,,Problemas con el catering y Problemas de navegación
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798.0,Airbus A380,147944.88,873.0,Retraso extenso en la pista de despegue
+Fly_CiBa_10747,FlyQ,Cincinnati,Barcelona,6763.0,Boeing 747,72814.51580000001,470.0,Inundación entre pasajeros
+Fly_RoNu_11320,FlyQ,Roma,Nueva York,6877.0,Airbus A320,"19387,858464",618.0,Problemas con las puertas o ventanas
+Tab_LoGi_10737,TabarAir,Los Angeles,Ginebra,9103.0,Boeing 737,,711.0,Inundación entre pasajeros
+Tab_GiCi_10747,TabarAir,Ginebra,Cincinnati,6969.0,Boeing 747,75775.33080000001,,Sin incidencias
+Tab_GiNu_10747,TabarAir,Ginebra,Nueva York,6206.0,Boeing 747,72771.55600000001,,Sin incidencias
+Air_CaPa_11380,Airnar,Cádiz,París,1447.0,Airbus A380,17730.9592,116.0,Problemas de navegación
+Fly_BaNu_10747,FlyQ,Bali,Nueva York,16589.0,Boeing 747,200464.395664,1305.0,Sin incidencias
+Mol_LoCa_10747,MoldaviAir,Londres,Cádiz,1716.0,Boeing 747,19024.2624,,Enfrentamiento a bordo y Amenaza de seguridad a bordo
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262.0,Boeing 747,184428.694112,,Fallo del motor
+Pam_BaMe_11320,PamPangea,Bali,Melbourne,2779.0,Airbus A320,7254.301599999999,221.0,Sin incidencias
+Fly_CiGi_11380,FlyQ,Cincinnati,Ginebra,6969.0,Airbus A380,82978.4892,484.0,Sin incidencias
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,,Boeing 737,2390.8284,89.0,Fallo grave de los sistemas hidráulicos
+Mol_LoCi_10747,MoldaviAir,Londres,Cincinnati,6284.0,Boeing 747,71006.6864,438.0,Aterrizaje de emergencia
+Air_LoCi_10737,Airnar,Los Angeles,Cincinnati,3073.0,Boeing 737,,,Sin incidencias
+Air_PaCi_11320,Airnar,París,Cincinnati,6370.0,Airbus A320,17792.22536,581.0,Sin incidencias
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284.0,Airbus A320,17552.016352,575.0,Fallo leve de los sistemas de comunicación
+Tab_GiCi_10747,TabarAir,Ginebra,Cincinnati,6969.0,Boeing 747,80232.70320000002,484.0,Sin incidencias
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029.0,Airbus A380,248020.549088,1535.0,Sin incidencias
+Fly_CiNu_10747,FlyQ,Cincinnati,Nueva York,911.0,Boeing 747,10488.1608,80.0,Fallo grave en el sistema de entretenimiento
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553.0,Boeing 747,,,Emergencia grave eléctrico general
+Air_GiPa_10747,Airnar,Ginebra,París,411.0,Boeing 747,4425.0726,47.0,Incidencias con el catering
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433.0,Boeing 747,16803.358,115.0,Problema eléctrico general
+Mol_CiMe_10737,MoldaviAir,Cincinnati,MelbOUrnE,,Boeing 737,40498.63272,1359.0,Sin incidencias
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058.0,Boeing 747,"152004,52176",1070.0,Sin incidencias
+Fly_BaGi_10737,FlyQ,Barcelona,Ginebra,660.0,Boeing 737,1635.876,70.0,Turbulencia severa
+Fly_BaCi_11320,FlyQ,Barcelona,Cincinnati,6763.0,Airbus A320,18007.217904,610.0,Sin incidencias
+Pam_BaGi_11380,PamPangea,Bali,GIneBrA,,Airbus A380,,845.0,Sin incidencias
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716.0,Airbus A320,4737.876,144.0,Fallo de los sistemas de comunicación
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,5566.0,Airbus A320,15255.96072,523.0,Ave impacta con el avión
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170.0,Boeing 747,72349.42,431.0,Sin incidencias
+Air_CiLo_11320,Airnar,Cincinnati,Los Angeles,3073.0,Airbus A320,,242.0,Sin incidencias
+Pam_GiPa_11320,PamPangea,Ginebra,París,411.0,Airbus A320,"1124,4549",49.0,Despresurización de la cabina
+Air_PaCa_10747,Airnar,París,Cádiz,1447.0,Boeing 747,15733.5204,116.0,Fallo grave de los sistemas hidráulicos
+Tab_LoLo_10737,TabarAir,Los Angeles,Londres,8785.0,Boeing 737,22201.452,687.0,Sin incidencias
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 747,35378.8344,224.0,Sin incidencias
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,8785.0,Boeing 747,93648.1,605.0,Sin incidencias
+Fly_BaRo_11320,FlyQ,Barcelona,Roma,859.0,Airbus A320,2307.0163,82.0,Incidencia en el sistema de entretenimiento
+Pam_LoPa_10737,PamPangea,Londres,París,344.0,Boeing 737,877.7160000000001,46.0,Amenaza de seguridad a bordo
+Pam_MePa_10747,PamPangea,Melbourne,París,,Boeing 747,195142.8128,1328.0,Condiciones meteorológicas turbias
+Fly_BaGi_10737,FlyQ,Bali,Ginebra,12383.0,Boeing 737,32546.090304,,Sin incidencias
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011.0,Airbus A380,194905.706112,1200.0,Sin incidencias
+Fly_BaGi_11380,FlyQ,Bali,Ginebra,12383.0,Airbus A380,148873.3792,845.0,Sin incidencias
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553.0,Airbus A380,,856.0,Sin incidencias
+Air_LoGi_10737,Airnar,Los Angeles,GinEbra,,Boeing 737,22783.8987,,Ave impacta con el avión
+Pam_NuPa_11320,PamPangea,Nueva York,París,5835.0,Airbus A320,16145.58504,542.0,Mal funcionamiento del tren de aterrizaje
+Tab_LoGi_11380,TabarAir,Los Angeles,Ginebra,9103.0,Airbus A380,111544.5208,,Mal funcionamiento del tren de aterrizaje
+Tab_LoNu_11380,TabarAir,Londres,Nueva York,5566.0,Airbus A380,70133.8264,391.0,Inundación a bordo
+Air_CiLo_11380,Airnar,Cincinnati,Los Angeles,,Airbus A380,39076.26800000001,224.0,Sin incidencias
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383.0,Boeing 747,133322.8078,845.0,"Incidencias de navegación,"
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900.0,Boeing 747,198601.7696,1326.0,Emergencia de los sistemas de comunicación
+Pam_MePa_10737,PamPangea,Melbourne,París,,Boeing 737,44483.7744,1485.0,Incidencias de navegación
+Tab_RoLo_11320,TabarAir,Roma,Los Angeles,,Airbus A320,,850.0,Enfrentamiento a bordo
+Fly_RoNu_10737,FlyQ,Roma,Nueva York,6877.0,Boeing 737,16878.2211,542.0,Aterrizaje de emergencia
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383.0,Airbus A380,154599.2784,845.0,Emergencia médica a bordo
+Fly_RoCi_10737,FlyQ,Roma,Cincinnati,,Boeing 737,19266.984,588.0,Fallo grave de los sistemas de comunicación
+Tab_RoGi_11380,TabarAir,Roma,Ginebra,698.0,Airbus A380,8310.9464,66.0,Sin incidencias
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900.0,Boeing 747,202348.9728,1326.0,Sin incidencias
+Mol_PaMe_10737,MoldaviAir,París,Melbourne,16925.0,Boeing 737,44056.04580000001,1485.0,Incidencias con el catering
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877.0,Boeing 747,"76241,17280000001",478.0,Ave impacta con el avión
+Mol_MePa_10747,MoldaviAir,Melbourne,París,16925.0,Boeing 747,191390.0664,1328.0,Despresurización de la cabina
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029.0,Airbus A380,264876.3145600001,1535.0,Sin incidencias
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,14877.918,,Aterrizaje de emergencia
+Pam_MeGi_11380,PamPangea,Melbourne,Ginebra,16674.0,Airbus A380,,1311.0,Inundación entre pasajeros
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206.0,Airbus A380,,433.0,Sin incidencias
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073.0,Boeing 747,36033.998,224.0,Complicaciones con el catering y Ave impacta con el avión
+Mol_LoPa_10747,MoldaviAir,Londres,París,344.0,Boeing 747,3740.3808,,Mal funcionamiento del tren de aterrizaje
+Tab_GiCi_11320,TabarAir,Ginebra,Cincinnati,6969.0,Airbus A320,19829.146584,624.0,Sin incidencias
+Mol_CaMe_11380,MoldaviAir,Cádiz,Melbourne,,Airbus A380,264876.3145600001,1535.0,Sin incidencias
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206.0,Airbus A380,75328.428,433.0,Problema de los sistemas hidráulicos
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739.0,Airbus A380,8799.1252,69.0,Sin incidencias
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589.0,Airbus A380,"211405,969216",1305.0,Sin incidencias
+Tab_CiLo_11320,TabarAir,Cincinnati,Londres,6284.0,Airbus A320,"16731,828672",575.0,Problemas de navegación
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900.0,Airbus A380,211305.7024,1326.0,Mal funcionamiento del tren de aterrizaje
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980.0,Airbus A380,"148183,016",818.0,Sin incidencias
+Mol_PaMe_11380,MoldaviAir,París,Melbourne,16925.0,Airbus A380,207548.7024,,Sin incidencias
+Fly_NuGi_10737,FlyQ,Nueva York,Ginebra,6206.0,Boeing 737,15683.8032,491.0,Problema de los sistemas de comunicación
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206.0,Boeing 737,15532.9974,491.0,Enfrentamiento entre pasajeros
+Mol_LoCa_10737,MoldaviAir,Londres,Cádiz,1716.0,Boeing 737,,150.0,Incidencias de navegación
+Fly_BaNu_10747,FlyQ,Barcelona,Nueva York,6170.0,Boeing 747,66429.92199999999,431.0,Sin incidencias
+Air_GiPa_11320,Airnar,Ginebra,París,,Airbus A320,1124.4549,49.0,Incidencias con las puertas o ventanas y Problemas con el suministro de combustible
+Tab_CiGi_11380,TabarAir,Cincinnati,Ginebra,6969.0,Airbus A380,85395.33840000001,484.0,Sin incidencias
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,,Boeing 747,107420.82,691.0,Complicaciones con el catering
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,16589.0,Boeing 747,185751.412496,1305.0,Ave impacta con el avión
+Pam_MeLo_11380,PamPangea,Melbourne,Londres,16900.0,Airbus A380,215369.2736,1326.0,Despresurización de la cabina
+Air_PaCa_10747,Airnar,París,Cádiz,1447.0,Boeing 747,15425.02,116.0,Fallo grave de los sistemas hidráulicos
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835.0,Boeing 737,15171.5835,,Sin incidencias
+Pam_BaNu_11380,PamPangea,Bali,Nueva York,16589.0,Airbus A380,219383.55296,1305.0,Sin incidencias
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,13795.8876,442.0,Sin incidencias
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383.0,Airbus A380,,845.0,Sin incidencias
+Pam_GiPa_11320,PamPangea,Ginebra,París,411.0,Airbus A320,1083.1905,49.0,Incidencia en el sistema de entretenimiento
+Fly_BaCi_10747,FlyQ,Bali,Cincinnati,15011.0,Boeing 747,181395.565936,1200.0,Sin incidencias
+Air_PaBa_10737,Airnar,París,Bali,11980.0,Boeing 737,30881.37312,1029.0,Fallo leve de los sistemas de comunicación
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785.0,Airbus A320,,756.0,Incidencias de navegación y Problemas con el catering
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877.0,Boeing 747,78440.43740000001,478.0,Sin incidencias
+Air_CaCi_11380,Airnar,Cádiz,Cincinnati,6624.0,Airbus A380,83465.04960000001,461.0,Sin incidencias
+Mol_PaLo_10737,MoldaviAir,París,Londres,344.0,Boeing 737,835.9200000000001,46.0,Emergencia médica a bordo y Problemas con el catering
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370.0,Airbus A380,75846.316,444.0,Amenaza de seguridad a bordo
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900.0,Airbus A380,207242.1312,1326.0,Condiciones meteorológicas turbias
+Air_PaBa_11380,Airnar,París,Bali,,Airbus A380,142643.464,818.0,Sin incidencias
+Pam_MePa_11380,PamPangea,Melbourne,París,16925.0,Airbus A380,207548.7024,1328.0,Fallo leve de los sistemas hidráulicos
+Fly_BaGi_10737,FlyQ,Barcelona,Ginebra,,Boeing 737,1716.066,70.0,Sin incidencias
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262.0,Airbus A380,,1217.0,"Problema del motor,"
+Tab_LoCi_10737,TabarAir,Los Angeles,Cincinnati,3073.0,Boeing 737,7840.759500000001,,Sin incidencias
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170.0,Boeing 747,66429.92199999999,431.0,Problema de los sistemas de comunicación
+Air_CiBa_10737,Airnar,Cincinnati,Bali,15011.0,Boeing 737,40211.94715200001,1340.0,Sin incidencias
+Pam_MeGi_10737,PamPangea,Melbourne,Ginebra,16674.0,Boeing 737,"46352,38608000001",1466.0,Sin incidencias
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,12553.0,Boeing 747,"133814,98",,Sin incidencias
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779.0,Boeing 737,7225.677900000001,,Sin incidencias
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553.0,Boeing 747,144520.1784,856.0,Sin incidencias
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980.0,Airbus A380,142643.464,818.0,Sin incidencias
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077.0,Boeing 737,25221.7233,785.0,Sin incidencias
+Tab_NuGi_11320,TabarAir,Nueva York,GiNEbRa,6206.0,Airbus A320,17172.150944,569.0,Emergencia médica a bordo y Incendio a bordo
+Pam_LoPa_11380,PamPangea,Londres,París,344.0,Airbus A380,"4175,472000000001",42.0,Mal funcionamiento del tren de aterrizaje
+Tab_LoLo_10747,TabarAir,Los Angeles,Londres,8785.0,Boeing 747,,605.0,Amenaza de seguridad a bordo y Problemas con el suministro de combustible
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,,484.0,Sin incidencias
+Fly_BaBa_10737,FlyQ,Bali,Barcelona,13058.0,Boeing 737,33330.17937600001,1191.0,"Fallo grave de los sistemas de comunicación,"
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447.0,Airbus A320,3922.5276,124.0,Sin incidencias
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944.0,Airbus A380,"47872,272",282.0,Turbulencia severa
+Tab_CiNu_10747,TabarAir,Cincinnati,Nueva York,911.0,Boeing 747,10488.1608,80.0,Sin incidencias
+Pam_MePa_10747,PamPangea,Melbourne,París,,Boeing 747,193266.4396,1328.0,Sin incidencias
+Fly_BaGi_11380,FlyQ,Barcelona,Ginebra,660.0,Airbus A380,,64.0,Sin incidencias
+Pam_PaNu_11320,PamPangea,París,Nueva York,5835.0,Airbus A320,15231.684,542.0,Sin incidencias
+Mol_LoBa_10747,MoldaviAir,Londres,Bali,,Boeing 747,140505.729,856.0,Aterrizaje de emergencia
+Air_BaPa_10747,Airnar,Bali,París,11980.0,Boeing 747,128983.868,818.0,Condiciones meteorológicas adversas
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206.0,Boeing 747,70786.87720000002,433.0,Fallo eléctrico general
+Air_BaPa_11380,Airnar,Bali,París,11980.0,Airbus A380,146798.128,,Mal funcionamiento del tren de aterrizaje
+Pam_PaMe_10737,PamPangea,París,Melbourne,16925.0,Boeing 737,43200.5886,1485.0,Discusión entre pasajeros
+Fly_RoBa_10747,FlyQ,Roma,Barcelona,859.0,Boeing 747,,77.0,Sin incidencias
+Fly_GiCi_11320,FlyQ,Ginebra,Cincinnati,,Airbus A320,18555.715152,624.0,Complicaciones de navegación
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553.0,Boeing 747,141843.8788,856.0,Enfrentamiento entre pasajeros
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589.0,Airbus A380,217389.157024,1305.0,Sin incidencias
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877.0,Boeing 747,77707.34920000001,,Turbulencia severa
+Fly_CiGi_10737,FlyQ,Cincinnati,GINebra,6969.0,Boeing 737,17781.4035,549.0,Sin incidencias
+Mol_CaPa_10747,MoldaviAir,Cádiz,París,1447.0,Boeing 747,15887.7706,116.0,Sin incidencias
+Mol_LoCa_10747,MoldaviAir,Londres,Cádiz,1716.0,Boeing 747,19755.9648,134.0,Emergencia médica a bordo
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,39341.52892800001,1359.0,Sin incidencias
+Mol_CiMe_11380,MoldaviAir,Cincinnati,Melbourne,15262.0,Airbus A380,199999.596992,1217.0,Despresurización de la cabina
+Mol_PaMe_10737,MoldaviAir,París,MeLboURnE,,Boeing 737,,1485.0,Sin incidencias
+Mol_BaPa_11380,MoldaviAir,Bali,París,11980.0,Airbus A380,,818.0,Sin incidencias
+Pam_LoNu_11320,PamPangea,Londres,Nueva York,,Airbus A320,15546.550448,,Sin incidencias
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739.0,Boeing 737,1831.6854,,Retraso extenso en la pista de despegue
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480.0,Boeing 737,18539.928,588.0,Discusión entre pasajeros
+Fly_NuCi_10747,FlyQ,Nueva York,Cincinnati,911.0,Boeing 747,10682.386,80.0,Sin incidencias
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170.0,Boeing 747,69718.532,431.0,Sin incidencias
+Air_PaBa_11380,Airnar,París,Bali,,Airbus A380,,818.0,Sin incidencias
+Air_GiPa_11380,Airnar,Ginebra,París,411.0,Airbus A380,4893.6948,47.0,Sambódromo a bordo y Conflictos entre pasajeros
+Mol_BaCa_11380,MoldaviAir,Bali,Cádiz,12798.0,Airbus A380,,873.0,Fallo en el sistema de entretenimiento
+Mol_PaCa_10737,MoldaviAir,París,Cádiz,1447.0,Boeing 737,3516.21,129.0,Turbulencia severa
+Tab_LoGi_11380,TabarAir,Londres,GinebrA,739.0,Airbus A380,8799.1252,69.0,Problema de los sistemas de comunicación
+Pam_LoPa_11320,PamPangea,Londres,París,344.0,Airbus A320,949.784,44.0,Incidencia del motor
+Mol_LoPa_11380,MoldaviAir,Londres,París,344.0,Airbus A380,4255.004800000001,42.0,Sin incidencias
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,,Boeing 737,2412.9657,89.0,Sin incidencias
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674.0,Boeing 737,45509.615424,1466.0,Sin incidencias
+Fly_BaBa_11380,FlyQ,Bali,Barcelona,13058.0,Airbus A380,169547.579136,1070.0,Sin incidencias
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077.0,Boeing 737,25221.7233,785.0,"Problemas con el catering,"
+Air_PaGi_10737,Airnar,París,GINEbRa,411.0,Boeing 737,"1068,6411",51.0,Sin incidencias
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553.0,Airbus A380,148014.9336,856.0,Aterrizaje de emergencia
+Air_PaBa_10747,Airnar,París,Bali,,Boeing 747,134092.14,818.0,Fallo grave eléctrico general
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553.0,Boeing 737,32992.899264,1153.0,"Problemas de navegación,"
+Pam_PaGi_11320,PamPangea,París,GiNebrA,411.0,Airbus A320,1072.8744,49.0,Amenaza de seguridad a bordo
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 747,,224.0,Sin incidencias
+Pam_MeLo_11380,PamPangea,Melbourne,Londres,16900.0,Airbus A380,223496.416,1326.0,Emergencia en el sistema de entretenimiento y Mal funcionamiento del tren de aterrizaje
+Air_PaCi_10737,Airnar,París,Cincinnati,6370.0,Boeing 737,16407.846,503.0,Sin incidencias
+Fly_CiGi_11320,FlyQ,Cincinnati,Ginebra,6969.0,Airbus A320,20011.06536,624.0,Sin incidencias
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077.0,Boeing 747,111717.6528,691.0,Retraso extenso en la pista de despegue
+Pam_BaGi_10747,PamPangea,Bali,Ginebra,12383.0,Boeing 747,"143883,0302",845.0,Sin incidencias
+Pam_GiLo_11380,PamPangea,Ginebra,Londres,739.0,Airbus A380,,69.0,Incidencia de los sistemas hidráulicos
+Fly_BaNu_11320,FlyQ,Barcelona,Nueva York,,Airbus A320,"17555,72312",567.0,Mal funcionamiento del tren de aterrizaje
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206.0,Airbus A380,75328.428,433.0,Fallo de los sistemas hidráulicos
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980.0,Boeing 737,,1029.0,Enfrentamiento entre pasajeros
+Pam_MePa_10737,PamPangea,Melbourne,París,16925.0,Boeing 737,43628.3172,1485.0,Sin incidencias
+Mol_BaMe_10737,MoldaviAir,Bali,Melbourne,2779.0,Boeing 737,6955.5591,,Sin incidencias
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,,Boeing 737,9583.92,319.0,Sin incidencias
+Tab_LoCi_10747,TabarAir,Los Angeles,Cincinnati,3073.0,Boeing 747,,,Emergencia médica a bordo
+Tab_NuLo_10747,TabarAir,Nueva York,Los Angeles,3944.0,Boeing 747,45826.91360000001,282.0,Condiciones meteorológicas malas y Emergencia médica a bordo
+Pam_MePa_11380,PamPangea,Melbourne,París,,Airbus A380,213653.076,,Sin incidencias
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739.0,Boeing 737,1849.6431,76.0,Sin incidencias
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206.0,Boeing 747,68140.63880000002,433.0,Sin incidencias
+Air_BaCi_11380,Airnar,Bali,Cincinnati,15011.0,Airbus A380,,1200.0,Incidencia en el sistema de entretenimiento
+Air_CaGi_10747,Airnar,Cádiz,Ginebra,1725.0,Boeing 747,18940.155,135.0,Emergencia grave de los sistemas hidráulicos
+Pam_PaGi_11320,PamPangea,París,Ginebra,411.0,Airbus A320,"1103,8227",49.0,Condiciones meteorológicas ligeramente complejas
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877.0,Airbus A320,19208.341256,618.0,Complicaciones con las puertas o ventanas
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566.0,Boeing 747,,,Emergencia en el sistema de entretenimiento
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,78746.91240000002,484.0,Sin incidencias
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447.0,Airbus A320,3704.6094,124.0,Turbulencia severa
+Pam_BaMe_10747,PamPangea,Bali,Melbourne,2779.0,Boeing 747,"32290,3126",205.0,Sin incidencias
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911.0,Airbus A380,11268.3412,80.0,Complicaciones con el suministro de combustible
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,14742.6642,442.0,Sin incidencias
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589.0,Boeing 737,45277.61846400001,1459.0,Sin incidencias
+Mol_PaMe_10747,MoldaviAir,París,Melbourne,,Boeing 747,,1328.0,Sin incidencias
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 747,166417.9504,,Sin incidencias
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911.0,Boeing 737,2302.2792,89.0,Sin incidencias
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383.0,Airbus A380,150304.854,,Sin incidencias
+Pam_GiNu_11320,PamPangea,Ginebra,Nueva York,6206.0,Airbus A320,16200.1424,569.0,Mal funcionamiento del tren de aterrizaje
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900.0,Boeing 737,44845.164,1483.0,Incidencias con el suministro de combustible
+Mol_BaCa_10737,MoldaviAir,Bali,Cádiz,12798.0,Boeing 737,"34930,55404800001",1171.0,Emergencia médica a bordo
+Air_PaLo_10737,Airnar,París,Los Angeles,9099.0,Boeing 737,,711.0,Sin incidencias
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698.0,Boeing 737,1865.754,73.0,Mal funcionamiento del tren de aterrizaje
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738.0,Airbus A380,157558.8696,869.0,Ave impacta con el avión
+Pam_GiLo_11320,PamPangea,Ginebra,Londres,739.0,Airbus A320,1966.1834,,Emergencia médica a bordo
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383.0,Airbus A380,151736.3288,845.0,Sin incidencias
+Pam_PaGi_10747,PamPangea,París,GInEbRa,,Boeing 747,,,Sin incidencias
+Pam_LoPa_10737,PamPangea,Londres,París,344.0,Boeing 737,886.0752000000001,46.0,Sin incidencias
+Mol_MeCi_11380,MoldaviAir,Melbourne,Cincinnati,15262.0,Airbus A380,"198164,738304",1217.0,Sin incidencias
+Mol_LoBa_11380,MoldaviAir,Londres,Bali,12553.0,Airbus A380,149466.0604,856.0,Amenaza de seguridad a bordo
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738.0,Boeing 747,,,Emergencia médica a bordo y Problemas con las puertas o ventanas
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 747,106741.778,626.0,Fallo de los sistemas de comunicación
+Pam_GiBa_10737,PamPangea,Ginebra,Bali,12383.0,Boeing 737,32233.147128,1140.0,Sin incidencias
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779.0,Boeing 737,6955.5591,231.0,Emergencia médica a bordo
+Pam_BaLo_11380,PamPangea,Bali,Londres,12553.0,Airbus A380,145112.68,856.0,Complicaciones con el suministro de combustible
+Pam_GiNu_11380,PamPangea,Ginebra,Nueva York,6206.0,Airbus A380,76763.2552,433.0,Sin incidencias
+Fly_RoNu_11380,FlyQ,Roma,Nueva York,6877.0,Airbus A380,85062.98840000002,478.0,Sin incidencias
+Pam_NuBa_10747,PamPangea,Nueva York,Bali,,Boeing 747,187590.535392,1305.0,Sin incidencias
+Mol_CaLo_10737,MoldaviAir,Cádiz,Londres,1716.0,Boeing 737,4461.7716,150.0,Fallo leve del motor
+Pam_PaGi_10737,PamPangea,París,Ginebra,411.0,Boeing 737,1008.7173,51.0,Turbulencia severa
+Tab_LoGi_11320,TabarAir,Los Angeles,GINEBra,9103.0,Airbus A320,25425.844184,779.0,Fallo de los sistemas hidráulicos
+Pam_BaMe_10747,PamPangea,Bali,Melbourne,2779.0,Boeing 747,31697.8298,205.0,Turbulencia severa
+Fly_BaRo_10747,FlyQ,Bali,Roma,12738.0,Boeing 747,141218.5632,1049.0,Mal funcionamiento del tren de aterrizaje
+Pam_MeBa_11320,PamPangea,Melbourne,Bali,2779.0,Airbus A320,7603.066099999999,221.0,Incidencia del motor
+Tab_GiRo_10737,TabarAir,Ginebra,Roma,698.0,Boeing 737,,73.0,Sin incidencias
+Fly_RoBa_10747,FlyQ,Roma,Bali,12738.0,Boeing 747,"155340,41952",1049.0,Complicaciones de navegación
+Mol_CiPa_10737,MoldaviAir,Cincinnati,París,6370.0,Boeing 737,16872.219,503.0,Sin incidencias
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589.0,Airbus A380,,1305.0,Retraso extenso en la pista de despegue
+Mol_PaBa_10737,MoldaviAir,París,Bali,11980.0,Boeing 737,32395.16592000001,1029.0,"Mal funcionamiento del tren de aterrizaje,"
+Mol_BaPa_10747,MoldaviAir,Bali,París,,Boeing 747,140477.48,,Sin incidencias
+Mol_PaCi_10737,MoldaviAir,París,Cincinnati,6370.0,Boeing 737,15479.1,503.0,Condiciones meteorológicas adversas
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738.0,Airbus A380,161976.408,869.0,Mal funcionamiento del tren de aterrizaje
+Fly_GiCi_11380,FlyQ,Ginebra,Cincinnati,6969.0,Airbus A380,86200.9548,484.0,Sin incidencias
+Mol_MeBa_11380,MoldaviAir,Melbourne,Bali,,Airbus A380,34374.0068,205.0,Discusión a bordo
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980.0,Airbus A380,138488.8,818.0,Sin incidencias
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,16900.0,Boeing 747,"204222,5744",1326.0,Sin incidencias
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,16082.0,Boeing 747,,1272.0,Sin incidencias
+Air_LoCi_11380,Airnar,Los Angeles,Cincinnati,3073.0,Airbus A380,35879.1188,,Sin incidencias
+Mol_CiCa_10747,MoldaviAir,Cincinnati,Cádiz,6624.0,Boeing 747,76260.7872,461.0,Sin incidencias
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,,Boeing 747,,,Ave impacta con el avión
+Mol_BaMe_10737,MoldaviAir,Bali,MELboURnE,2779.0,Boeing 737,,231.0,Sin incidencias
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,6877.0,Airbus A380,86652.95080000002,478.0,Mal funcionamiento del tren de aterrizaje
+Air_GiPa_11320,Airnar,Ginebra,París,411.0,Airbus A320,1134.771,49.0,Mal funcionamiento del tren de aterrizaje
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877.0,Boeing 737,18215.1099,542.0,Fallo leve de los sistemas hidráulicos
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877.0,Boeing 737,"17713,7766",542.0,Amenaza de seguridad a bordo
+Pam_BaPa_11380,PamPangea,Bali,París,11980.0,Airbus A380,150952.792,818.0,Sin incidencias
+Air_CiGi_11380,Airnar,Cincinnati,Ginebra,6969.0,Airbus A380,81367.2564,484.0,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739.0,Boeing 747,"8665,514000000001",69.0,Condiciones meteorológicas ligeramente complejas
+Fly_NuCi_10737,FlyQ,Nueva York,Cincinnati,911.0,Boeing 737,2390.8284,89.0,Incidencia eléctrico general
+Fly_RoNu_10747,FlyQ,Roma,Nueva York,6877.0,Boeing 747,77707.34920000001,478.0,Turbulencia severa
+Tab_GiRo_10747,TabarAir,Ginebra,Roma,,Boeing 747,7440.68,66.0,Amenaza de seguridad a bordo
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785.0,Airbus A380,101554.6,605.0,Sin incidencias
+Mol_CiMe_10737,MoldaviAir,Cincinnati,MELBoURNe,15262.0,Boeing 737,39341.52892800001,1359.0,Sin incidencias
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 747,179731.386432,1200.0,Turbulencia severa
+Tab_LoGi_10747,TabarAir,Londres,Ginebra,739.0,Boeing 747,7956.5174,69.0,"Fallo eléctrico general,"
+Pam_GiPa_11320,PamPangea,Ginebra,París,,Airbus A320,1083.1905,49.0,Problemas de navegación
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206.0,Airbus A380,,433.0,Sin incidencias
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370.0,Airbus A380,78055.432,444.0,Sin incidencias
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877.0,Boeing 737,17212.4433,,Sin incidencias
+Fly_GiNu_10747,FlyQ,Ginebra,Nueva York,6206.0,Boeing 747,66155.96,433.0,Sin incidencias
+Pam_LoNu_11380,PamPangea,Londres,Nueva York,,Airbus A380,68203.53760000001,391.0,Problemas con el suministro de combustible
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900.0,Boeing 747,"198601,7696",1326.0,Sin incidencias
+Air_CiGi_10747,Airnar,Cincinnati,Ginebra,,Boeing 747,,484.0,Incidencias con las puertas o ventanas
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845.0,Airbus A380,149973.082,876.0,Enfrentamiento a bordo
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553.0,Boeing 737,34579.09634400001,1153.0,Sin incidencias
+Mol_CaMe_10747,MoldaviAir,Cádiz,Melbourne,20029.0,Boeing 747,226490.495712,,Sin incidencias
+Air_LoCi_10747,Airnar,Los Angeles,Cincinnati,3073.0,Boeing 747,32758.18,224.0,Sin incidencias
+Pam_GiLo_10737,PamPangea,Ginebra,Londres,739.0,Boeing 737,1903.5162,,Sin incidencias
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738.0,Airbus A380,148723.7928,869.0,Despresurización de la cabina
+Air_LoCi_10747,Airnar,Los Angeles,Cincinnati,3073.0,Boeing 747,35051.2526,224.0,Sin incidencias
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480.0,Boeing 747,79736.8,518.0,Ave impacta con el avión
+Mol_CaMe_10747,MoldaviAir,Cádiz,MElboUrNe,20029.0,Boeing 747,230931.485824,1535.0,Sin incidencias
+Tab_LoCi_11320,TabarAir,Los Angeles,Cincinnati,3073.0,Airbus A320,,242.0,Ave impacta con el avión
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,16589.0,Boeing 737,45277.61846400001,1459.0,"Problemas con el catering,"
+Mol_CaPa_10747,MoldaviAir,Cádiz,París,1447.0,Boeing 747,15733.5204,116.0,Sin incidencias
+Mol_CaCi_10737,MoldaviAir,Cádiz,Cincinnati,6624.0,Boeing 737,16096.32,523.0,Emergencia grave en el sistema de entretenimiento
+Tab_GiNu_11320,TabarAir,Ginebra,Nueva York,6206.0,Airbus A320,"16686,146672",569.0,Sin incidencias
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553.0,Boeing 737,33627.37809600001,1153.0,Turbulencia severa
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739.0,Boeing 747,"8665,514000000001",69.0,Sin incidencias
+Pam_NuBa_10737,PamPangea,Nueva York,Bali,16589.0,Boeing 737,"42762,19521600001",1459.0,Sin incidencias
+Tab_GiLo_11320,TabarAir,Ginebra,Los Angeles,9103.0,Airbus A320,23762.4712,779.0,"Enfrentamiento entre pasajeros,"
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674.0,Boeing 737,44666.84476800001,1466.0,Sin incidencias
+Fly_GiNu_11320,FlyQ,Ginebra,Nueva York,6206.0,Airbus A320,16848.148096,569.0,Incidencia de los sistemas hidráulicos
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877.0,Airbus A380,81088.08240000001,478.0,Enfrentamiento entre pasajeros y Fallo eléctrico general
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284.0,Airbus A320,18044.12896,575.0,Problema en el sistema de entretenimiento
+Pam_MeNu_10747,PamPangea,Melbourne,Nueva York,16082.0,Boeing 747,192554.803584,1272.0,Problemas con las puertas o ventanas
+Tab_RoLo_10747,TabarAir,Roma,Londres,1433.0,Boeing 747,16650.6002,115.0,Fallo en el sistema de entretenimiento
+Tab_GiRo_11320,TabarAir,Ginebra,Roma,698.0,Airbus A320,1839.579,70.0,Fallo grave del motor
+Tab_RoCi_11320,TabarAir,Roma,Cincinnati,7480.0,Airbus A320,"19916,30784",662.0,Sin incidencias
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877.0,Airbus A320,17951.7208,618.0,Sin incidencias
+Tab_GiCi_10737,TabarAir,Ginebra,Cincinnati,6969.0,Boeing 737,18289.4436,549.0,Aterrizaje de emergencia
+Fly_CiRo_11380,FlyQ,Cincinnati,Roma,7480.0,Airbus A380,89062.864,518.0,Sin incidencias
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,74289.54000000001,484.0,Sin incidencias
+Air_CiGi_10747,Airnar,Cincinnati,Ginebra,6969.0,Boeing 747,78746.91240000002,484.0,Problema en el sistema de entretenimiento
+Pam_NuGi_10737,PamPangea,Nueva York,Ginebra,6206.0,Boeing 737,15985.4148,491.0,Ave impacta con el avión
+Mol_LoCi_11380,MoldaviAir,Londres,Cincinnati,6284.0,Airbus A380,79907.34400000001,438.0,Turbulencia severa
+Tab_NuLo_11380,TabarAir,Nueva York,Londres,5566.0,Airbus A380,68203.53760000001,391.0,Sin incidencias
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011.0,Airbus A380,"196710,388576",,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,,Boeing 747,"7877,74",69.0,Complicaciones con el suministro de combustible
+Fly_GiBa_10737,FlyQ,Ginebra,Barcelona,660.0,Boeing 737,1651.914,70.0,Sin incidencias
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877.0,Boeing 747,76241.17280000001,478.0,Problemas de navegación y Problemas con el suministro de combustible
+Tab_NuLo_11320,TabarAir,Nueva York,Londres,5566.0,Airbus A320,,523.0,Fallo leve del motor y Despresurización de la cabina
+Tab_LoRo_11380,TabarAir,Los Angeles,Roma,10077.0,Airbus A380,123479.5272,691.0,Condiciones meteorológicas malas
+Air_GiLo_10747,Airnar,Ginebra,Los Angeles,9103.0,Boeing 747,104801.0184,,Complicaciones con el catering
+Pam_NuPa_10737,PamPangea,Nueva York,París,5835.0,Boeing 737,14179.05,,Mal funcionamiento del tren de aterrizaje
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553.0,Boeing 737,31723.9416,1153.0,Complicaciones con el suministro de combustible
+Air_CaBa_10737,Airnar,Cádiz,Bali,12798.0,Boeing 737,33960.26088000001,1171.0,Incidencias con el catering
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,16900.0,Boeing 747,"204222,5744",1326.0,Sin incidencias
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206.0,Airbus A380,76045.8416,433.0,Sin incidencias
+Tab_LoRo_11320,TabarAir,Londres,Roma,1433.0,Airbus A320,"3812,639799999999",,Discusión entre pasajeros
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077.0,Airbus A320,28409.400864,850.0,Incidencia eléctrico general
+Pam_MeNu_10737,PamPangea,Melbourne,Nueva York,16082.0,Boeing 737,,1421.0,Sin incidencias
+Pam_LoGi_10737,PamPangea,Londres,Ginebra,,Boeing 737,1867.6008,76.0,Sin incidencias
+Tab_RoLo_10737,TabarAir,Roma,Los Angeles,10077.0,Boeing 737,26446.0788,785.0,Problema de los sistemas hidráulicos
+Air_CaGi_11320,Airnar,Cádiz,Ginebra,1725.0,Airbus A320,4589.535,145.0,Sin incidencias
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877.0,Boeing 747,78440.43740000001,478.0,Problemas con las puertas o ventanas
+Pam_LoMe_10737,PamPangea,Londres,MelboURNe,,Boeing 737,43990.97040000001,1483.0,Emergencia del motor
+Tab_GiNu_10747,TabarAir,Ginebra,Nueva York,6206.0,Boeing 747,68802.19840000001,433.0,Complicaciones con las puertas o ventanas y Mal funcionamiento del tren de aterrizaje
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103.0,Airbus A380,115753.748,626.0,Sin incidencias
+Tab_CiNu_10737,TabarAir,Cincinnati,Nueva York,911.0,Boeing 737,,89.0,"Emergencia médica a bordo,"
+Fly_CiBa_11380,FlyQ,Cincinnati,BARCEloNA,6763.0,Airbus A380,81307.4912,470.0,Sin incidencias
+Air_PaCa_11320,Airnar,París,Cádiz,1447.0,Airbus A320,,124.0,Sin incidencias
+Air_GiCi_11380,Airnar,Ginebra,Cincinnati,6969.0,Airbus A380,83784.1056,484.0,Turbulencia severa
+Pam_NuMe_10737,PamPangea,Nueva York,Melbourne,,Boeing 737,43080.97622400001,1421.0,Sin incidencias
+Air_LoGi_10747,Airnar,Los Angeles,Ginebra,9103.0,Boeing 747,97037.98,,Amenaza de seguridad a bordo
+Tab_CiNu_11380,TabarAir,Cincinnati,Nueva York,911.0,Airbus A380,"11478,9644",80.0,Sin incidencias
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 737,39832.58916000001,1340.0,Fallo del motor
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,,Boeing 737,"15834,609",491.0,Sin incidencias
+Fly_BaNu_10747,FlyQ,Bali,Nueva York,16589.0,Boeing 747,193107.90408,1305.0,Discusión a bordo
+Fly_GiBa_10737,FlyQ,Ginebra,Bali,12383.0,Boeing 737,,1140.0,Complicaciones con el suministro de combustible
+Air_LoGi_11380,Airnar,Los Angeles,GInEBRa,9103.0,Airbus A380,"112596,8276",626.0,Inundación a bordo
+Mol_CaMe_11380,MoldaviAir,Cádiz,Melbourne,20029.0,Airbus A380,248020.549088,1535.0,Sin incidencias
+Tab_LoNu_11320,TabarAir,Londres,Nueva York,5566.0,Airbus A320,,523.0,Turbulencia severa
+Mol_CiLo_10737,MoldaviAir,Cincinnati,Londres,,Boeing 737,15728.2236,497.0,Sin incidencias
+Pam_LoGi_11380,PamPangea,Londres,Ginebra,739.0,Airbus A380,8542.84,69.0,Sin incidencias
+Pam_GiMe_11380,PamPangea,Ginebra,Melbourne,16674.0,Airbus A380,216498.417408,1311.0,Sin incidencias
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674.0,Boeing 747,,1311.0,Sin incidencias
+Fly_BaRo_11380,FlyQ,Bali,Roma,12738.0,Airbus A380,148723.7928,,Sin incidencias
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739.0,Boeing 737,1885.5585,76.0,Despresurización de la cabina y Problemas con el suministro de combustible
+Pam_GiMe_10737,PamPangea,Ginebra,MelBourne,16674.0,Boeing 737,43402.688784,1466.0,Incidencias con las puertas o ventanas y Amenaza de seguridad a bordo
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566.0,Boeing 737,13931.1414,442.0,Despresurización de la cabina
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566.0,Boeing 747,63486.9092,391.0,Sin incidencias
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,35088.70622400001,,Problema en el sistema de entretenimiento
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553.0,Airbus A380,158172.8212,,Problemas de navegación
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900.0,Boeing 737,46126.4544,1483.0,Sin incidencias
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900.0,Boeing 747,191107.3632,1326.0,Sin incidencias
+Pam_MeBa_11320,PamPangea,Melbourne,Bali,2779.0,Airbus A320,7114.795799999999,,Sin incidencias
+Pam_GiLo_11380,PamPangea,Ginebra,Londres,739.0,Airbus A380,9226.2672,69.0,Sin incidencias
+Fly_NuCi_10737,FlyQ,Nueva York,Cincinnati,911.0,Boeing 737,2435.103,89.0,Sin incidencias
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 747,33740.9254,224.0,Ave impacta con el avión
+Mol_CiMe_11380,MoldaviAir,Cincinnati,MelBoUrne,15262.0,Airbus A380,,1217.0,Fallo grave de los sistemas de comunicación
+Fly_BaCi_11320,FlyQ,Barcelona,Cincinnati,,Airbus A320,19066.466016,610.0,Despresurización de la cabina y Aterrizaje de emergencia
+Air_PaCi_11320,Airnar,París,Cincinnati,6370.0,Airbus A320,17127.09544,581.0,Sin incidencias
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029.0,Boeing 737,,1721.0,Amenaza de seguridad a bordo
+Pam_BaGi_11380,PamPangea,Bali,GInebra,12383.0,Airbus A380,"144578,9548",,Sin incidencias
+Pam_BaMe_11380,PamPangea,Bali,Melbourne,2779.0,Airbus A380,33410.2496,205.0,Sin incidencias
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058.0,Airbus A380,156988.4992,1070.0,Sin incidencias
+Air_CaCi_11320,Airnar,Cádiz,Cincinnati,,Airbus A320,17982.941184,600.0,Problemas con el suministro de combustible
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383.0,Boeing 747,142563.0024,845.0,Ave impacta con el avión
+Air_BaGi_11380,Airnar,Bali,Ginebra,12383.0,Airbus A380,151736.3288,845.0,"Mal funcionamiento del tren de aterrizaje,"
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284.0,Boeing 747,71676.5608,,Sin incidencias
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,3944.0,Boeing 747,44145.192,282.0,Fallo grave eléctrico general
+Pam_BaMe_11380,PamPangea,Bali,Melbourne,2779.0,Airbus A380,34695.2592,205.0,Problema de los sistemas de comunicación
+Mol_LoCa_11380,MoldaviAir,Londres,Cádiz,1716.0,Airbus A380,"21027,1776",134.0,Discusión a bordo
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845.0,Boeing 737,35058.83472000001,1175.0,Sin incidencias
+Tab_NuGi_10747,TabarAir,Nueva York,GInebra,6206.0,Boeing 747,,433.0,Turbulencia severa y Despresurización de la cabina
+Fly_NuCi_11320,FlyQ,Nueva York,Cincinnati,911.0,Airbus A320,,86.0,Sin incidencias
+Mol_PaLo_11380,MoldaviAir,París,Londres,344.0,Airbus A380,4294.771200000001,42.0,Sin incidencias
+Air_LoGi_11320,Airnar,Los Angeles,Ginebra,9103.0,Airbus A320,23762.4712,779.0,Sin incidencias
+Air_CiPa_11380,Airnar,Cincinnati,París,6370.0,Airbus A380,"81000,92",444.0,Sin incidencias
+Tab_RoLo_11320,TabarAir,Roma,Londres,1433.0,Airbus A320,3812.639799999999,123.0,Sin incidencias
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,33801.04728000001,,Fallo grave en el sistema de entretenimiento
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 747,35706.4162,224.0,Emergencia grave de los sistemas de comunicación
+Air_LoPa_10737,Airnar,Los Angeles,París,9099.0,Boeing 737,,711.0,"Fallo eléctrico general,"
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785.0,Airbus A320,24996.27676,,Despresurización de la cabina
+Pam_BaPa_11380,PamPangea,Bali,París,11980.0,Airbus A380,145413.24,818.0,Complicaciones con el suministro de combustible
+Tab_CiRo_11320,TabarAir,Cincinnati,Roma,7480.0,Airbus A320,19525.792,662.0,Amenaza de seguridad a bordo
+Air_CiPa_11320,Airnar,Cincinnati,París,6370.0,Airbus A320,18124.79032,581.0,Incidencias con las puertas o ventanas
+Mol_PaBa_10747,MoldaviAir,París,Bali,11980.0,Boeing 747,130260.936,818.0,Turbulencia severa
+Mol_CaPa_11320,MoldaviAir,Cádiz,París,1447.0,Airbus A320,3849.8882,124.0,Sin incidencias
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029.0,Airbus A380,260060.3815680001,,Complicaciones con las puertas o ventanas
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859.0,Boeing 747,,77.0,Emergencia médica a bordo
+Fly_CiBa_10737,FlyQ,Cincinnati,Barcelona,6763.0,Boeing 737,17584.4763,533.0,Sin incidencias
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480.0,Airbus A380,94250.992,518.0,Condiciones meteorológicas malas
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,,Boeing 737,18358.164,588.0,Sin incidencias
+Air_BaPa_10747,Airnar,Bali,París,11980.0,Boeing 747,130260.936,,Sin incidencias
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,42427.13904000001,1359.0,Emergencia de los sistemas de comunicación y Despresurización de la cabina
+Fly_RoNu_11380,FlyQ,Roma,Nueva York,,Airbus A380,79498.12000000001,,Sin incidencias
+Mol_CiLo_11320,MoldaviAir,Cincinnati,Londres,6284.0,Airbus A320,"16403,7536",,Amenaza de seguridad a bordo
+Air_CaBa_10747,Airnar,Cádiz,Bali,,Boeing 747,154653.284448,1053.0,Problemas con las puertas o ventanas
+Mol_PaLo_10737,MoldaviAir,París,Londres,344.0,Boeing 737,911.1528000000002,46.0,Sin incidencias
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980.0,Boeing 737,30275.856,1029.0,Turbulencia severa
+Air_BaCi_10747,Airnar,Bali,Cincinnati,15011.0,Boeing 747,178067.206928,1200.0,Incidencia en el sistema de entretenimiento
+Fly_BaNu_11380,FlyQ,Bali,Nueva York,16589.0,Airbus A380,211405.969216,1305.0,Sin incidencias
+Tab_GiCi_11380,TabarAir,Ginebra,Cincinnati,6969.0,Airbus A380,85395.33840000001,484.0,Sin incidencias
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900.0,Boeing 747,192980.9648,1326.0,Retraso extenso en la pista de despegue
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716.0,Airbus A320,4737.876,144.0,Emergencia grave de los sistemas hidráulicos
+Mol_CiCa_10737,MoldaviAir,Cincinnati,Cádiz,6624.0,Boeing 737,17062.0992,523.0,Fallo del motor
+Pam_NuPa_10747,PamPangea,Nueva York,París,5835.0,Boeing 747,62823.111,409.0,Mal funcionamiento del tren de aterrizaje
+Tab_CiLo_11380,TabarAir,Cincinnati,Londres,6284.0,Airbus A380,77728.05280000002,,Sin incidencias
+Pam_PaLo_10747,PamPangea,París,Londres,344.0,Boeing 747,3960.4032,42.0,Sin incidencias
+Fly_NuBa_11380,FlyQ,Nueva York,Barcelona,,Airbus A380,76317.964,431.0,Sin incidencias
+Fly_RoBa_10737,FlyQ,Roma,BaRCelONa,859.0,Boeing 737,2129.117400000001,,Incidencias con las puertas o ventanas
+Pam_NuMe_10747,PamPangea,Nueva York,Melbourne,,Boeing 747,194337.718432,1272.0,Problema de los sistemas de comunicación y Amenaza de seguridad a bordo
+Pam_MeGi_10737,PamPangea,Melbourne,GineBra,,Boeing 737,"46352,38608000001",1466.0,Amenaza de seguridad a bordo
+Tab_GiLo_11380,TabarAir,Ginebra,Los Angeles,9103.0,Airbus A380,,626.0,Condiciones meteorológicas adversas
+Pam_LoGi_11320,PamPangea,Londres,Ginebra,739.0,Airbus A320,2021.8301,73.0,Sin incidencias
+Pam_BaLo_10737,PamPangea,Bali,Londres,12553.0,Boeing 737,33310.13868,1153.0,Incidencias con el suministro de combustible
+Air_CaPa_11380,Airnar,Cádiz,París,1447.0,Airbus A380,,,Fallo grave del motor
+Air_LoCa_10737,Airnar,Los Angeles,Cádiz,9373.0,Boeing 737,23231.9178,731.0,Complicaciones con el catering
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058.0,Boeing 747,,1070.0,Sin incidencias
+Tab_LoNu_10747,TabarAir,Londres,Nueva York,5566.0,Boeing 747,62893.5736,391.0,Sin incidencias
+Pam_NuLo_11320,PamPangea,Nueva York,Londres,5566.0,Airbus A320,,523.0,Sin incidencias
+Tab_CiLo_11380,TabarAir,Cincinnati,Los Angeles,3073.0,Airbus A380,"36234,3576",224.0,Aterrizaje de emergencia
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859.0,Boeing 747,9248.5094,77.0,Problemas con el suministro de combustible
+Pam_GiBa_10747,PamPangea,Ginebra,Bali,,Boeing 747,138602.919,845.0,Aterrizaje de emergencia
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798.0,Airbus A380,150903.7776,,Incidencias con el suministro de combustible y Problemas con las puertas o ventanas
+Air_LoGi_11320,Airnar,Los Angeles,Ginebra,9103.0,Airbus A320,26138.71832,779.0,Emergencia médica a bordo
+Fly_RoBa_11380,FlyQ,Roma,Barcelona,859.0,Airbus A380,10724.4432,77.0,Incidencia del motor
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739.0,Boeing 747,,69.0,Sin incidencias
+Mol_LoCa_10737,MoldaviAir,Londres,Cádiz,1716.0,Boeing 737,4253.2776,150.0,Incidencias con el catering
+Air_PaBa_11380,Airnar,París,Bali,11980.0,Airbus A380,,818.0,Emergencia médica a bordo
+Pam_MePa_10737,PamPangea,Melbourne,París,16925.0,Boeing 737,43200.5886,1485.0,Fallo en el sistema de entretenimiento
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739.0,Airbus A380,9140.8388,69.0,Sin incidencias
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624.0,Airbus A320,17291.2896,600.0,Sin incidencias
+Pam_GiMe_10737,PamPangea,Ginebra,MeLbOurne,,Boeing 737,,1466.0,Sin incidencias
+Pam_GiPa_10737,PamPangea,Ginebra,París,411.0,Boeing 737,1078.6284,51.0,"Aterrizaje de emergencia,"
+Air_BaCa_10747,Airnar,Bali,Cádiz,12798.0,Boeing 747,146140.259616,1053.0,Sin incidencias
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011.0,Airbus A380,191296.341184,1200.0,Turbulencia severa
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 737,24111.1161,,Sin incidencias
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674.0,Boeing 747,188551.726272,1311.0,"Inundación a bordo,"
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716.0,Airbus A320,,,Problema del motor
+Pam_MePa_11380,PamPangea,Melbourne,París,16925.0,Airbus A380,223827.032,1328.0,Sin incidencias
+Tab_CiLo_11380,TabarAir,Cincinnati,Londres,6284.0,Airbus A380,77001.62240000001,438.0,Sambódromo entre pasajeros
+Air_CaPa_11320,Airnar,Cádiz,París,,Airbus A320,3704.6094,124.0,Sin incidencias
+Tab_CiLo_10737,TabarAir,Cincinnati,Londres,6284.0,Boeing 737,15270.12,497.0,Sin incidencias
+Mol_CiPa_10747,MoldaviAir,Cincinnati,París,6370.0,Boeing 747,73336.53600000001,444.0,Sin incidencias
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447.0,Airbus A320,,124.0,Mal funcionamiento del tren de aterrizaje
+Air_PaLo_11320,Airnar,París,Los Angeles,,Airbus A320,24227.070192,779.0,Condiciones meteorológicas ligeramente complejas
+Air_BaCi_10737,Airnar,Bali,Cincinnati,15011.0,Boeing 737,"41350,02112800001",1340.0,Condiciones meteorológicas ligeramente complejas
+Tab_NuRo_11320,TabarAir,Nueva York,Roma,6877.0,Airbus A320,19567.375672,618.0,Sin incidencias
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716.0,Airbus A320,4565.5896,144.0,Enfrentamiento a bordo
+Mol_LoMe_10747,MoldaviAir,Londres,Melbourne,16900.0,Boeing 747,200475.3712,1326.0,Incidencias con el catering y Fallo de los sistemas de comunicación
+Fly_GiBa_11380,FlyQ,Ginebra,Bali,12383.0,Airbus A380,150304.854,845.0,Sin incidencias
+Fly_GiNu_11380,FlyQ,Ginebra,Nueva York,6206.0,Airbus A380,74611.0144,433.0,Mal funcionamiento del tren de aterrizaje
+Pam_LoNu_11320,PamPangea,Londres,Nueva York,5566.0,Airbus A320,14529.4864,523.0,Sin incidencias
+Fly_BaGi_10747,FlyQ,Barcelona,Ginebra,660.0,Boeing 747,7035.6,64.0,Sin incidencias
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900.0,Airbus A380,207242.1312,1326.0,Fallo en el sistema de entretenimiento
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,,Airbus A380,8799.1252,69.0,Sin incidencias
+Tab_LoCi_11320,TabarAir,Londres,Cincinnati,6284.0,Airbus A320,"17716,053888",575.0,Sin incidencias
+Pam_LoGi_11380,PamPangea,Londres,Ginebra,739.0,Airbus A380,"8628,2684",69.0,Emergencia del motor
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911.0,Boeing 737,2390.8284,89.0,Sin incidencias
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,32835.303072,,Sin incidencias
+Mol_BaPa_10747,MoldaviAir,Bali,París,11980.0,Boeing 747,139200.412,818.0,Sin incidencias
+Pam_LoNu_11380,PamPangea,Londres,Nueva York,5566.0,Airbus A380,69490.39680000002,391.0,Sin incidencias
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058.0,Airbus A380,166407.809152,1070.0,Emergencia médica a bordo
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383.0,Boeing 737,,1140.0,Turbulencia severa
+Fly_CiNu_11380,FlyQ,Cincinnati,Nueva York,911.0,Airbus A380,10847.0948,80.0,Sin incidencias
+Mol_CaCi_11380,MoldaviAir,Cádiz,Cincinnati,,Airbus A380,"83465,04960000001",461.0,"Fallo grave de los sistemas hidráulicos,"
+Mol_BaMe_11320,MoldaviAir,Bali,Melbourne,2779.0,Airbus A320,7184.548699999999,221.0,Aterrizaje de emergencia
+Tab_GiLo_10737,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 737,"22341,4929",711.0,Despresurización de la cabina
+Fly_BaNu_11380,FlyQ,Barcelona,Nueva York,6170.0,Airbus A380,76317.964,431.0,Inundación a bordo
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,75032.4354,484.0,Discusión a bordo
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716.0,Airbus A320,4393.3032,144.0,Retraso extenso en la pista de despegue
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,16589.0,Boeing 737,42762.19521600001,1459.0,"Complicaciones de navegación,"
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058.0,Airbus A380,,1070.0,Mal funcionamiento del tren de aterrizaje
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835.0,Boeing 737,15029.793,463.0,Sin incidencias
+Air_BaLo_11380,Airnar,Bali,Los Angeles,12845.0,Airbus A380,148488.2,876.0,Aterrizaje de emergencia y Problemas con el catering
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845.0,Boeing 747,143828.85608,,Sin incidencias
+Tab_CiLo_11320,TabarAir,Cincinnati,Londres,6284.0,Airbus A320,16731.828672,575.0,Problema de los sistemas de comunicación
+Air_CaGi_11320,Airnar,Cádiz,Ginebra,1725.0,Airbus A320,,145.0,Ave impacta con el avión
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,12553.0,Airbus A380,152368.314,856.0,Problema en el sistema de entretenimiento
+Fly_NuBa_10747,FlyQ,Nueva York,Barcelona,6170.0,Boeing 747,70376.254,431.0,Sin incidencias
+Tab_NuRo_10747,TabarAir,Nueva York,Roma,6877.0,Boeing 747,,478.0,"Despresurización de la cabina,"
+Fly_NuCi_11380,FlyQ,Nueva York,Cincinnati,911.0,Airbus A380,"11478,9644",80.0,Sin incidencias
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925.0,Airbus A380,219757.4496,1328.0,Problema de los sistemas de comunicación
+Pam_PaNu_10737,PamPangea,París,Nueva York,,Boeing 737,14604.4215,,Fallo leve del motor
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845.0,Boeing 747,,1056.0,Sin incidencias
+Pam_GiBa_10747,PamPangea,Ginebra,Bali,12383.0,Boeing 747,"143883,0302",,Mal funcionamiento del tren de aterrizaje
+Mol_BaPa_10737,MoldaviAir,Bali,París,11980.0,Boeing 737,30881.37312,1029.0,Sin incidencias
+Pam_BaGi_10737,PamPangea,Bali,Ginebra,12383.0,Boeing 737,32546.090304,,Sin incidencias
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969.0,Boeing 737,18120.0969,549.0,Sin incidencias
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,,Boeing 737,10446.4728,319.0,Incidencias con el suministro de combustible
+Pam_PaLo_10747,PamPangea,París,Londres,344.0,Boeing 747,4033.744,42.0,Turbulencia severa
+Air_CaCi_11380,Airnar,Cádiz,Cincinnati,6624.0,Airbus A380,,461.0,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 747,,626.0,Sin incidencias
+Tab_LoGi_11380,TabarAir,Londres,GINEBrA,739.0,Airbus A380,,69.0,Emergencia grave eléctrico general
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,,Airbus A380,8799.1252,,Fallo grave eléctrico general
+Pam_PaGi_10747,PamPangea,París,Ginebra,,Boeing 747,"4468,885200000001",47.0,Sin incidencias
+Air_GiCa_10747,Airnar,Ginebra,Cádiz,1725.0,Boeing 747,18756.27,135.0,Sin incidencias
+Mol_CaLo_11320,MoldaviAir,Cádiz,Londres,1716.0,Airbus A320,4737.876,,Sin incidencias
+Air_PaGi_10747,Airnar,París,Ginebra,411.0,Boeing 747,4731.760800000001,47.0,Sin incidencias
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284.0,Boeing 747,73016.30960000001,438.0,Emergencia grave de los sistemas hidráulicos
+Tab_LoRo_10737,TabarAir,Londres,Roma,1433.0,Boeing 737,"3760,7652",128.0,Ave impacta con el avión
+Air_CiLo_10747,Airnar,Cincinnati,Los Angeles,,Boeing 747,33085.7618,224.0,Ave impacta con el avión
+Tab_LoRo_11320,TabarAir,Londres,Roma,1433.0,Airbus A320,3884.576399999999,,Problema en el sistema de entretenimiento y Condiciones meteorológicas adversas
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739.0,Boeing 737,"1831,6854",76.0,Mal funcionamiento del tren de aterrizaje
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206.0,Boeing 737,16287.0264,,Incidencias con el catering
+Mol_MeCi_10747,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 747,184428.694112,1217.0,Sin incidencias
+Pam_MeLo_10737,PamPangea,Melbourne,Londres,,Boeing 737,,1483.0,Incidencia en el sistema de entretenimiento
+Fly_RoCi_10737,FlyQ,Roma,Cincinnati,7480.0,Boeing 737,18358.164,588.0,Sin incidencias
+Tab_CiNu_11320,TabarAir,Cincinnati,Nueva York,911.0,Airbus A320,"2515,271",86.0,Sin incidencias
+Pam_MeGi_10747,PamPangea,Melbourne,Ginebra,16674.0,Boeing 747,190400.272608,1311.0,Sin incidencias
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980.0,Airbus A380,148183.016,818.0,Retraso extenso en la pista de despegue
+Pam_GiPa_10737,PamPangea,Ginebra,París,411.0,Boeing 737,1068.6411,51.0,Discusión a bordo
+Mol_PaLo_11320,MoldaviAir,París,Londres,344.0,Airbus A320,949.784,44.0,Sin incidencias
+Air_CiBa_11380,Airnar,Cincinnati,Bali,15011.0,Airbus A380,,1200.0,Fallo de los sistemas hidráulicos
+Tab_LoGi_10737,TabarAir,Los Angeles,Ginebra,9103.0,Boeing 737,23005.1016,,Emergencia eléctrico general
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206.0,Boeing 737,16136.2206,491.0,Ave impacta con el avión y Problemas de navegación
+Tab_LoGi_11380,TabarAir,Londres,Ginebra,739.0,Airbus A380,8628.2684,69.0,Sambódromo entre pasajeros
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,39341.52892800001,1359.0,Mal funcionamiento del tren de aterrizaje y Ave impacta con el avión
+Mol_CaCi_11320,MoldaviAir,Cádiz,Cincinnati,6624.0,Airbus A320,18674.592768,,Sin incidencias
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779.0,Boeing 737,"6888,0294",,Problemas con las puertas o ventanas
+Air_PaLo_11320,Airnar,París,Los Angeles,9099.0,Airbus A320,"23989,549896",779.0,Problemas con el suministro de combustible
+Air_CaBa_10737,Airnar,Cádiz,Bali,12798.0,Boeing 737,34607.12299200001,1171.0,Sin incidencias
+Air_LoBa_10737,Airnar,Los Angeles,Bali,12845.0,Boeing 737,33111.12168,1175.0,Sin incidencias
+Air_CaPa_11380,Airnar,Cádiz,París,,Airbus A380,18400.052,116.0,Sin incidencias
+Pam_NuLo_10737,PamPangea,Nueva York,Londres,5566.0,Boeing 737,14336.9028,,Retraso extenso en la pista de despegue
+Air_PaCi_10747,Airnar,París,Cincinnati,6370.0,Boeing 747,"72657,494",444.0,Fallo de los sistemas de comunicación
+Tab_RoCi_10737,TabarAir,Roma,Cincinnati,7480.0,Boeing 737,18903.456,588.0,Sin incidencias
+Pam_MeLo_10737,PamPangea,Melbourne,Londres,16900.0,Boeing 737,43136.7768,1483.0,Fallo grave en el sistema de entretenimiento
+Air_PaGi_10737,Airnar,París,Ginebra,411.0,Boeing 737,1018.7046,51.0,Ave impacta con el avión
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553.0,Boeing 747,,856.0,Sin incidencias
+Tab_LoLo_11320,TabarAir,Los Angeles,Londres,8785.0,Airbus A320,,756.0,Condiciones meteorológicas ligeramente complejas
+Pam_MePa_11380,PamPangea,Melbourne,París,16925.0,Airbus A380,217722.6584,,Sin incidencias
+Air_CiPa_11320,Airnar,Cincinnati,París,6370.0,Airbus A320,17293.37792,581.0,Sin incidencias
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,16900.0,Airbus A380,213337.488,1326.0,Retraso extenso en la pista de despegue y Fallo en el sistema de entretenimiento
+Pam_GiBa_11380,PamPangea,Ginebra,Bali,12383.0,Airbus A380,"156030,7532",845.0,Turbulencia severa
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877.0,Airbus A380,"85857,96960000001",478.0,Sin incidencias
+Mol_PaBa_11380,MoldaviAir,París,Bali,11980.0,Airbus A380,149567.904,818.0,Incidencias con el suministro de combustible
+Air_PaBa_11380,Airnar,París,Bali,11980.0,Airbus A380,"142643,464",818.0,Emergencia de los sistemas de comunicación
+Pam_GiBa_10737,PamPangea,Ginebra,Bali,12383.0,Boeing 737,31294.3176,1140.0,Mal funcionamiento del tren de aterrizaje
+Mol_LoCa_11380,MoldaviAir,Londres,Cádiz,1716.0,Airbus A380,,134.0,Sin incidencias
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 737,38694.515184,1340.0,Sin incidencias
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,14877.918,442.0,Ave impacta con el avión
+Pam_BaMe_11380,PamPangea,Bali,MelBouRne,,Airbus A380,33410.2496,,Fallo leve de los sistemas de comunicación
+Mol_LoMe_10737,MoldaviAir,Londres,Melbourne,16900.0,Boeing 737,"46553,55120000001",1483.0,Incidencia eléctrico general y Conflictos entre pasajeros
+Mol_LoCa_11320,MoldaviAir,Londres,Cádiz,1716.0,Airbus A320,4393.3032,144.0,Sin incidencias
+Mol_BaCi_11380,MoldaviAir,Bali,Cincinnati,15011.0,Airbus A380,"185882,293792",1200.0,Sin incidencias
+Air_BaGi_10737,Airnar,Bali,Ginebra,12383.0,Boeing 737,,,Sin incidencias
+Fly_RoBa_11380,FlyQ,Roma,Barcelona,859.0,Airbus A380,9930.04,77.0,Sin incidencias
+Pam_NuLo_11380,PamPangea,Nueva York,Londres,5566.0,Airbus A380,70777.25600000001,,Condiciones meteorológicas ligeramente complejas
+Tab_LoRo_11320,TabarAir,Los Angeles,Roma,10077.0,Airbus A320,28935.50088,850.0,Enfrentamiento a bordo
+Fly_GiRo_11320,FlyQ,Ginebra,Roma,698.0,Airbus A320,1909.6582,,Incidencias con las puertas o ventanas
+Fly_CiRo_11380,FlyQ,Cincinnati,Roma,,Airbus A380,,,Complicaciones de navegación
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383.0,Airbus A380,147441.9044,845.0,Sin incidencias
+Tab_NuLo_10747,TabarAir,Nueva York,Londres,5566.0,Boeing 747,,391.0,Sin incidencias
+Mol_BaCi_10747,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 747,171410.488912,1200.0,Complicaciones con el suministro de combustible
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925.0,Airbus A380,,1328.0,Sin incidencias
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,3944.0,Airbus A320,"10691,3952",305.0,Sin incidencias
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589.0,Airbus A380,205422.781408,1305.0,Sin incidencias
+Pam_PaBa_10737,PamPangea,París,Bali,11980.0,Boeing 737,33000.68304,1029.0,Despresurización de la cabina
+Tab_LoNu_11320,TabarAir,Los Angeles,Nueva York,3944.0,Airbus A320,"10394,412",,Sin incidencias
+Tab_CiNu_11380,TabarAir,Cincinnati,Nueva York,911.0,Airbus A380,10531.16,,Aterrizaje de emergencia
+Tab_LoRo_11380,TabarAir,Los Angeles,Roma,10077.0,Airbus A380,119984.8236,691.0,Fallo grave de los sistemas hidráulicos
+Fly_RoGi_10747,FlyQ,Roma,Ginebra,698.0,Boeing 747,,66.0,Ave impacta con el avión
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,16900.0,Airbus A380,203178.56,1326.0,"Sambódromo a bordo,"
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206.0,Airbus A380,78198.0824,433.0,Sin incidencias
+Tab_GiLo_11380,TabarAir,Ginebra,Londres,739.0,Airbus A380,,69.0,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,,Boeing 747,105771.3982,,Sin incidencias
+Pam_PaLo_11380,PamPangea,París,Londres,344.0,Airbus A380,4056.1728,42.0,Problema de los sistemas de comunicación
+Pam_MeLo_10747,PamPangea,Melbourne,Londres,,Boeing 747,,1326.0,Sin incidencias
+Mol_CaCi_10747,MoldaviAir,Cádiz,Cincinnati,6624.0,Boeing 747,76966.9056,461.0,Sin incidencias
+Air_BaPa_10737,Airnar,Bali,París,11980.0,Boeing 737,33303.44160000001,1029.0,Sin incidencias
+Air_BaCi_10737,Airnar,Bali,Cincinnati,,Boeing 737,40591.30514400001,1340.0,"Aterrizaje de emergencia,"
+Mol_PaLo_11320,MoldaviAir,París,Londres,,Airbus A320,923.8808,44.0,Fallo leve del motor
+Mol_BaLo_10737,MoldaviAir,Bali,Londres,12553.0,Boeing 737,34261.856928,,Despresurización de la cabina
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798.0,Boeing 737,33636.829824,1171.0,Discusión a bordo y Problemas con el suministro de combustible
+Fly_NuRo_10737,FlyQ,Nueva York,Roma,6877.0,Boeing 737,,542.0,Sin incidencias
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877.0,Airbus A380,,,Sin incidencias
+Pam_GiPa_11380,PamPangea,Ginebra,París,411.0,Airbus A380,5131.2528,47.0,Sin incidencias
+Fly_CiBa_10747,FlyQ,Cincinnati,Bali,15011.0,Boeing 747,"179731,386432",1200.0,Emergencia del motor
+Tab_CiLo_10747,TabarAir,Cincinnati,Los Angeles,3073.0,Boeing 747,36033.998,224.0,Mal funcionamiento del tren de aterrizaje
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,,Boeing 747,"43304,3312",282.0,Turbulencia severa
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383.0,Airbus A380,143147.48,845.0,Sin incidencias
+Air_LoBa_11380,Airnar,Los Angeles,Bali,12845.0,Airbus A380,155912.61,,"Mal funcionamiento del tren de aterrizaje,"
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480.0,Boeing 747,82926.27200000001,,Fallo grave de los sistemas de comunicación y Amenaza de seguridad a bordo
+Air_CaLo_11380,Airnar,Cádiz,Los Angeles,9373.0,Airbus A380,"112685,9552",644.0,Emergencia de los sistemas hidráulicos
+Pam_MePa_10747,PamPangea,Melbourne,París,16925.0,Boeing 747,193266.4396,1328.0,Sin incidencias
+Pam_PaGi_11380,PamPangea,París,Ginebra,411.0,Airbus A380,5036.2296,47.0,Sin incidencias
+Air_PaCi_11320,Airnar,París,Cincinnati,6370.0,Airbus A320,18291.0728,581.0,Turbulencia severa
+Tab_CiGi_10747,TabarAir,Cincinnati,Ginebra,6969.0,Boeing 747,77261.12160000001,484.0,Sin incidencias
+Tab_LoNu_10737,TabarAir,Los Angeles,Nueva York,3944.0,Boeing 737,,319.0,Complicaciones de navegación
+Pam_LoBa_11380,PamPangea,Londres,Bali,12553.0,Airbus A380,148014.9336,856.0,Amenaza de seguridad a bordo
+Air_BaPa_11380,Airnar,Bali,París,11980.0,Airbus A380,144028.352,818.0,Sin incidencias
+Fly_GiCi_10737,FlyQ,Ginebra,Cincinnati,6969.0,Boeing 737,17442.7101,549.0,Sin incidencias
+Air_CaGi_11380,Airnar,Cádiz,Ginebra,1725.0,Airbus A380,,135.0,Sin incidencias
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,,Boeing 747,144520.1784,856.0,Problemas de navegación
+Pam_BaNu_10737,PamPangea,Bali,Nueva York,16589.0,Boeing 737,"45277,61846400001",1459.0,Sin incidencias
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779.0,Boeing 737,"7225,677900000001",231.0,Sin incidencias
+Fly_CiNu_11320,FlyQ,Cincinnati,Nueva York,911.0,Airbus A320,2446.6727,86.0,Complicaciones con las puertas o ventanas
+Air_LoGi_11380,Airnar,Los Angeles,Ginebra,,Airbus A380,114701.4412,626.0,Incidencias con el catering y Ave impacta con el avión
+Mol_MeCa_10737,MoldaviAir,Melbourne,Cádiz,20029.0,Boeing 737,51123.461688,1721.0,Sin incidencias
+Tab_RoGi_11320,TabarAir,Roma,Ginebra,698.0,Airbus A320,1751.98,70.0,Sin incidencias
+Air_PaCa_11380,Airnar,París,Cádiz,1447.0,Airbus A380,17898.2324,116.0,"Complicaciones con el suministro de combustible,"
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739.0,Boeing 747,7877.74,69.0,Emergencia en el sistema de entretenimiento
+Fly_BaBa_11380,FlyQ,Bali,Barcelona,13058.0,Airbus A380,"164837,92416",1070.0,Sin incidencias
+Pam_LoMe_11380,PamPangea,Londres,Melbourne,,Airbus A380,205210.3456,1326.0,Emergencia grave de los sistemas de comunicación
+Tab_NuGi_10737,TabarAir,Nueva York,Ginebra,6206.0,Boeing 737,"15080,58",491.0,Sin incidencias
+Mol_LoPa_10737,MoldaviAir,Londres,París,344.0,Boeing 737,852.6384,46.0,Sin incidencias
+Tab_LoNu_10747,TabarAir,Los Angeles,Nueva York,3944.0,Boeing 747,45406.4832,282.0,Sin incidencias
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900.0,Airbus A380,,1326.0,Amenaza de seguridad a bordo
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206.0,Airbus A380,,433.0,Sin incidencias
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011.0,Boeing 737,"38694,515184",1340.0,Emergencia grave del motor
+Pam_MeNu_11380,PamPangea,Melbourne,Nueva York,16082.0,Airbus A380,203011.44864,1272.0,Fallo leve eléctrico general
+Pam_PaBa_10747,PamPangea,París,Bali,11980.0,Boeing 747,"140477,48",818.0,Sin incidencias
+Tab_NuLo_10737,TabarAir,Nueva York,Londres,5566.0,Boeing 737,13660.6338,442.0,"Aterrizaje de emergencia,"
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,6877.0,Airbus A380,,478.0,Emergencia grave de los sistemas hidráulicos y Fallo eléctrico general
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,,Airbus A320,25425.844184,779.0,Ave impacta con el avión
+Mol_PaMe_11380,MoldaviAir,París,MELBoURne,,Airbus A380,,1328.0,Discusión a bordo
+Mol_BaMe_10737,MoldaviAir,Bali,MELBourNe,,Boeing 737,7360.737300000001,231.0,Incidencias de navegación
+Air_CiBa_10737,Airnar,Cincinnati,Bali,15011.0,Boeing 737,37935.7992,1340.0,Sin incidencias
+Fly_BaBa_10747,FlyQ,Barcelona,Bali,13058.0,Boeing 747,159242.83232,,Sin incidencias
+Air_PaCi_11380,Airnar,París,Cincinnati,6370.0,Airbus A380,73637.2,444.0,Problema del motor
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383.0,Airbus A380,150304.854,,Sin incidencias
+Air_CiCa_10737,Airnar,Cincinnati,Cádiz,6624.0,Boeing 737,17384.0256,,Emergencia médica a bordo
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058.0,Airbus A380,"171117,464128",1070.0,Sin incidencias
+Fly_BaRo_10737,FlyQ,Bali,Roma,12738.0,Boeing 737,32835.303072,1167.0,Sin incidencias
+Air_GiCa_10737,Airnar,Ginebra,Cádiz,1725.0,Boeing 737,4275.585,151.0,Sin incidencias
+Mol_CiPa_11380,MoldaviAir,Cincinnati,París,6370.0,Airbus A380,,444.0,Sin incidencias
+Air_LoPa_10747,Airnar,Los Angeles,París,9099.0,Boeing 747,96995.34,626.0,Sin incidencias
+Mol_PaMe_10747,MoldaviAir,París,Melbourne,,Boeing 747,195142.8128,1328.0,Sin incidencias
+Mol_CaPa_11380,MoldaviAir,Cádiz,París,1447.0,Airbus A380,17730.9592,116.0,"Despresurización de la cabina,"
+Fly_BaNu_11320,FlyQ,Barcelona,Nueva York,6170.0,Airbus A320,16911.4764,567.0,"Problema en el sistema de entretenimiento,"
+Pam_GiPa_10747,PamPangea,Ginebra,París,411.0,Boeing 747,4687.948200000001,47.0,Sin incidencias
+Pam_MeGi_11380,PamPangea,Melbourne,GINeBrA,,Airbus A380,"218503,032384",1311.0,"Incidencias con el suministro de combustible,"
+Tab_NuGi_11380,TabarAir,Nueva York,Ginebra,6206.0,Airbus A380,71741.36,433.0,Aterrizaje de emergencia
+Tab_RoCi_11380,TabarAir,Roma,Cincinnati,7480.0,Airbus A380,91656.928,518.0,Sin incidencias
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,,Airbus A380,207242.1312,,Sin incidencias
+Tab_NuLo_10737,TabarAir,Nueva York,Los Angeles,3944.0,Boeing 737,10063.116,319.0,"Emergencia médica a bordo,"
+Mol_LoBa_10737,MoldaviAir,Londres,Bali,12553.0,Boeing 737,32675.659848,1153.0,Discusión a bordo
+Fly_GiRo_10747,FlyQ,Ginebra,Roma,698.0,Boeing 747,"8184,748000000001",66.0,Sin incidencias
+Fly_NuBa_11380,FlyQ,Nueva York,Bali,16589.0,Airbus A380,205422.781408,1305.0,Sin incidencias
+Pam_LoBa_10747,PamPangea,Londres,Bali,12553.0,Boeing 747,144520.1784,856.0,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 747,97037.98,,Turbulencia severa
+Air_CaPa_11380,Airnar,Cádiz,París,1447.0,Airbus A380,18232.7788,116.0,Problemas con el suministro de combustible
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,6969.0,Boeing 747,74289.54000000001,484.0,Sin incidencias
+Pam_LoMe_10747,PamPangea,Londres,Melbourne,16900.0,Boeing 747,194854.5664,1326.0,Sin incidencias
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,,Boeing 747,94584.581,605.0,Sin incidencias
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877.0,Boeing 747,,478.0,Sin incidencias
+Fly_NuRo_10747,FlyQ,Nueva York,Roma,6877.0,Boeing 747,,478.0,Problema de los sistemas de comunicación
+Pam_NuMe_11380,PamPangea,Nueva York,Melbourne,16082.0,Airbus A380,,1272.0,Sin incidencias
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,,Airbus A380,"144578,9548",845.0,Sin incidencias
+Mol_MeLo_11380,MoldaviAir,Melbourne,Londres,16900.0,Airbus A380,221464.6304,1326.0,Despresurización de la cabina
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029.0,Boeing 747,226490.495712,1535.0,Turbulencia severa y Problemas con las puertas o ventanas
+Pam_NuGi_11320,PamPangea,Nueva York,GiNEbra,6206.0,Airbus A320,17496.153792,569.0,Sambódromo a bordo
+Mol_LoPa_11380,MoldaviAir,Londres,París,344.0,Airbus A380,4294.771200000001,42.0,"Complicaciones con el suministro de combustible,"
+Pam_PaNu_10737,PamPangea,París,Nueva York,5835.0,Boeing 737,"14888,0025",463.0,Sin incidencias
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900.0,Boeing 737,43563.87360000001,1483.0,Problemas con las puertas o ventanas
+Mol_PaCa_11320,MoldaviAir,París,Cádiz,1447.0,Airbus A320,3704.6094,124.0,Problemas de navegación
+Mol_PaBa_10737,MoldaviAir,París,Bali,,Boeing 737,,1029.0,Emergencia médica a bordo
+Fly_RoBa_10737,FlyQ,Roma,Barcelona,859.0,Boeing 737,2108.2437,85.0,Complicaciones con las puertas o ventanas
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077.0,Boeing 747,"113866,0692",691.0,Sin incidencias
+Mol_CaMe_11380,MoldaviAir,Cádiz,MElbOUrnE,,Airbus A380,,1535.0,Fallo grave eléctrico general y Problemas de navegación
+Air_CiCa_11380,Airnar,Cincinnati,Cádiz,6624.0,Airbus A380,,461.0,Mal funcionamiento del tren de aterrizaje
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262.0,Boeing 747,,1217.0,Fallo grave de los sistemas de comunicación
+Mol_CiCa_11320,MoldaviAir,Cincinnati,Cádiz,6624.0,Airbus A320,18328.766976,,Sin incidencias
+Pam_GiNu_10737,PamPangea,Ginebra,Nueva York,6206.0,Boeing 737,15532.9974,491.0,Fallo del motor
+Mol_LoPa_11320,MoldaviAir,Londres,París,344.0,Airbus A320,906.612,44.0,Sin incidencias
+Tab_LoCi_11320,TabarAir,Londres,Cincinnati,6284.0,Airbus A320,17716.053888,575.0,Enfrentamiento a bordo
+Mol_CiLo_11380,MoldaviAir,Cincinnati,Londres,6284.0,Airbus A380,74822.33120000002,438.0,Sin incidencias
+Fly_CiBa_10747,FlyQ,Cincinnati,BaRCelONa,,Boeing 747,76419.19480000001,470.0,Inundación entre pasajeros
+Pam_BaGi_10737,PamPangea,Bali,GiNEBra,12383.0,Boeing 737,33484.91983200001,1140.0,Problema eléctrico general
+Tab_LoRo_10747,TabarAir,Los Angeles,Roma,10077.0,Boeing 747,"116014,4856",691.0,Sin incidencias
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,6877.0,Airbus A380,83473.02600000001,,Condiciones meteorológicas turbias
+Tab_CiNu_11320,TabarAir,Cincinnati,Nueva York,911.0,Airbus A320,2515.271,86.0,Turbulencia severa
+Fly_BaGi_11320,FlyQ,Barcelona,GInEBrA,660.0,Airbus A320,"1689,732",67.0,Sin incidencias
+Fly_BaBa_11380,FlyQ,Bali,BarcELONa,13058.0,Airbus A380,167977.694144,1070.0,Condiciones meteorológicas turbias
+Fly_BaNu_11380,FlyQ,Barcelona,Nueva York,6170.0,Airbus A380,,431.0,"Fallo del motor,"
+Fly_RoGi_11320,FlyQ,Roma,Ginebra,698.0,Airbus A320,1751.98,70.0,Sin incidencias
+Mol_BaLo_11380,MoldaviAir,Bali,Londres,,Airbus A380,145112.68,856.0,Sin incidencias
+Air_LoBa_10737,Airnar,Los Angeles,Bali,,Boeing 737,,1175.0,Sin incidencias
+Tab_RoLo_10737,TabarAir,Roma,Londres,1433.0,Boeing 737,3795.5871,128.0,Sin incidencias
+Fly_GiBa_10747,FlyQ,Ginebra,Barcelona,660.0,Boeing 747,7317.024,64.0,Emergencia médica a bordo
+Fly_CiRo_11320,FlyQ,Cincinnati,Roma,7480.0,Airbus A320,"20892,59744",,Sin incidencias
+Mol_LoCi_11320,MoldaviAir,Londres,Cincinnati,6284.0,Airbus A320,"17716,053888",,Sin incidencias
+Fly_BaBa_10747,FlyQ,Bali,Barcelona,13058.0,Boeing 747,"146213,873312",1070.0,Incidencias con el catering
+Tab_LoGi_11320,TabarAir,Londres,Ginebra,739.0,Airbus A320,"1873,4389",73.0,Sin incidencias
+Tab_LoLo_10737,TabarAir,Los Angeles,Londres,8785.0,Boeing 737,22841.87850000001,687.0,Ave impacta con el avión
+Fly_CiBa_11320,FlyQ,Cincinnati,Barcelona,6763.0,Airbus A320,17654.1352,610.0,Sin incidencias
+Mol_MeCa_10747,MoldaviAir,Melbourne,Cádiz,20029.0,Boeing 747,233151.98088,1535.0,Sin incidencias
+Air_GiCi_10747,Airnar,Ginebra,Cincinnati,,Boeing 747,78004.017,484.0,Sin incidencias
+Air_LoBa_10747,Airnar,Los Angeles,Bali,12845.0,Boeing 747,145252.90416,1056.0,Mal funcionamiento del tren de aterrizaje
+Air_PaCi_10737,Airnar,París,Cincinnati,6370.0,Boeing 737,15633.891,503.0,Sin incidencias
+Air_GiPa_11380,Airnar,Ginebra,París,411.0,Airbus A380,5226.276,47.0,Sin incidencias
+Fly_BaGi_10737,FlyQ,Bali,GINebra,12383.0,Boeing 737,34110.80618400001,,Despresurización de la cabina
+Mol_MeBa_10737,MoldaviAir,Melbourne,Bali,2779.0,Boeing 737,,231.0,Sin incidencias
+Tab_LoLo_11380,TabarAir,Los Angeles,Londres,8785.0,Airbus A380,105616.784,605.0,Emergencia médica a bordo
+Air_CaPa_11380,Airnar,Cádiz,París,1447.0,Airbus A380,18400.052,,Fallo del motor
+Air_PaLo_10737,Airnar,París,Los Angeles,,Boeing 737,22110.57,711.0,Condiciones meteorológicas malas
+Pam_PaMe_10747,PamPangea,París,Melbourne,16925.0,Boeing 747,"202648,3056",,Sin incidencias
+Mol_MeCa_11380,MoldaviAir,Melbourne,Cádiz,20029.0,Airbus A380,260060.3815680001,1535.0,Incidencias con el suministro de combustible
+Tab_RoLo_11380,TabarAir,Roma,Londres,1433.0,Airbus A380,17228.0992,115.0,Aterrizaje de emergencia
+Pam_LoPa_10737,PamPangea,Londres,París,344.0,Boeing 737,869.3568000000001,,Despresurización de la cabina
+Tab_RoLo_10737,TabarAir,Roma,Londres,1433.0,Boeing 737,3760.7652,128.0,Problemas con el suministro de combustible
+Pam_MePa_10747,PamPangea,Melbourne,París,16925.0,Boeing 747,,,Turbulencia severa
+Fly_CiRo_10747,FlyQ,Cincinnati,Roma,7480.0,Boeing 747,"79736,8",518.0,Sin incidencias
+Fly_CiBa_11320,FlyQ,Cincinnati,Barcelona,6763.0,Airbus A320,18360.300608,610.0,Aterrizaje de emergencia
+Tab_GiLo_10747,TabarAir,Ginebra,Los Angeles,9103.0,Boeing 747,98008.3598,626.0,Sin incidencias
+Mol_LoPa_11320,MoldaviAir,Londres,París,344.0,Airbus A320,906.612,44.0,Sin incidencias
+Mol_PaCi_11320,MoldaviAir,París,Cincinnati,6370.0,Airbus A320,17293.37792,581.0,Emergencia de los sistemas hidráulicos
+Fly_BaRo_10737,FlyQ,Barcelona,Roma,859.0,Boeing 737,,85.0,"Turbulencia severa,"
+Tab_CiRo_10737,TabarAir,Cincinnati,Roma,7480.0,Boeing 737,18721.692,588.0,"Emergencia médica a bordo,"
+Air_CaPa_11320,Airnar,Cádiz,París,1447.0,Airbus A320,3740.9291,124.0,Sin incidencias
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,,Boeing 737,,442.0,Mal funcionamiento del tren de aterrizaje
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383.0,Airbus A380,151736.3288,845.0,Sin incidencias
+Mol_CiLo_10747,MoldaviAir,Cincinnati,Londres,6284.0,Boeing 747,67657.3144,,Sin incidencias
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 737,38315.15719200001,1340.0,Sin incidencias
+Fly_CiGi_10737,FlyQ,Cincinnati,Ginebra,6969.0,Boeing 737,,549.0,Enfrentamiento entre pasajeros
+Mol_LoMe_10737,MoldaviAir,Londres,MElbouRnE,16900.0,Boeing 737,46126.4544,1483.0,Sin incidencias
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370.0,Airbus A380,81000.92,444.0,Sin incidencias
+Pam_BaGi_11380,PamPangea,Bali,Ginebra,12383.0,Airbus A380,154599.2784,845.0,Incidencia eléctrico general
+Fly_RoBa_10747,FlyQ,Roma,Bali,12738.0,Boeing 747,"149691,676992",1049.0,Sin incidencias
+Fly_RoBa_11380,FlyQ,Roma,Bali,12738.0,Airbus A380,150196.3056,869.0,Aterrizaje de emergencia
+Fly_BaCi_10737,FlyQ,Barcelona,Cincinnati,6763.0,Boeing 737,16762.7718,,"Fallo grave eléctrico general,"
+Pam_NuPa_11380,PamPangea,Nueva York,París,5835.0,Airbus A380,,409.0,Fallo de los sistemas hidráulicos
+Pam_GiMe_10747,PamPangea,Ginebra,Melbourne,16674.0,Boeing 747,199643.004288,1311.0,Sin incidencias
+Mol_CiBa_10737,MoldaviAir,Cincinnati,Bali,15011.0,Boeing 737,39453.23116800001,1340.0,Fallo del motor
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,,Boeing 737,52641.98035200001,1721.0,Incidencias con el catering y Incendio a bordo
+Fly_BaGi_11380,FlyQ,Bali,Ginebra,12383.0,Airbus A380,144578.9548,845.0,Complicaciones de navegación
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900.0,Boeing 737,"43136,7768",1483.0,Sin incidencias
+Tab_NuGi_10747,TabarAir,Nueva York,Ginebra,6206.0,Boeing 747,70786.87720000002,433.0,Ave impacta con el avión
+Tab_NuGi_11320,TabarAir,Nueva York,GiNeBra,6206.0,Airbus A320,17496.153792,,Sin incidencias
+Mol_BaLo_10747,MoldaviAir,Bali,Londres,12553.0,Boeing 747,137829.4294,856.0,"Fallo de los sistemas de comunicación,"
+Air_BaPa_10737,Airnar,Bali,París,11980.0,Boeing 737,,1029.0,Sin incidencias
+Mol_CaMe_10737,MoldaviAir,Cádiz,Melbourne,20029.0,Boeing 737,55679.01768000001,1721.0,Fallo de los sistemas hidráulicos y Fallo de los sistemas hidráulicos
+Fly_GiBa_10747,FlyQ,Ginebra,Barcelona,660.0,Boeing 747,7457.736000000001,64.0,Sambódromo a bordo
+Pam_LoMe_10747,PamPangea,Londres,Melbourne,,Boeing 747,"202348,9728",1326.0,Sin incidencias
+Tab_LoNu_11380,TabarAir,Los Angeles,Nueva York,3944.0,Airbus A380,48328.1984,,Fallo grave del motor
+Air_GiBa_11380,Airnar,Ginebra,Bali,12383.0,Airbus A380,147441.9044,845.0,Sambódromo a bordo
+Tab_LoRo_10737,TabarAir,Londres,Roma,1433.0,Boeing 737,3482.19,128.0,Condiciones meteorológicas malas y Ave impacta con el avión
+Air_GiBa_10737,Airnar,Ginebra,Bali,12383.0,Boeing 737,"31607,26077600001",,"Enfrentamiento a bordo,"
+Tab_LoCi_10747,TabarAir,Londres,Cincinnati,6284.0,Boeing 747,"71006,6864",438.0,Sin incidencias
+Pam_PaNu_10747,PamPangea,París,Nueva York,5835.0,Boeing 747,62823.111,409.0,Sin incidencias
+Mol_MeLo_10737,MoldaviAir,Melbourne,Londres,16900.0,Boeing 737,42709.68,1483.0,Condiciones meteorológicas ligeramente complejas
+Pam_NuPa_11320,PamPangea,Nueva York,París,5835.0,Airbus A320,16602.53556,542.0,Sin incidencias
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,,Boeing 747,194854.5664,,Emergencia grave de los sistemas de comunicación
+Pam_PaMe_11380,PamPangea,París,Melbourne,16925.0,Airbus A380,,1328.0,Sin incidencias
+Mol_CaCi_10737,MoldaviAir,Cádiz,Cincinnati,6624.0,Boeing 737,16418.2464,523.0,Sin incidencias
+Pam_PaBa_10747,PamPangea,París,Bali,11980.0,Boeing 747,137923.344,818.0,Sin incidencias
+Fly_NuBa_10737,FlyQ,Nueva York,Bali,,Boeing 737,42762.19521600001,1459.0,"Emergencia médica a bordo,"
+Tab_RoNu_10747,TabarAir,Roma,Nueva York,6877.0,Boeing 747,76974.26100000001,478.0,Sin incidencias
+Fly_BaNu_10737,FlyQ,Barcelona,Nueva York,6170.0,Boeing 737,16192.548,488.0,Fallo del motor
+Air_PaCa_10747,Airnar,París,Cádiz,1447.0,Boeing 747,15887.7706,116.0,Condiciones meteorológicas turbias
+Mol_CaCi_10747,MoldaviAir,Cádiz,Cincinnati,,Boeing 747,"74848,5504",461.0,Inundación a bordo
+Fly_BaRo_10747,FlyQ,Barcelona,Roma,859.0,Boeing 747,9706.3564,77.0,Sin incidencias
+Air_LoPa_11380,Airnar,Los Angeles,París,9099.0,Airbus A380,"110443,662",626.0,Sin incidencias
+Pam_LoPa_11320,PamPangea,Londres,París,344.0,Airbus A320,863.4399999999999,,Sin incidencias
+Tab_NuGi_10737,TabarAir,Nueva York,GInEBra,6206.0,Boeing 737,,491.0,Sin incidencias
+Air_CiLo_10737,Airnar,Cincinnati,Los Angeles,,Boeing 737,7990.107300000001,253.0,Incidencias con las puertas o ventanas
+Mol_CiMe_10747,MoldaviAir,Cincinnati,Melbourne,15262.0,Boeing 747,177660.66864,1217.0,Fallo del motor
+Mol_CiMe_11380,MoldaviAir,Cincinnati,MeLbOUrNE,15262.0,Airbus A380,201834.45568,1217.0,Sin incidencias
+Air_PaBa_10737,Airnar,París,Bali,11980.0,Boeing 737,33303.44160000001,1029.0,Discusión entre pasajeros
+Fly_BaCi_11380,FlyQ,Bali,Cincinnati,15011.0,Airbus A380,193101.023648,1200.0,Retraso extenso en la pista de despegue
+Fly_CiBa_10747,FlyQ,Cincinnati,Bali,15011.0,Boeing 747,"173074,668416",1200.0,Sin incidencias
+Fly_CiNu_10737,FlyQ,Cincinnati,Nueva York,911.0,Boeing 737,2280.1419,89.0,Sambódromo entre pasajeros
+Tab_LoRo_10747,TabarAir,Londres,Roma,1433.0,Boeing 747,,115.0,Sin incidencias
+Fly_BaBa_11380,FlyQ,Barcelona,Bali,13058.0,Airbus A380,166407.809152,1070.0,Sambódromo a bordo
+Tab_GiLo_10737,TabarAir,Ginebra,Londres,739.0,Boeing 737,1957.3893,76.0,Sin incidencias
+Tab_NuRo_11380,TabarAir,Nueva York,Roma,,Airbus A380,85857.96960000001,478.0,Sin incidencias
+Air_GiLo_11320,Airnar,Ginebra,Los Angeles,9103.0,Airbus A320,24950.59476,779.0,"Fallo grave eléctrico general,"
+Air_BaCa_10737,Airnar,Bali,Cádiz,12798.0,Boeing 737,35253.98510400001,,Sin incidencias
+Pam_PaBa_11380,PamPangea,París,Bali,11980.0,Airbus A380,"144028,352",818.0,Problemas con el suministro de combustible
+Air_BaGi_10747,Airnar,Bali,Ginebra,12383.0,Boeing 747,132002.78,845.0,Sin incidencias
+Tab_GiLo_10747,TabarAir,Ginebra,Londres,739.0,Boeing 747,8507.959200000001,69.0,"Emergencia grave eléctrico general,"
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,40498.63272,1359.0,Condiciones meteorológicas ligeramente complejas
+Air_CiLo_10737,Airnar,Cincinnati,Los Angeles,3073.0,Boeing 737,7691.411700000001,253.0,Sin incidencias
+Mol_PaCi_11320,MoldaviAir,París,Cincinnati,,Airbus A320,17459.6604,581.0,Retraso extenso en la pista de despegue
+Pam_LoNu_10737,PamPangea,Londres,Nueva York,5566.0,Boeing 737,,442.0,"Incidencias con el catering,"
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925.0,Airbus A380,205513.9112,1328.0,Sin incidencias
+Air_LoPa_10737,Airnar,Los Angeles,París,9099.0,Boeing 737,23658.3099,711.0,Ave impacta con el avión
+Tab_CiRo_10747,TabarAir,Cincinnati,Roma,7480.0,Boeing 747,,518.0,Sin incidencias
+Pam_PaLo_11320,PamPangea,París,Londres,344.0,Airbus A320,915.2464,44.0,Sin incidencias
+Air_BaPa_10747,Airnar,Bali,París,11980.0,Boeing 747,131538.004,,Problema de los sistemas de comunicación
+Fly_NuRo_11380,FlyQ,Nueva York,Roma,6877.0,Airbus A380,87447.93200000002,478.0,Incidencias de navegación y Fallo de los sistemas de comunicación
+Pam_NuGi_11380,PamPangea,Nueva York,Ginebra,6206.0,Airbus A380,76763.2552,433.0,Condiciones meteorológicas malas
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,40884.333984,1359.0,Incidencias de navegación
+Air_PaCa_11380,Airnar,París,Cádiz,1447.0,Airbus A380,18400.052,116.0,Emergencia médica a bordo y Incendio a bordo
+Mol_BaCi_10737,MoldaviAir,Bali,Cincinnati,15011.0,Boeing 737,38694.515184,1340.0,Mal funcionamiento del tren de aterrizaje
+Air_CiPa_11320,Airnar,Cincinnati,París,6370.0,Airbus A320,18291.0728,581.0,Aterrizaje de emergencia
+Mol_PaCi_11380,MoldaviAir,París,Cincinnati,6370.0,Airbus A380,79528.176,,Sin incidencias
+Pam_LoPa_11320,PamPangea,Londres,París,,Airbus A320,949.784,,Sin incidencias
+Air_CiPa_11380,Airnar,Cincinnati,París,6370.0,Airbus A380,,444.0,Sin incidencias
+Tab_LoLo_10747,TabarAir,Londres,Los Angeles,8785.0,Boeing 747,94584.581,605.0,Condiciones meteorológicas adversas
+Pam_MeGi_10737,PamPangea,Melbourne,Ginebra,16674.0,Boeing 737,43402.688784,1466.0,Aterrizaje de emergencia
+Pam_BaPa_10737,PamPangea,Bali,París,11980.0,Boeing 737,,1029.0,Sambódromo entre pasajeros
+Fly_NuGi_11380,FlyQ,Nueva York,Ginebra,6206.0,Airbus A380,75328.428,433.0,Sin incidencias
+Mol_MePa_11380,MoldaviAir,Melbourne,París,16925.0,Airbus A380,215687.8672,,Sin incidencias
+Air_BaPa_11380,Airnar,Bali,París,11980.0,Airbus A380,,818.0,Sin incidencias
+Air_LoCi_11320,Airnar,Los Angeles,Cincinnati,3073.0,Airbus A320,"8330,2884",242.0,Amenaza de seguridad a bordo
+Air_CiPa_11380,Airnar,Cincinnati,París,,Airbus A380,79528.176,444.0,Emergencia en el sistema de entretenimiento
+Tab_RoNu_11380,TabarAir,Roma,Nueva York,,Airbus A380,85062.98840000002,478.0,Turbulencia severa y Fallo eléctrico general
+Fly_BaBa_10737,FlyQ,Barcelona,Bali,13058.0,Boeing 737,33990.18292800001,1191.0,Turbulencia severa
+Tab_LoGi_10737,TabarAir,Londres,Ginebra,739.0,Boeing 737,1867.6008,,"Mal funcionamiento del tren de aterrizaje,"
+Tab_GiNu_10737,TabarAir,Ginebra,Nueva York,6206.0,Boeing 737,"15532,9974",491.0,Discusión a bordo
+Tab_LoNu_10737,TabarAir,Londres,Nueva York,5566.0,Boeing 737,13795.8876,442.0,Retraso extenso en la pista de despegue
+Pam_BaPa_11380,PamPangea,Bali,París,,Airbus A380,138488.8,818.0,Sin incidencias
+Air_PaCa_10747,Airnar,París,Cádiz,1447.0,Boeing 747,16504.7714,116.0,Condiciones meteorológicas turbias
+Mol_CaBa_11380,MoldaviAir,Cádiz,Bali,12798.0,Airbus A380,149424.3288,873.0,Problemas con el catering y Fallo de los sistemas de comunicación
+Air_CaCi_11320,Airnar,Cádiz,Cincinnati,6624.0,Airbus A320,18328.766976,,"Complicaciones con el suministro de combustible,"
+Air_CiGi_11320,Airnar,Cincinnati,Ginebra,6969.0,Airbus A320,19101.47148,624.0,Emergencia médica a bordo
+Pam_MeBa_10737,PamPangea,Melbourne,Bali,2779.0,Boeing 737,"7158,148200000001",231.0,Retraso extenso en la pista de despegue
+Mol_PaMe_10737,MoldaviAir,París,Melbourne,,Boeing 737,45766.96020000001,1485.0,Inundación a bordo
+Tab_LoCi_11380,TabarAir,Londres,Cincinnati,6284.0,Airbus A380,78454.48320000002,438.0,Condiciones meteorológicas turbias
+Mol_MeCi_10737,MoldaviAir,Melbourne,Cincinnati,15262.0,Boeing 737,"38955,827664",1359.0,Sin incidencias
+Pam_GiMe_10737,PamPangea,Ginebra,Melbourne,16674.0,Boeing 737,44245.45944000001,1466.0,Sin incidencias
+Air_GiBa_10747,Airnar,Ginebra,Bali,12383.0,Boeing 747,137282.8912,845.0,Enfrentamiento entre pasajeros
+Pam_LoNu_10747,PamPangea,Londres,Nueva York,5566.0,Boeing 747,"62300,238",391.0,Sin incidencias
+Mol_MeLo_10747,MoldaviAir,Melbourne,Londres,16900.0,Boeing 747,194854.5664,1326.0,Amenaza de seguridad a bordo
+Mol_BaPa_10747,MoldaviAir,Bali,París,11980.0,Boeing 747,128983.868,818.0,Condiciones meteorológicas turbias
+Air_CaCi_10747,Airnar,Cádiz,Cincinnati,6624.0,Boeing 747,72024.0768,461.0,Sin incidencias
+Air_PaCi_10737,Airnar,París,Cincinnati,6370.0,Boeing 737,"16872,219",503.0,Incidencia en el sistema de entretenimiento

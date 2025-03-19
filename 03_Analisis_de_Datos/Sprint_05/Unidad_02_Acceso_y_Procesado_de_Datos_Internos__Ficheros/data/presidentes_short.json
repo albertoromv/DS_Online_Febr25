@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "president": 1,
+    "nm": "George Washington",
+    "pp": "None, Federalist",
+    "tm": "1789-1797"
+  },
+  {
+    "id": 2,
+    "president": 2,
+    "nm": "John Adams",
+    "pp": "Federalist",
+    "tm": "1797-1801"
+  },
+  {
+    "id": 3,
+    "president": 3,
+    "nm": "Thomas Jefferson",
+    "pp": "Democratic-Republican",
+    "tm": "1801-1809"
+  }
+]
+  
