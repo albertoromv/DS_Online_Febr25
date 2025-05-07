@@ -7,6 +7,7 @@ credentials*
 **/*.ipynb_checkpoints/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/__pycache__/*
 01_Programacion_basica_y_Ramp-Up/Sprint_01/Unidad_02/.DS_Store
 01_Programacion_basica_y_Ramp-Up/Sprint_01/Unidad_01/.DS_Store
 01_Programacion_basica_y_Ramp-Up/Sprint_01/.DS_Store

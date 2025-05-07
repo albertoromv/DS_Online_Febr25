@@ -1,4 +1,4 @@
-![LogoTB](./img/logo.png)
+![LogoTB](logo.png)
 <!-- <img src="./img/LogoPL.png" alt="LogoPL" width="300"/> -->
 
 
